@@ -1,4 +1,5 @@
 collections:
   pta:
     output: true
-    order: []
+    order:
+      - PTA Constitution.md
