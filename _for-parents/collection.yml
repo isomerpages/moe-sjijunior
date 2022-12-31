@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Annual.md
       - Info Hub.md
       - Booklist 2023.md
       - Parent Handbook.md
