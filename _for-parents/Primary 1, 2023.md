@@ -44,7 +44,7 @@ Please register via this link [here](https://form.gov.sg/#!/633a771513cfcc0012c
 
   
 
-The zoom details will be provided to you upon confirmation of registration. You may refer to the [e-flyer](https://sjijunior-moe-edu-sg-admin.cwp.sg/qql/slot/u423/2021/for%20parents/Primary%201/Ready%20Get%20Set%20Go%20SJIJ.pdf) for more information.
+The zoom details will be provided to you upon confirmation of registration. You may refer to the [e-flyer](/files/Ready%20Get%20Set%20Go%20SJIJ.pdf) for more information.
 
   
 
