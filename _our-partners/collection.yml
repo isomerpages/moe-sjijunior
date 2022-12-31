@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Pro–Teach @ SJIJ Student Care Centre.md
       - School Book Shop.md
       - School Bus Service.md
       - School Uniform Supplier.md
