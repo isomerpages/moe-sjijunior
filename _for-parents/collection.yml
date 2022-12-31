@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Booklist 2023.md
       - Parent Handbook.md
       - IT Support.md
       - CCA Virtual Open House 2021.md
