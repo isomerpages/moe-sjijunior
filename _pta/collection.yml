@@ -1,0 +1,4 @@
+collections:
+  pta:
+    output: true
+    order: []
