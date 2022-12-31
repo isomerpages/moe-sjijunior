@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - School Book Shop.md
       - School Bus Service.md
       - School Uniform Supplier.md
