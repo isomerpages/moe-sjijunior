@@ -2,4 +2,5 @@ collections:
   alumni:
     output: true
     order:
+      - Membership & Booking of Facilities.md
       - Events.md
