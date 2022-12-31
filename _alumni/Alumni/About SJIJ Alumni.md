@@ -4,7 +4,7 @@ permalink: /alumni/alumni/about-alumni/
 description: ""
 third_nav_title: Alumni
 ---
-![Boys for the Boys Car Wash.jpeg](/imagesi/Boys%20for%20the%20Boys%20Car%20Wash.jpeg)  
+![Boys for the Boys Car Wash.jpeg](/images/Boys%20for%20the%20Boys%20Car%20Wash.jpeg)  
 
 ### Invitation to 6th Annual General Meeting, 13th April
 
