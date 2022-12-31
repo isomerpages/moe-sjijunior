@@ -2,5 +2,6 @@ collections:
   pta:
     output: true
     order:
+      - Parent–Teacher Association.md
       - Members.md
       - PTA Constitution.md
