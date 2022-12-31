@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Handbook.md
       - IT Support.md
       - CCA Virtual Open House 2021.md
       - Forms.md
