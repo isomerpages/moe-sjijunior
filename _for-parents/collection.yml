@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - CCA Virtual Open House 2021.md
       - Forms.md
       - HRN Submit.md
