@@ -45,3 +45,14 @@ Please attach this form when submitting the device
 
 For parents who like to apply for the subsidy please print the form below and pass it to the teacher by 17 November 2022.    
 [APPLICATION FOR SUBSIDY FOR E3 PROGRAMME 2022.pdf](/files/APPLICATION%20FOR%20SUBSIDY%20FOR%20E3%20PROGRAMME%202022.pdf)
+
+
+## [Parents Briefing 2023](/technology-integration-2023/parents-briefing-2023)
+
+## [Mobile Device Management (MDM) AT SJI JUNIOR](/technology-integration-2023/mobile-device-management-mdm-at-sji-junior)
+
+## [Other Resources](/technology-integration-2023/other-resources)
+
+## [MDM for Graduating Classes](/technology-integration-2023/mdm-for-graduating-classes)
+
+## [FAQ](/technology-integration-2023/faq)
