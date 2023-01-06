@@ -1,4 +1,5 @@
 collections:
   our-learning:
     output: true
-    order: []
+    order:
+      - Learning Gateway.md
