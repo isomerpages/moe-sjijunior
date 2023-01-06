@@ -2,4 +2,5 @@ collections:
   our-learning:
     output: true
     order:
+      - Co–Curricular Activities (CCA).md
       - Learning Gateway.md
