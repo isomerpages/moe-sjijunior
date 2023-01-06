@@ -4,14 +4,11 @@ title: St. Joseph's Institution Junior
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Enter to Learn, Learn to Serve
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -29,5 +26,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
