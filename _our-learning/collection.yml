@@ -2,5 +2,6 @@ collections:
   our-learning:
     output: true
     order:
+      - Character Development/.keep
       - Co–Curricular Activities (CCA).md
       - Learning Gateway.md
