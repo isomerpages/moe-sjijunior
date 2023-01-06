@@ -2,5 +2,6 @@ collections:
   technology-integration-2023:
     output: true
     order:
+      - Other Resources.md
       - MDM for Graduating Classes.md
       - FAQs.md
