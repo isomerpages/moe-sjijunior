@@ -2,6 +2,7 @@ collections:
   our-learning:
     output: true
     order:
+      - Teaching & Learning/Instructional Programme.md
       - Teaching & Learning/Technology Integration 2023.md
       - Teaching & Learning/.keep
       - Character Development/The Leader in Me.md
