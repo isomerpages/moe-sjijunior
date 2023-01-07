@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: OUR LEARNING
+    collection: our-learning
   - title: FOR PARENTS
     collection: for-parents
   - title: PTA
