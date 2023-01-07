@@ -2,5 +2,6 @@ collections:
   about-sji-junior:
     output: true
     order:
+      - PDPA.md
       - For Visitors.md
       - Contact Us.md
