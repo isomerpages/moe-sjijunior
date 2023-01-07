@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: about sji junior
+    collection: about-sji-junior
   - title: OUR LEARNING
     collection: our-learning
   - title: FOR PARENTS
