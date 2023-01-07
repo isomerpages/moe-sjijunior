@@ -3,3 +3,18 @@ title: The Christian Brothers
 permalink: /about-sji-junior/the-christian-brothers/
 description: ""
 ---
+<img src="/images/Our%20Christian%20Brothers.gif" align="left" style="width:50%;">
+
+
+Christian Brothers live in communities. Their community, usually of 5-10 people, is their home. In a family atmosphere, they share the small trials and triumphs of each day. In praying together, these men share their faith that Jesus is alive among us today. By living simple, single lifestyle, the Brothers try to embrace the Gospel value of loving and serving many people. They believe in people. They believed in each other.  
+  
+Jesus Christ left his home, his mother Mary and his workshop in Nazareth to teach the people; to prepare their minds and their hearts for the salvation he was to win for them on the Cross. In a very real sense, he was a ‘Teaching Brother’ for three years.  
+  
+The Baptist was sent to ‘prepare the way’ before Christ – ‘to make known to the people that salvation ‘is through Christ. It is the role of the Brothers to continue this noble work, and to help Christ grow mystically in his church.  
+  
+A Brother is a person who lives in a simple, Gospel-centred life in a celibate community. Just as people come in different colours, sizes and shapes, the Brothers come to the service of God with varies skills, talents and aptitudes. Teachers, architects, plumbers, nurses, carpenters, engineers, musicians, labourers, artists, psychologist, artisans, doctors, writers, farmers, secretaries - whatever the particular talent God has given, the Brother, make use of it in His service.  
+  
+Only the enthusiastic and resourceful need apply, for time is too precious to waste on those who come seeking comfort and security. Those who come to a religious Brother’s community must be men of faith, men of hope and, above all, men of love. Faith and hope are placed in Jesus, who so loved us that He became like us in all things except in sin. Life as a Brother guarantees challenge, service, commitment and the opportunity of becoming one of the world’s greatest lovers.  
+The present logo of the Brothers is a five-pointed and radiant star.This reminds them of the star of Bethlehem which led to the Wise Man of the East to Christ. For these Magi, it was as sign of their faith. In fact Signum Fidei is the motto of the Brothers.  
+  
+The star is to the Brothers a symbol of faith as Christians and their inspiration. It reminds them to reach always for the reachable star of their convictions and ideals. Through the centuries, the star of the Brothers has been depicted in various way according to prevailing design tastes.
