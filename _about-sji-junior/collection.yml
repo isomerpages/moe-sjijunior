@@ -2,6 +2,7 @@ collections:
   about-sji-junior:
     output: true
     order:
+      - School Song.md
       - Our Staff/Admin Staff.md
       - Our Staff/Appreciations 2022.md
       - Our Staff/.keep
