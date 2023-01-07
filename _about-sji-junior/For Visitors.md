@@ -8,7 +8,7 @@ description: ""
 
 As school is a professional institution, the dress code for visitors is to be strictly observed.  
   
-Appropriate Attire for Women |
+Appropriate Attire for Women 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -63,4 +63,4 @@ Visitors found in violation of this dress code may be asked to leave the school 
 
 ## Examples
 
- ![DRESSCODE.jpg](/images/DRESSCODE.jpg) 
+ ![DRESSCODE.jpg](/images/DRESSCODE.jpg)
