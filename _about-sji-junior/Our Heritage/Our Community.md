@@ -4,6 +4,8 @@ permalink: /about-sji-junior/our-heritage/permalink/our-community/
 description: ""
 third_nav_title: Our Heritage
 ---
+<p style="text-align: center"><strong>Our Staff Through the Years</strong></p>
+
 <p style="text-align: center"><strong>SMSAA</strong></p>
 
 A measure of the community established around a school is the fellowship and networks among the people who have been involved with the school: students and teachers both old and present, parent and other volunteers, neighbourhood partners and school staff. It is in these fellowships, formal and informal, that the strength of the school’s spirit, imbued within and carried by successive generations of students is maintained.  
@@ -54,5 +56,3 @@ On 23 March 2015, the St. Michael’s Soccer Association (SMSA) was formally gaz
 SMSA provides a structured, organised environment that focuses on the basic fundamentals of soccer, emphasising the importance of sportsmanship, discipline and life skills. It aims to let every child that participates in SMSA programmes experience life lessons that go far beyond the game of soccer.SMSA’s mission is to imbue children from families of all backgrounds with a sense of service and community, moulding them into “Men of Integrity and Men for Others”.  
   
 It is also the hope that through the beautiful game of soccer, all 3 Josephian schools will grow closer together as one family.
-
- 
