@@ -2,7 +2,7 @@
 layout: homepage
 title: St. Joseph's Institution Junior
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/sjij.png
 permalink: /
 notification: ""
 sections:
@@ -16,3 +16,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
