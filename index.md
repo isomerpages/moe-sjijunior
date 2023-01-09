@@ -18,7 +18,7 @@ sections:
   - infobar:
       description: <iframe
         src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=189&amp;wkst=2&amp;bgcolor=%23125A12&amp;src=moe.edu.sg_nient3i8q2c6bgphb4jvo8h2c0%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=Asia%2FSingapore"
-        style=" border-width:0;background-color:transparent;" width="250"
-        height="200" frameborder="0" scrolling="no" allowtransparency="true"
+        style=" border-width:0;background-color:transparent;" width="350"
+        height="400" frameborder="0" scrolling="no" allowtransparency="true"
         contenteditable="false"></iframe>
 ---
