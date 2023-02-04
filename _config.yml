@@ -3,7 +3,7 @@ url: https://sjijunior.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#385d0a"
-  secondary-color: "#adaeaf"
+  secondary-color: "#cbab08"
   media-colors:
     - title: media-color-one
       color: "#49759a"
