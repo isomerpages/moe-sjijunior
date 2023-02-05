@@ -6,7 +6,7 @@ description: ""
 ## Homecoming Dinner
 
 
-![image004.jpg](https://sjijunior.moe.edu.sg/qql/slot/u423/2019/Alumni/Events/image004.jpg)
+![image004.jpg](/images/image004.jpg)
 
 ## Boys for the Boys SJI Junior Charity Car Wash
 
@@ -105,7 +105,4 @@ Alumni teams from SMSAA, De La Salle School Alumni Association, St Anthony's Pri
 
 ![thanksgiving e-poster_final.jpg](/images/thanksgivingeposterfinal.jpg)
 
-Calling Old Boys! Please give your support to the event and RSVP!  
-  
-  
-  
+Calling Old Boys! Please give your support to the event and RSVP!
