@@ -25,7 +25,7 @@ SMSAA Notice of AGM 2019
 
 ![Dare to Play 3 poster 2017.jpg](/images/Dare%20to%20Play%203%20poster%202017.jpg)
 
-[DTP 3 Registration Form 2017.pdf](https://sjijunior.moe.edu.sg/qql/slot/u423/2019/Alumni/Alumni/DTP%203%20Registration%20Form%202017.pdf)  
+[DTP 3 Registration Form 2017.pdf](/files/DTP%203%20Registration%20Form%202017.pdf)  
 
   
 ![carwash1.jpg](/images/carwash1.jpg)  
