@@ -16,19 +16,19 @@ Please take note that the consequences listed below will be carried out after te
 
   
 
-School Hours
+## School Hours
 
 The school hours from Monday to Friday are from 7.30am to 1.30pm. Pupils are to report for assembly in the School Hall/ classroom by 7.20am.
 
 Consequence: The names of latecomers will be recorded and consistent latecomers will be issued a verbal then written warning.
 
-Permission To Leave School During School Hours
+## Permission To Leave School During School Hours
 
 Students, who are unwell or with other valid reasons, are allowed to leave school before the official dismissal time. Students need to be accompanied by an adult. Students will not be allowed to go home early on their own.
 
 Pupils must stay within the school premises if they are attending any form of enrichment, remedial or CCA after school hours. They are not allowed to head out of school premises for their meals.
 
-Absence From School
+## Absence From School
 
   
 
@@ -62,7 +62,7 @@ Consequence: Pupils may face in-house suspension if found guilty of truancy.
 
   
 
-Visitors To School
+## Visitors To School
 
 ·         All visitors must enter/exit the school via the main gate (kindly note main gate opening hours).
 
@@ -74,7 +74,7 @@ Visitors To School
 
 ·         Parents/guardians taking their child out of school before dismissal time must obtain an early release form at the General Office to be handed over to the Security Officer before exiting.
 
-General Behaviour
+## General Behaviour
 
 Pupils have to complete work assigned including class work, homework, corrections, project work etc. by the given deadline. Parents are encouraged to monitor their child’s homework via the student diary.
 
@@ -92,9 +92,9 @@ Pupils are only allowed to use their mobile phone to contact parents/guardian af
 
 Consequence: If the mobile phone is used for any other purpose, it will be confiscated.
 
-General Appearance
+## General Appearance
 
-Hairstyle
+**Hairstyle**
 
 ·         The hair length must not touch the ears and the shirt collar.
 
@@ -112,7 +112,7 @@ Uniform
 
 ·         Pupils must wear their school tie every morning for assembly. Shirt collars must be buttoned when ties are worn. Ties can be removed once they are in class. However, on days when they have PE, they can come to school in their PE attire.
 
-PE Attire
+**PE Attire**
 
 ·         The PE attire consists of the school PE T-shirt and shorts. Name tag should be sewn onto the school PE T-shirt.
 
@@ -120,7 +120,7 @@ PE Attire
 
 ·         Pupils may wear PE or approved school T-shirts when coming to school on CCA days, Saturdays and during the holidays. They are not allowed to wear slippers or sandals to school, even during school holidays. Any pupil not in proper attire will be sent home.
 
-Shoes and Socks
+**Shoes and Socks**
 
 ·         Only school socks or plain white socks covering the ankles are allowed.
 
@@ -132,7 +132,7 @@ Finger-Nails
 
 Consequence: Pupils whose appearance is deemed inappropriate by the school will be issued a verbal or written warning.
 
-Behaviour in the School Bus
+**Behaviour in the School Bus**
 
 ·         Pupils must wear their seatbelts at all times in the school bus/ van.
 
@@ -144,7 +144,7 @@ Consequence: Pupils who violate the above rules or found misbehaving in any mann
 
   
 
-Recess
+**Recess**
 
 ·         Always queue for food, drinks and other services. Food and drink must be consumed only in the canteen.
 
@@ -156,11 +156,11 @@ Recess
 
   
 
-Penknife Safety Guidelines
+**Penknife Safety Guidelines**
 
 At no point should a student be given access to sharp-pointed/sharp-edged tools/equipment unless issued and supervised by a teacher during art lessons. All issued tools/equipment should be collected and accounted for after use. Students should not possess any personal sharp-pointed/sharp-edged tools (e.g. penknife).
 
-Miscellaneous
+**Miscellaneous**
 
 ·         The wearing of tinted glasses is not allowed. Trendy spectacle frames are strongly discouraged.
 
@@ -174,9 +174,9 @@ Miscellaneous
 
 ·         The school should not be held responsible for the loss or theft of mobile phones.
 
-Conduct During An Examination
+## Conduct During An Examination
 
-Students are to:
+**Students are to:**
 
 ·         Place all bags and books/notes outside or behind the classroom as instructed by the teacher.
 
@@ -202,7 +202,7 @@ Students are to:
 
 Disciplinary action will be taken against any student proven cheating during tests/ examinations and checking of scripts. The school takes a serious stand against cheating of any form.
 
-School Property
+## School Property
 
 ·         Handle all school property with care. Do not misuse or vandalise school property or facilities provided for students’ benefit.
 
@@ -218,6 +218,6 @@ School Property
 
 Consequence: Pupils found guilty of vandalism will have to replace the item or pay the equivalent cost of it. In some cases, they may be asked to do Corrective Work Order.
 
-Disciplinary Actions
+## Disciplinary Actions
 
 The students’ offences will be recorded into a school system by the teachers and monitored by the Discipline Committee members. For repeated offenders, the teacher will refer the student to the Discipline committee for further action.
