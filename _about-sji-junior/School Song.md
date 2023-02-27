@@ -82,9 +82,3 @@ Sons of St Joseph’s
 valiant and true!
 
 
-
-
-<p align="center"> <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsjijunior%2F&amp;tabs=timeline&amp;width=400&amp;height=300&amp;small\_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId=443516015729010" allow="encrypted-media" frameborder="0" scrolling="no" style="border: none; overflow: hidden; width: 100%; margin: 0 auto;" height="500" width="600"></iframe> </p>
-
-<iframe allow="encrypted-media" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" height="500" width="100%" src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&width=600&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435"></iframe>
-
