@@ -10,10 +10,12 @@ sections:
       title: Enter to Learn, Learn to Serve
       background: /images/hero-banner.png
   - infobar:
-      description: '<center><iframe width="600" height="500"         style="border:
-        none; overflow: hidden; width: 100%;"
-        scrolling="no"         frameborder="0" allowtransparency="true"
-        allow="encrypted-media"         contenteditable="false"         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsjijunior%2F&amp;tabs=timeline&amp;width=400&amp;height=300&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId=443516015729010"></iframe></center>'
+      description: <iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsjijunior%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=6052908834755363"
+        width="340" height="500" style="border:none;overflow:hidden"
+        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+        clipboard-write; encrypted-media; picture-in-picture;
+        web-share"></iframe>
       title: Visit us on Facebook!
   - infobar:
       description: <iframe
