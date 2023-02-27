@@ -20,4 +20,6 @@ sections:
         height="500"         style="border: none; overflow: hidden; width:
         100%;" scrolling="no"         frameborder="0" allowtransparency="true"
         allow="encrypted-media"         contenteditable="false"         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsjijunior%2F&amp;tabs=timeline&amp;width=400&amp;height=300&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId=443516015729010"></iframe></p>'
+      subtitle: Our Facebook
+      title: Visit Us On Facebook!
 ---
