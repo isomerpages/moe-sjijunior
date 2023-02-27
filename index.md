@@ -12,7 +12,7 @@ sections:
   - infobar:
       title: Visit us on Facebook!
       description: '<div style="display: flex; justify-content: center;">   <iframe
-        width="600" height="500" style="border: none; overflow: hidden; width:
+        width="350" height="400" style="border: none; overflow: hidden; width:
         100%;" scrolling="no" frameborder="0" allowtransparency="true"
         allow="encrypted-media" contenteditable="false"
         src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsjijunior%2F&amp;tabs=timeline&amp;width=400&amp;height=300&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId=443516015729010"></iframe>
