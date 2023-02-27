@@ -10,7 +10,6 @@ sections:
       title: Enter to Learn, Learn to Serve
       background: /images/hero-banner.png
   - infobar:
-      title: Visit us on Facebook!
       description: '<p style="text-align: center;"><iframe width="600"
         height="500"         style="border: none; overflow: hidden; width:
         100%;" scrolling="no"         frameborder="0" allowtransparency="true"
