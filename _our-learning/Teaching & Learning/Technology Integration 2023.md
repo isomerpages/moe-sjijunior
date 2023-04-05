@@ -2,24 +2,24 @@
 title: Technology Integration 2023
 permalink: /our-learning/teaching-and-learning/technology-integration-2023/
 description: ""
-third_nav_title: Teaching & Learning
+third_nav_title: Teaching &amp; Learning
 ---
-Learning is a tradition in SJI Junior, and one of our dream at SJI Junior is to develop every Josephian achieve their highest potential, with the spirit of creativity and innovation is one of our main drivers.
+Learning is a tradition in SJI Junior, and one of our dreams at SJI Junior is to develop every Josephian achieve their highest potential, with the spirit of creativity and innovation is one of our main drivers.
 
-Recognising the potential of how technology can bring about a richer teaching and learning experience, SJI Junior has embarked on a 1:1 computing learning experience, E3 Programme, in 2014. From 2014 to 2017, the E3 Programme was an opt-in programme that was available to Primary 4 to Primary 6 pupils, and it has been a received overwhelming support from parents.  For the last two years, the whole level are currently on this programme.
+Recognising the potential of how technology can bring about a richer teaching and learning experience, SJI Junior has embarked on a 1:1 computing learning experience, E3&nbsp;Programme, in 2014. From 2014 to 2017, the E3&nbsp;Programme was an opt-in programme that was available to Primary 4 to Primary 6 pupils, and it has been a received overwhelming support from parents.&nbsp; For the last two years, the whole level are currently on this programme.
 
 ![P4 Technology vision.jpg](/images/P4%20Technology%20vision.jpg)
 
-Today, about 720 students at SJI Junior own a personal learning device for their daily learning, and this number will grow as the benefits of technology integration presents greater opportunities for our students to collaborate, problem-solve, research, and create. We believe these learning experiences will give an advantage to our students' future.   
+Today, about 720 students at SJI Junior own a personal learning device for their daily learning, and this number will grow as the benefits of technology integration presents greater opportunities for our students to collaborate, problem-solve, research, and create. We believe these learning experiences will give an advantage to our students' future.&nbsp;  
   
-For all the students in the E3 Programme, they can tap on the campus-wide wireless network that allows staff and students to be connected wirelessly for greater collaboration and communication. All classes that are  are also fitted with personal lockers so as to provide greater security to the students' devices. 
+For all the students in the E3&nbsp;Programme, they can tap on the campus-wide wireless network that allows staff and students to be connected wirelessly for greater collaboration and communication. All classes that are &nbsp;are also fitted with personal lockers so as to provide greater security to the students' devices.&nbsp;
 
 **ROLLOUT FOR STUDENTS WHO ARE IN P3 (2022)**  
 In view of the current situation COVID-19 situation here, all the information regarding the integration of technology for the Primary 4s will be put online as we are not able to gather in school. The school will also be providing information on procurement of the devices, a compulsory parent-child cyberwellness programme as well as a list of the dates that you may want to mark out on so that you do not miss out on any key milestones.  
   
 A letter to parents have been issued here and you can refer to the timeline to take note of the next steps to take.  
   
-You can also refer to the guide here as well for your reference.   
+You can also refer to the&nbsp;guide here as well for your reference.&nbsp;  
   
 [E3 Parents Information Booklet\_2022.pdf](/files/E3%20Parents%20Information%20Booklet_2022.pdf)  
   
@@ -37,13 +37,13 @@ Please do this before submitting your device
 [Reset to Factory Setting MDM](/files/Reset%20to%20Factory%20Setting%20MDM%2026th%20Jan.pdf)  
   
 Please attach this form when submitting the device  
-[MDM Declaration Form for P4](/files/MDM%20Declaration%20Form%20for%20P4%202020%20blank.pdf)   
+[MDM Declaration Form for P4](/files/MDM%20Declaration%20Form%20for%20P4%202020%20blank.pdf)&nbsp;  
   
 
 ### Subsidy Form
 
 
-For parents who like to apply for the subsidy please print the form below and pass it to the teacher by 17 November 2022.    
+For parents who like to apply for the subsidy please print the form below and pass it to the teacher by 17 November 2022.&nbsp;&nbsp;  
 [APPLICATION FOR SUBSIDY FOR E3 PROGRAMME 2022.pdf](/files/APPLICATION%20FOR%20SUBSIDY%20FOR%20E3%20PROGRAMME%202022.pdf)
 
 
