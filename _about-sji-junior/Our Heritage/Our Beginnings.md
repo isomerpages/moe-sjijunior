@@ -9,11 +9,11 @@ third_nav_title: Our Heritage
 In the beginning....  
   
 
-Significant events in the life of the Founder - St John Baptist De La Salle 
+Significant events in the life of the Founder - St John Baptist De La Salle&nbsp;
 
-“To touch the hearts of your students is the 
+“To touch the hearts of your students is the&nbsp;
 
-greatest miracle you can perform.” (Med 139.3 
+greatest miracle you can perform.” (Med 139.3&nbsp;
 
 – feast of St Peter)1
 
@@ -51,10 +51,5 @@ Alma Mater’s Call is an adaptation of O’Donnell Abu. The lyrics were written
 The original version of Alma Mater’s Call has four verses.
 
 ![](/images/almamater.png)
-
-
-<p style="text-align: center"><strong>History of St. Michael's School</strong></p>
-
-blank page on school website
 
 
