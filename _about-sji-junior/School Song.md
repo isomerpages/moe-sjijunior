@@ -3,82 +3,11 @@ title: School Song
 permalink: /about-sji-junior/school-song/
 description: ""
 ---
-All through our college,  
-
-a voice is resounding,
-
-Promptly respond to your
-
-duty’s sweet call.
-
-  
-
-Harken you all for the
-
-trumpet is sounding,
-
-Your Mater’s proclaiming
-
-her watchword to all.
-
-  
-
-Forward her children dear,
-
-ever with hearts sincere,
-
-Render with joy to your
-
-Mater her due.
-
-  
-
-All that is vile reject,
-
-heaven will e’er protect
-
-Sons of St Joseph’s
-
-valiant and true!
-
-  
-
-Onward and upward in
-
-life’s earnest battle,
-
-Joyously bearing the
-
-brunt of the fight.
-
-  
-
-Nobly forgiving,
-
-for all that may pain you,
-
-And bravely defending
-
-the cause of the right.
-
-  
-
-Forward her children dear,
-
-ever with hearts sincere,
-
-Render with joy to your
-
-Mater her due.
-
-  
-
-All that is vile reject,
-
-heaven will e’er protect
-
-Sons of St Joseph’s
-
-valiant and true!
-
-
+<p>All through our college,<br>a voice is resounding,<br>Promptly respond to your<br>duty’s sweet call.</p>
+<p>Harken you all for the<br>trumpet is sounding,<br>Your Mater’s proclaiming<br>her watchword to all.</p>
+<p>Forward her children dear,<br>ever with hearts sincere,<br>Render with joy to your<br>Mater her due.</p>
+<p>All that is vile reject,<br>heaven will e’er protect<br>Sons of St Joseph’s<br>valiant and true!</p>
+<p>Onward and upward in<br>life’s earnest battle,<br>Joyously bearing the<br>brunt of the fight.</p>
+<p>Nobly forgiving,<br>for all that may pain you,<br>And bravely defending<br>the cause of the right.</p>
+<p>Forward her children dear,<br>ever with hearts sincere,<br>Render with joy to your<br>Mater her due.</p>
+<p>All that is vile reject,<br>heaven will e’er protect<br>Sons of St Joseph’s<br>valiant and true!</p>
