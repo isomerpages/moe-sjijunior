@@ -2,6 +2,7 @@ collections:
   about-sji-junior:
     output: true
     order:
+      - Our Heritage.md
       - Our Heritage/Our Beginnings.md
       - Our Heritage/Our Boys.md
       - Our Heritage/Our Community.md
