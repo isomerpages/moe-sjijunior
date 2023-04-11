@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Heritage.md
-      - Our Heritage/.keep
       - Principal's Message.md
       - Our Founder.md
       - Our Crest.md
