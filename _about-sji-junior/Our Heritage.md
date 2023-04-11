@@ -12,8 +12,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h3 style="text-align: center;"><strong>Our Heritage</strong></h3>
-<h4 style="text-align: center;"><strong>The Glorious Legacy of Michaelians &amp; Junior Josephians</strong></h4>
+<h3 style="text-align: center;"><strong>Our Heritage</strong></h3><strong>
+<h4 style="text-align: center;"><strong>The Glorious Legacy of Michaelians &amp; Junior Josephians</strong></h4><strong>
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
@@ -24,4 +24,4 @@ description: ""
 <td style="width: 20%;"><a href="/about-sji-junior/our-heritage/our-present/a-new-era"><img src="/images/heritage5.png"></a></td>
 </tr>
 </tbody>
-</table>
+</table></strong></strong>
