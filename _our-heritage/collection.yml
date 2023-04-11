@@ -2,5 +2,6 @@ collections:
   our-heritage:
     output: true
     order:
+      - Our Community.md
       - Our Boys.md
       - Our Beginnings.md
