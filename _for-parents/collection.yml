@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Primary 1, 2023/Parenting Webinar.md
-      - Primary 1, 2023/Primary 1, 2023.md
       - Primary 1, 2023/.keep
+      - Primary 1, 2023/Primary 1, 2023.md
+      - Primary 1, 2023/Parenting Webinar.md
       - Traffic Guidelines.md
       - School Rules.md
       - Admission.md
