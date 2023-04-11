@@ -2,7 +2,7 @@
 title: Technology Integration 2023
 permalink: /our-learning/teaching-and-learning/technology-integration-2023/
 description: ""
-third_nav_title: Teaching &amp; Learning
+third_nav_title: Teaching & Learning
 ---
 Learning is a tradition in SJI Junior, and one of our dreams at SJI Junior is to develop every Josephian achieve their highest potential, with the spirit of creativity and innovation is one of our main drivers.
 
