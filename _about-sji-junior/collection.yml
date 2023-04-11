@@ -2,8 +2,6 @@ collections:
   about-sji-junior:
     output: true
     order:
-      - Terms of Use.md
-      - Privacy Policy.md
       - Our Heritage.md
       - Principal's Message.md
       - Our Founder.md
@@ -11,12 +9,14 @@ collections:
       - Our Mission & Vision.md
       - The Christian Brothers.md
       - School Song.md
+      - Our Staff/.keep
       - Our Staff/Staff 2023.md
       - Our Staff/Admin Staff.md
-      - Our Staff/.keep
       - School Calendar.md
       - Financial Statement.md
       - Giving to SJI Junior.md
+      - Privacy Policy.md
+      - Terms of Use.md
       - PDPA.md
       - For Visitors.md
       - Contact Us.md
