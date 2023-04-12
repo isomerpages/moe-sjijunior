@@ -2,18 +2,18 @@ collections:
   our-learning:
     output: true
     order:
-      - Co–Curricular Activities (CCA)/Co–Curricular Activities (CCA).md
-      - Co–Curricular Activities (CCA)/.keep
       - Our Learning.md
       - Teaching & Learning/.keep
       - Teaching & Learning/Instructional Programme.md
       - Teaching & Learning/ALP (Applied Learning Program).md
       - Teaching & Learning/Technology Integration 2023.md
+      - Character Development/.keep
       - Character Development/The Leader in Me.md
       - Character Development/Caught Doing Good.md
       - Character Development/LLP:SERVE (Sports Experiences Reinforcing Values
         Education) @ SJI Junior.md
       - Character Development/Living Well Programme.md
       - Character Development/Growing Years.md
-      - Character Development/.keep
+      - Co–Curricular Activities (CCA)/.keep
+      - Co–Curricular Activities (CCA)/Co–Curricular Activities (CCA).md
       - Learning Gateway.md
