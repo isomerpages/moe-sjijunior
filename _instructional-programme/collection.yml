@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Mathematics Department.md
       - Science Department.md
       - Mother Tongue.md
       - Physical Education, Art & Music.md
