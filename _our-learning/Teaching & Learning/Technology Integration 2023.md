@@ -4,6 +4,27 @@ permalink: /our-learning/teaching-and-learning/technology-integration-2023/
 description: ""
 third_nav_title: Teaching &amp; Learning
 ---
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 20%;"><img src="/images/e3logo.png"></td>
+<td style="width: 80%;">
+<p>Learning is a tradition in SJI Junior, and one of our dream at SJI Junior is to develop every Josephian achieve their highest potential, with the spirit of creativity and innovation is one of our main drivers.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Recognising the potential of how technology can bring about a richer teaching and learning experience, SJI Junior has embarked on a 1:1 computing learning experience, E<sup>3</sup>&nbsp;Programme, in 2014. From 2014 to 2017, the E<sup>3</sup>&nbsp;Programme was an opt-in programme that was available to Primary 4 to Primary 6 pupils, and it has been a received overwhelming support from parents.&nbsp; For the last two years, the whole level are currently on this programme.</p>
+<img src="/images/p4technology.jpg" style="width: 80%;">
+<p>Today, about 720 students at SJI Junior own a personal learning device for their daily learning, and this number will grow as the benefits of technology integration presents greater opportunities for our students to collaborate, problem-solve, research, and create. We believe these learning experiences will give an advantage to our students' future.</p>
+<p>For all the students in the E<sup>3</sup> Programme, they can tap on the campus-wide wireless network that allows staff and students to be connected wirelessly for greater collaboration and communication. All classes that are are also fitted with personal lockers so as to provide greater security to the students' devices.</p>
+<p><strong>ROLLOUT FOR STUDENTS WHO ARE IN P3 (2022)</strong></p>
+<p>In view of the current situation COVID-19 situation here, all the information regarding the integration of technology for the Primary 4s will be put online as we are not able to gather in school. The school will also be providing information on procurement of the devices, a compulsory parent-child cyberwellness programme as well as a list of the dates that you may want to mark out on so that you do not miss out on any key milestones.</p>
+<p>A letter to parents have been issued here and you can refer to the timeline to take note of the next steps to take.</p>
+<p>You can also refer to the guide here as well for your reference.</p>
+<p><a href="/files/E3%20Parents%20Information%20Booklet_2022.pdf">E3 Parents Information Booklet_2022.pdf</a></p>
+<p><a href="/files/2022%20E3%20Programme%20Infokit.pdf">2022 E3 Programme Infokit.pdf</a></p>
+<p><a href="/files/Touch%20Cyberwellness%202022%20poster.pdf">Touch Cyberwellness 2022 poster.pdf</a></p>
 <table width="677">
 <tbody>
 <tr>
