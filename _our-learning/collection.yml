@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Our Learning.md
-      - Teaching & Learning/ALP (Applied Learning Program).md
-      - Teaching & Learning/Instructional Programme.md
-      - Teaching & Learning/Technology Integration 2023.md
       - Teaching & Learning/.keep
+      - Teaching & Learning/Instructional Programme.md
+      - Teaching & Learning/ALP (Applied Learning Program).md
+      - Teaching & Learning/Technology Integration 2023.md
       - Character Development/The Leader in Me.md
       - Character Development/Caught Doing Good.md
       - Character Development/LLP:SERVE (Sports Experiences Reinforcing Values
