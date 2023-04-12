@@ -139,7 +139,7 @@ third_nav_title: Teaching &amp; Learning
 <h4><strong>Subsites</strong></h4>
 <ul>
 <li><a href="/our-learning/teaching-n-learning/technology-integration-2023/parents-briefing-2023">Parents Briefing 2023</a></li>
-<li><a href="/our-learning/teaching-n-learning/technology-integration-2023/mobile-device-management-mdm-at-sji-junior">Mobile Device Management (MDM) AT SJI JUNIOR</a></li>
+<li><a href="/our-learning/teaching-n-learning/technology-integration-2023/mobile-device-management-mdm-at-sji-j">Mobile Device Management (MDM) AT SJI JUNIOR</a></li>
 <li><a href="/our-learning/teaching-n-learning/technology-integration-2023/other-resources">Other Resources</a></li>
 <li><a href="/our-learning/teaching-n-learning/technology-integration-2023/mdm-for-graduating-classes">MDM for Graduating Classes</a></li>
 <li><a href="/our-learning/teaching-n-learning/technology-integration-2023/faq-1">FAQ</a></li>
