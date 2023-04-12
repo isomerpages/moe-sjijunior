@@ -2,4 +2,5 @@ collections:
   our-heritage:
     output: true
     order:
+      - Our Present/A New Era.md
       - Our Present/.keep
