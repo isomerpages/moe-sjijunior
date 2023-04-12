@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Learning.md
+      - Teaching & Learning/ALP (Applied Learning Program).md
       - Teaching & Learning/Instructional Programme.md
       - Teaching & Learning/Technology Integration 2023.md
       - Teaching & Learning/.keep
