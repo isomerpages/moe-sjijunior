@@ -110,4 +110,8 @@ third_nav_title: Teaching &amp; Learning
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<h4><strong>Buying your iPad from other sources: Setting and Submitting your devices for MDM and submitting to school. Deadline to submit: 10th to 14th January 2023</strong></h4>
+<p>Please do this before submitting your device<br><a rel="noopener" target="_blank" href="/files/Reset%20to%20Factory%20Setting%20MDM%2026th%20Jan.pdf">Reset to Factory Setting MDM</a></p>
+<p>Please attach this form when submitting the device<br><a rel="noopener" target="_blank" href="/files/MDM%20Declaration%20Form%20for%20P4%202020%20blank.pdf">MDM Declaration Form for P4&nbsp;</a></p>
+<h4><strong>Subsidy Form</strong></h4>
+<p>For parents who like to apply for the subsidy please print the form below and pass it to the teacher by 17 November 2022.<br><a href="/files/APPLICATION%20FOR%20SUBSIDY%20FOR%20E3%20PROGRAMME%202022.pdf">APPLICATION FOR SUBSIDY FOR E3 PROGRAMME 2022.pdf</a></p>
