@@ -2,6 +2,7 @@ collections:
   our-heritage:
     output: true
     order:
+      - Our School Days/Service to Others.md
       - Our School Days/Sports.md
       - Our School Days/Memorable Moments.md
       - Our School Days/School Activities.md
