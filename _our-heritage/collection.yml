@@ -2,6 +2,7 @@ collections:
   our-heritage:
     output: true
     order:
+      - Our School Days/.keep
       - Our Present/60th Anniversary.md
       - Our Present/A New Era.md
       - Our Present/.keep
