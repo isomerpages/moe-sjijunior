@@ -136,3 +136,11 @@ third_nav_title: Teaching &amp; Learning
 <p>Please attach this form when submitting the device<br><a rel="noopener" target="_blank" href="/files/MDM%20Declaration%20Form%20for%20P4%202020%20blank.pdf">MDM Declaration Form for P4&nbsp;</a></p>
 <h4><strong>Subsidy Form</strong></h4>
 <p>For parents who like to apply for the subsidy please print the form below and pass it to the teacher by 17 November 2022.<br><a href="/files/APPLICATION%20FOR%20SUBSIDY%20FOR%20E3%20PROGRAMME%202022.pdf">APPLICATION FOR SUBSIDY FOR E3 PROGRAMME 2022.pdf</a></p>
+<h4><strong>Subsites</strong></h4>
+<ul>
+<li><a href="/our-learning/teaching-n-learning/technology-integration-2023/parents-briefing-2023">Parents Briefing 2023</a></li>
+<li><a href="/our-learning/teaching-n-learning/technology-integration-2023/mobile-device-management-mdm-at-sji-junior">Mobile Device Management (MDM) AT SJI JUNIOR</a></li>
+<li><a href="/our-learning/teaching-n-learning/technology-integration-2023/other-resources">Other Resources</a></li>
+<li><a href="/our-learning/teaching-n-learning/technology-integration-2023/mdm-for-graduating-classes">MDM for Graduating Classes</a></li>
+<li><a href="/our-learning/teaching-n-learning/technology-integration-2023/faq-1">FAQ</a></li>
+</ul>
