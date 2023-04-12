@@ -2,7 +2,7 @@ collections:
   alumni:
     output: true
     order:
-      - Alumni/About SJIJ Alumni.md
+      - Alumni/Alumni.md
       - Alumni/Phase 2A.md
       - Alumni/.keep
       - Constitution.md
