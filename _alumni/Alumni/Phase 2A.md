@@ -22,4 +22,4 @@ to complete the form. You will need to attach a copy of the following document a
 
 4)	Birth certificate of the child registering for P1 
 
-Upon verification, we will prepare an eligibility letter for Phase 2A and send it to your email. 
+Upon verification, we will prepare an eligibility letter for Phase 2A and send it to your email.
