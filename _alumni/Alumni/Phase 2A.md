@@ -13,7 +13,7 @@ third_nav_title: Alumni
 
 2)	whose parent/older sibling was a former student of St Michael's School (SMS) now known as St Joseph's Institution Junior (SJIJ)
 
-If you meet the above criteria and wish to register your child during 2023 Primary One Registration Exercise Phase 2A, please click this [link ]
+If you meet the above criteria and wish to register your child during 2023 Primary One Registration Exercise Phase 2A, please click this [link](https://form.gov.sg/641ff79372513d00123fb607)
 to complete the form. You will need to attach a copy of the following document as proof of affiliation. 
 
 1)	If the parent was a former student of SMS/SJIJ, attach the front copy of parent’s NRIC 
