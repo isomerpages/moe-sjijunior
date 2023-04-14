@@ -2,6 +2,7 @@ collections:
   our-heritage:
     output: true
     order:
+      - Our Beginnings/History of St Michael's School.md
       - Our Beginnings/.keep
       - Our Boys/Illustrious Alumni.md
       - Our Boys/Other Notable Alumni.md
