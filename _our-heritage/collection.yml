@@ -2,6 +2,7 @@ collections:
   our-heritage:
     output: true
     order:
+      - Our Boys/Sportsmen & Personalities.md
       - Our Boys/Priests & Religious.md
       - Our Boys/Generation of Boys.md
       - Our Boys/.keep
