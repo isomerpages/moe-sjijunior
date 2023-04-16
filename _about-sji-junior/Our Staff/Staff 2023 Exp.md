@@ -4,8 +4,11 @@ permalink: /about-sji-junior/our-staff/permalink/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
+<h4><strong>School Management Team</strong></h4>
+<p><strong>Principal :&nbsp;Mr Eric Leong<br></strong>"As teachers we want to make a real impact. The ones that make the greatest difference inspire a love of learning and builds perseverance in working towards excellence."<br><strong><a target="" href="mailto:eric_leong@moe.edu.sg">eric_leong@moe.edu.sg</a></strong></p>
+<p><strong>Vice Principal: Miss Faith Yak<br></strong>"Every student and staff is a gift. Uncover the gem in them and help them to shine."<br><a target="" href="mailto:yak_hiok_woon_faith@moe.edu.sg">yak_hiok_woon_faith@moe.edu.sg</a></p>
+<p><strong>Vice Principal (Admin): Mr Lim Yew Tee Collin<br></strong>"Allow mistakes but educate a child through love, reasoning and understanding, and the child will be ready for challenges ahead."<br><strong><a target="" href="mailto:lim_yew_tee_collin@moe.edu.sg">lim_yew_tee_collin@moe.edu.sg<br></a></strong></p>
+<h4><strong>Head of Department</strong></h4>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
