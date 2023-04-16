@@ -22,12 +22,12 @@ third_nav_title: Our Staff
 .tg .tg-fec3{background-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lb4t{background-color:#ffffff;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
 <colgroup>
 <col style="width: 120px">
 <col style="width: 150px">
 <col style="width: 300px">
-<col style="width: 250px">
+<col style="width: 260px">
 </colgroup>
 <thead>
   <tr>
@@ -109,12 +109,12 @@ third_nav_title: Our Staff
 .tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
 .tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
 <colgroup>
 <col style="width: 120px">
 <col style="width: 150px">
 <col style="width: 300px">
-<col style="width: 250px">
+<col style="width: 260px">
 </colgroup>
 <thead>
   <tr>
@@ -179,12 +179,12 @@ third_nav_title: Our Staff
 .tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 10px">
 <colgroup>
 <col style="width: 120px">
 <col style="width: 150px">
 <col style="width: 300px">
-<col style="width: 250px">
+<col style="width: 260px">
 </colgroup>
 <thead>
   <tr>
@@ -231,12 +231,12 @@ third_nav_title: Our Staff
 
 #### **Academic Staff**
 
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
 <colgroup>
 <col style="width: 125px">
 <col style="width: 150px">
 <col style="width: 300px">
-<col style="width: 250px">
+<col style="width: 260px">
 </colgroup>
 <thead>
   <tr>
@@ -756,7 +756,7 @@ third_nav_title: Our Staff
 .tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
 .tg .tg-wjv8{background-color:#FFF;color:#4372D6;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
 <colgroup>
 <col style="width: 260px">
 <col style="width: 260px">
