@@ -42,13 +42,13 @@ third_nav_title: Our Boys
 <tr>
 <td style="width: 20%;"><img src="/images/sportsman3.png"></td>
 <td style="width: 80%;">
-<h4><strong>Stefan Tseng</strong></h4>
+<h4><strong>William Xavier</strong></h4>
 <p>1966 to 1971<br>Artiste</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Stefan attributes his success in sports to St Michael’s School</p>
+<p>Xavier attributes his success in sports to St Michael’s School</p>
 <ul>
 <li>Playing football during recess.</li>
 <li>Achieving “C” Division individual champion on sports day 1969.</li>
