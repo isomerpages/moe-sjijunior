@@ -388,7 +388,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">2 Stephen (Co-Form)</span></td>
     <td class="tg-06je">Mrs Margaret Loh</td>
-    <td class="tg-06je">&nbsp;</td>
+<td class="tg-06je">"No act of kindness, no matter how small, is ever wasted." 
+    </td><td class="tg-06je">&nbsp;</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
