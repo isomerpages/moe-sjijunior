@@ -1,0 +1,10 @@
+---
+title: Our Crest
+permalink: /about-sji-junior/our-crest/
+description: ""
+---
+<img align="left" src="/images/Crest%20Logo.png" style="width: 33%;">
+<p>Following the name change from St. Michael’s School to St. Joseph’s Institution Junior in Jan 2007, the school also adopted the school crest of St. Joseph’s Institution (SJI).</p>
+<p>The present crest of St. Joseph’s Institution was introduced in 1950 to replace an older one. It was designed by Mr Richard Walker, the Art Supervisor of the Education Department. One of the underlying reasons for the change was that the symbols on the old crest were too difficult to identify.</p>
+<p>The green field of the crest is divided into four quadrants by a white cross, the symbol of the Christian faith. In the centre of the cross lies the logo of the Brothers, a five-pointed star, the signum fidei, It has as its origin the Star of Bethlehem which led the Magi (wise men of the East) to birth of Christ. In fact, Signun Fidei (the Sign of Faith) is the motto of the Christian Brothers of St. John Baptist De La Salle. It reminds all Josephians to centre their lives on faith and to reach always for the reachable star of their convictions and ideals. In the top quadrant are the 3 interlocking circles, symbolising games and the sporting spirit of all Josephians. In the top right quadrant is the lamp of knowledge on a book, which is a symbol of learning. The Lion at the bottom left quadrant represents the courage and determination with which Josephians face the many challenges of life. It also remind us that our school, the flagship of the Lasallian enterprise in Asia, was established in Singapura, the Lion City, in 1852. At the bottom right quadrant of the crest is the monogram of the school – S.J.I.</p>
+<p>The crown surmounting the crest symbolises victory – the victory of faith over the forces of evil. It also reminds us that St. Joseph’s Institution was founded in the days when Singapore was still a British Colony. The Latin moto of the school Ora et Labora (Pray and Work), is inscribed on the scroll at the bottom of the crest.</p>

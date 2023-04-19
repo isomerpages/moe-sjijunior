@@ -1,0 +1,10 @@
+collections:
+  instructional-programme:
+    output: true
+    order:
+      - English Department.md
+      - Mathematics Department.md
+      - Science Department.md
+      - Mother Tongue.md
+      - Physical Education, Art & Music.md
+      - Student Development and Team.md

@@ -1,0 +1,18 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Primary 1, 2023/.keep
+      - Primary 1, 2023/Primary 1, 2023.md
+      - Primary 1, 2023/Parenting Webinar.md
+      - School Rules.md
+      - Admission.md
+      - School Annual.md
+      - Info Hub.md
+      - Booklist 2023.md
+      - Parent Handbook.md
+      - IT Support.md
+      - CCA Virtual Open House 2021.md
+      - Forms.md
+      - HRN Submit.md
+      - Traffic Guidelines.md

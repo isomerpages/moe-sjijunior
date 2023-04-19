@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/sjij.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: ABOUT SJI JUNIOR
+    collection: about-sji-junior
+  - title: OUR LEARNING
+    collection: our-learning
+  - title: FOR PARENTS
+    collection: for-parents
+  - title: PTA
+    collection: pta
+  - title: ALUMNI
+    collection: alumni
+  - title: OUR PARTNERS
+    collection: our-partners

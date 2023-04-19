@@ -1,0 +1,37 @@
+collections:
+  our-learning:
+    output: true
+    order:
+      - Our Learning.md
+      - Teaching & Learning/.keep
+      - Teaching & Learning/Instructional Programme.md
+      - Teaching & Learning/ALP (Applied Learning Program).md
+      - Teaching & Learning/Technology Integration 2023.md
+      - Character Development/.keep
+      - Character Development/The Leader in Me.md
+      - Character Development/Caught Doing Good.md
+      - Character Development/LLP:SERVE (Sports Experiences Reinforcing Values
+        Education) @ SJI Junior.md
+      - Character Development/Living Well Programme.md
+      - Character Development/Growing Years.md
+      - Co–Curricular Activities (CCA)/.keep
+      - Co–Curricular Activities (CCA)/Co–Curricular Activities (CCA).md
+      - Co–Curricular Activities (CCA)/Aesthetics.md
+      - Co–Curricular Activities (CCA)/Band.md
+      - Co–Curricular Activities (CCA)/Choir.md
+      - Co–Curricular Activities (CCA)/Dance.md
+      - Co–Curricular Activities (CCA)/Uniform Group & Clubs.md
+      - Co–Curricular Activities (CCA)/Scouts.md
+      - Co–Curricular Activities (CCA)/Art Club.md
+      - Co–Curricular Activities (CCA)/Chess Club.md
+      - "Co–Curricular Activities (CCA)/Infocomm: Animation & Photography.md"
+      - Co–Curricular Activities (CCA)/Robotics.md
+      - Co–Curricular Activities (CCA)/Sports.md
+      - Co–Curricular Activities (CCA)/Badminton.md
+      - Co–Curricular Activities (CCA)/Bowling.md
+      - Co–Curricular Activities (CCA)/Fencing.md
+      - Co–Curricular Activities (CCA)/Floorball.md
+      - Co–Curricular Activities (CCA)/Football.md
+      - Co–Curricular Activities (CCA)/Tennis.md
+      - Co–Curricular Activities (CCA)/School CCA Handbook.md
+      - Learning Gateway.md

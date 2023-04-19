@@ -1,0 +1,10 @@
+collections:
+  alumni:
+    output: true
+    order:
+      - Alumni/Alumni.md
+      - Alumni/Phase 2A.md
+      - Alumni/.keep
+      - Constitution.md
+      - Membership & Booking of Facilities.md
+      - Events.md
