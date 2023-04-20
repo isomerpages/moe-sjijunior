@@ -13,7 +13,9 @@ description: ""
 </tbody>
 </table>
 <h3 style="text-align: center;"><strong>Our Heritage</strong></h3><strong>
+	
 <h4 style="text-align: center;"><strong>The Glorious Legacy of Michaelians &amp; Junior Josephians</strong></h4><strong>
+	
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <tbody>
     <tr>
