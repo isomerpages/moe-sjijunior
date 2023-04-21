@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Enter to Learn, Learn to Serve
+      title: Enter to Learn, Leave to Serve
       background: /images/rsz_2building4.jpg
   - infobar:
       description: <iframe
