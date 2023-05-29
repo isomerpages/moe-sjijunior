@@ -17,8 +17,8 @@ Application Procedure
 
 * Address: No. 3 , Essex Road Singapore 309331
 * Contact No: + 6562552700
-* Email: 
-* Contact Person: 
+* Email: lee_koh_sing@moe.edu.sg
+* Contact Person: Mdm Renee
 
 How to get there?
 
