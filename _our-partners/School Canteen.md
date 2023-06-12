@@ -3,8 +3,6 @@ title: School Canteen
 permalink: /our-partners/schoolcanteen/
 description: ""
 ---
-
-
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
 | Chicken Rice     | 30 June    | -     |
