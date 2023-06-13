@@ -5,8 +5,8 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-| Chicken Rice     | 30 June    | -     |
-| Malay/Halal    | 30 June    | -     |
+| Chicken Rice     | 31 July 2023    | -     |
+| Malay/Halal    | 31 Jul 2023  | -     |
 
 
 Application Procedure
