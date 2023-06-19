@@ -3,7 +3,6 @@ title: Pro–Teach @ SJIJ Student Care Centre
 permalink: /our-partners/pro-teach-at-sjij-student-care-centre/
 description: ""
 ---
-  
 The school has appointed Pro-Teach Education Group Pte Ltd to operate the Student Care Centre in SJI Junior from 2023.  For more details on Pro-Teach, please refer to the introductory letter by Pro-Teach and their website:
 
   
@@ -12,7 +11,7 @@ The school has appointed Pro-Teach Education Group Pte Ltd to operate the Studen
 
   
 
-[Pro-Teach Intro Letter - SJIJ](/files/Pro-Teach%20Intro%20Letter%20-%20SJIJ.pdf)
+[Pro-Teach Intro Letter - SJIJ 2023]()
 
   
 
