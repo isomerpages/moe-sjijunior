@@ -3,6 +3,12 @@ title: School Canteen
 permalink: /our-partners/schoolcanteen/
 description: ""
 ---
+| Type of Stall | Closing Date | Requirement |
+| -------- | -------- | -------- |
+| Chicken Rice     | 31 July 2023    | -     |
+| Malay/Halal    | 31 Jul 2023  | -     |
+
+
 Application Procedure
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
