@@ -8,7 +8,7 @@ description: ""
 <ul>
 <li><a href="/our-learning/teaching-n-learning/instructional-programme">Instructional Programme</a></li>
 <li><a href="/our-learning/teaching-n-learning/alp-applied-learning-program">ALP (Applied Learning Program)</a></li>
-<li><a href="/our-learning/teaching-n-learning/technology-integration-2023">Technology Integration 2023</a></li>
+<li><a href="/our-learning/teaching-and-learning/technology-integration-2023/">Technology Integration 2023</a></li>
 </ul>
 <li><a href="/our-learning/character-development">Character Development</a></li>
 <ul>
