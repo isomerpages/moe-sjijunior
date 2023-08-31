@@ -394,7 +394,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">2 Gabriel (Form)</span></td>
-    <td class="tg-06je">&nbsp;Mr Surendiran</td>
+    <td class="tg-06je">&nbsp;Mr Surendran</td>
     <td class="tg-06je">“Always raise your doubts and have it clarified. That’s how one learns.”</td>
     <td class="tg-wjv8"><a href="mailto:surendran_sathiamurthi@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">surendran_sathiamurthi@moe.edu.sg</span></a></td>
   </tr>
