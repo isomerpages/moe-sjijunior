@@ -610,7 +610,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">5 Anthony (Form)</span></td>
-    <td class="tg-06je">Ms&nbsp;Ho Mui Fang</td>
+    <td class="tg-06je">Ms&nbsp;Lin Huixian</td>
     <td class="tg-06je">&nbsp;</td>
     <td class="tg-06je">&nbsp;</td>
   </tr>
@@ -640,7 +640,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">5 Stephen (Co-Form)</span></td>
-    <td class="tg-06je">Mr&nbsp;Goh Wee Leng Sixtus</td>
+    <td class="tg-06je"></td>
     <td class="tg-06je">"Learning is best done in a calm environment."</td>
     <td class="tg-wjv8"><a href="mailto:goh_wee_leng_sixtus@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">goh_wee_leng_sixtus@moe.edu.sg</span></a></td>
   </tr>
