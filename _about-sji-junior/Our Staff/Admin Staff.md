@@ -29,6 +29,11 @@ third_nav_title: Our Staff
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-hr73">Admin Manager</td>
+    <td class="tg-7zkw"><span style="font-weight:normal">Mdm Renee Lee </span></td>
+    <td class="tg-hr73"> <a href="mailto:Lee_Koh_Sing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3;background-color:transparent">Lee_Koh_Sing@moe.edu.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-v5y8">Operation Manager</td>
     <td class="tg-p8fl"><span style="font-weight:normal">Mr Kalimuthu</span></td>
@@ -67,7 +72,7 @@ third_nav_title: Our Staff
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+ overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-axsl{background-color:#FFF;color:#62B7A3;text-align:left;text-decoration:underline;vertical-align:top}
