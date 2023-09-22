@@ -29,6 +29,11 @@ third_nav_title: Our Staff
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-hr73">Admin Manager</td>
+    <td class="tg-7zkw"><span style="font-weight:normal">Mdm Renee Lee </span></td>
+    <td class="tg-hr73"> <a href="mailto:Lee_Koh_Sing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3;background-color:transparent">Lee_Koh_Sing@moe.edu.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-v5y8">Operation Manager</td>
     <td class="tg-p8fl"><span style="font-weight:normal">Mr Kalimuthu</span></td>
