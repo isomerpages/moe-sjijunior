@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parenting Webinar.md
       - School Based Student Care Centre.md
       - Primary 1, 2024.md
       - Uniform.md
