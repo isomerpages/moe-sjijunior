@@ -7,17 +7,17 @@ description: ""
 
 The school has appointed Pro-Teach Education Group Pte Ltd to operate the Student Care Centre in SJI Junior from 2023.  For more details on Pro-Teach, please refer to the introductory letter by Pro-Teach and their website:
 
-Information Sheet
+<p><strong>Information Sheet</strong></p>
 
 [Pro-Teach Information Sheet - SJIJ 2024](/files/(yr%202024)%20pro-teach%20info%20sheet.pdf)
 
-Website
+<p><strong>Website</strong></p>
 
 http://www.pro-teach.com
 
 Should you be interested in enrolling your child in Pro-Teach@SJIJ Student Care Centre, please submit your application to the school’s email address (sjijunior@moe.edu.sg) by 23 October 2023. 
 
-Application form
+<p><strong>Application form</strong></p>
 
 Pro-Teach Application Form
 
