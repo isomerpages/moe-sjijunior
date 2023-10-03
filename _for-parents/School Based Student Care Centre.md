@@ -19,7 +19,7 @@ Should you be interested in enrolling your child in Pro-Teach@SJIJ Student Care 
 
 <p><strong>Application form</strong></p>
 
-Pro-Teach Application Form
+[Pro-Teach Application Form](/files/application%20form.pdf)
 
 Please note that the receipt of this form by the school does not guarantee a place in the SCC.  The SCC will contact successful applicants in due course.
 
