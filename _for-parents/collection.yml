@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Book Shop.md
+      - Bookshop.md
       - School Based Student Care Centre.md
       - Primary 1, 2024.md
       - Uniform.md
