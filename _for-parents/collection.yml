@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - Uniform.md
       - Primary 1, 2024.md
+      - Uniform.md
       - Primary 1, 2023/.keep
       - Primary 1, 2023/Primary 1, 2024.md
       - Primary 1, 2023/Uniform.md
