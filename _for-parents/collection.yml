@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Bus Service.md
       - Primary 1, 2024.md
       - Uniform.md
       - Primary 1, 2023/.keep
