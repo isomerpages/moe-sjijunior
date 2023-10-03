@@ -11,7 +11,7 @@ third_nav_title: Primary 1, 2023
 <li><a rel="noopener" target="_blank" href="/our-partners/school-uniform-supplier">Uniform</a></li>
 <li><a rel="noopener" target="_blank" href="/our-partners/school-bus-service">School Bus Services</a></li>
 <li><a target="" href="/our-partners/pro-teach-at-sjij-student-care-centre">School-Based Student Care Centre</a></li>
-<li><a target="" href="/for-parents/primary-1-2023/parenting-webinar">Parenting Webinar</a></li>
+<li><a target="" href="/for-parents/primary-1-2024/parenting-webinar">Parenting Webinar</a></li>
 </ul>
 <p><a href="/files/PTA%20Letter%20to%202023%20P1%20Parents[1].pdf">Parent-Teacher Association (PTA) Letter to 2023 P1 Parents</a></p>
 <h4><strong>P1 Orientation</strong></h4>
