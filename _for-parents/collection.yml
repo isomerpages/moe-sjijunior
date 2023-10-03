@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - Parenting Webinar.md
       - School Based Student Care Centre.md
       - Primary 1, 2024.md
       - Uniform.md
       - School Bus Service.md
+      - Parenting Webinar.md
       - Primary 1, 2023/.keep
       - Primary 1, 2023/Primary 1, 2024.md
       - Primary 1, 2023/Uniform.md
