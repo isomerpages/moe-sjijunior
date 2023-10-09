@@ -81,7 +81,7 @@ third_nav_title: Our Staff
 .tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
 .tg .tg-xp8p{background-color:#00634C;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-v5y8{background-color:#F4EEDC;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-d3as{background-color:#F4EEDC;color:#62B7A3;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-d3as{background-color:#F4EEDC;color:#62B7A3;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-13ls{background-color:#F4EEDC;color:#282828;font-weight:bold;text-align:left;vertical-align:middle}
 </style>

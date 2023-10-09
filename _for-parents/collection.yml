@@ -2,9 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - Primary 1, 2023/.keep
-      - Primary 1, 2023/Primary 1, 2023.md
-      - Primary 1, 2023/Parenting Webinar.md
+      - Primary 1, 2024.md
+      - Bookshop.md
+      - Uniform.md
+      - School Bus Service.md
+      - School Based Student Care Centre.md
+      - Parenting Webinar.md
       - School Rules.md
       - Admission.md
       - School Annual.md
