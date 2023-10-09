@@ -12,6 +12,7 @@ Dear Parents,
 
 We are happy to invite you to a parenting webinar that we are organising entitled "READY, GET SET, GO! - Preparing Our Children for Primary Education”, delivered by TOUCH Community Services.
 
+Please register via this [link](https://form.gov.sg/652350b9bbec810013f73dd3)
 
 The zoom details will be provided to you upon confirmation of registration. You may refer to the e-flyer for more information.
 
