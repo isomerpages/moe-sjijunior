@@ -2,10 +2,10 @@ collections:
   our-partners:
     output: true
     order:
-      - Parenting Webinar for P1 2024.md
-      - School Based Student Care Centre.md
-      - School Bus Service.md
-      - School Uniform.md
       - St Michael's Soccer Association.md
       - School Canteen.md
       - School Bookshop.md
+      - School Uniform.md
+      - School Bus Service.md
+      - School Based Student Care Centre.md
+      - Parenting Webinar for P1 2024.md
