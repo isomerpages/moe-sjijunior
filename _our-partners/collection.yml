@@ -2,9 +2,9 @@ collections:
   our-partners:
     output: true
     order:
-      - Bookshop.md
       - St Michael's Soccer Association.md
       - Pro–Teach @ SJIJ Student Care Centre.md
       - School Canteen.md
+      - Bookshop.md
       - School Bus Service.md
       - School Uniform Supplier.md
