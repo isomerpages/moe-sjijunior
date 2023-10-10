@@ -13,7 +13,7 @@ The school has appointed Pro-Teach Education Group Pte Ltd to operate the Studen
 
 <p><strong>Website</strong></p>
 
-http://www.pro-teach.com
+[http://www.pro-teach.com](http://www.pro-teach.com)
 
 Should you be interested in enrolling your child in Pro-Teach@SJIJ Student Care Centre, please submit your application to the school’s email address (sjijunior@moe.edu.sg) by 23 October 2023. 
 

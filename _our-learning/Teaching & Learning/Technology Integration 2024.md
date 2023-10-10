@@ -1,8 +1,8 @@
 ---
-title: Technology Integration 2023
+title: Technology Integration 2024
 permalink: /our-learning/teaching-and-learning/technology-integration-2023/
 description: ""
-third_nav_title: Teaching &amp; Learning
+third_nav_title: Teaching & Learning
 ---
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
