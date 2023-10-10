@@ -2,7 +2,7 @@ collections:
   our-partners:
     output: true
     order:
-      - Parenting Webinar.md
+      - Parenting Webinar for P1 2024.md
       - School Based Student Care Centre.md
       - School Bus Service.md
       - Uniform.md
