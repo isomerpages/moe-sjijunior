@@ -18,9 +18,9 @@ third_nav_title: Teaching & Learning
 <img src="/images/p4technology.jpg" style="width: 80%;">
 <p>Today, about 720 students at SJI Junior own a personal learning device for their daily learning, and this number will grow as the benefits of technology integration presents greater opportunities for our students to collaborate, problem-solve, research, and create. We believe these learning experiences will give an advantage to our students' future.</p>
 <p>For all the students in the E<sup>3</sup> Programme, they can tap on the campus-wide wireless network that allows staff and students to be connected wirelessly for greater collaboration and communication. All classes that are are also fitted with personal lockers so as to provide greater security to the students' devices.</p>
-<p><strong>ROLLOUT FOR STUDENTS WHO ARE IN P3 (2022)</strong></p>
-<p>In view of the current situation COVID-19 situation here, all the information regarding the integration of technology for the Primary 4s will be put online as we are not able to gather in school. The school will also be providing information on procurement of the devices, a compulsory parent-child cyberwellness programme as well as a list of the dates that you may want to mark out on so that you do not miss out on any key milestones.</p>
-<p>A letter to parents have been issued here and you can refer to the timeline to take note of the next steps to take.</p>
+<p><strong>ROLLOUT FOR STUDENTS WHO ARE IN P3 (2023)</strong></p>
+<p>All the information regarding the integration of technology for the Primary 4s will be put online. The school will also be providing information on procurement of the devices, a compulsory parent-child cyberwellness programme as well as a list of the dates that you may want to mark out on so that you do not miss out on any key milestones.</p>
+<p>A letter to parents have been issued to you via Parents' Gateway and you can refer to the timeline to take note of the next steps to take.</p>
 <p>You can also refer to the guide here as well for your reference.</p>
 <p><a href="/files/E3%20Parents%20Information%20Booklet_2022.pdf">E3 Parents Information Booklet_2022.pdf</a></p>
 <p><a href="/files/2022%20E3%20Programme%20Infokit.pdf">2022 E3 Programme Infokit.pdf</a></p>
@@ -46,7 +46,7 @@ third_nav_title: Teaching & Learning
 <p><strong>Launch of Infokit on P4 Learning with Technology</strong></p>
 </td>
 <td width="168">
-<p><strong>12<sup>th</sup>&nbsp;October 2022</strong></p>
+<p><strong>20<sup>th</sup>&nbsp;October 2023</strong></p>
 </td>
 </tr>
 <tr>
@@ -55,11 +55,11 @@ third_nav_title: Teaching & Learning
 </td>
 <td width="444">
 <p><strong>Parent Briefing &amp; Cyberwellness Parent-Child Talk</strong></p>
-<p><strong>Friday 4<sup>th</sup>&nbsp;November (7pm – 9pm)</strong></p>
-<p>Zoom details:<br>Meeting ID: 943 0848 2276<br>Passcode: 709718</p>
+<p><strong>Saturday 11<sup>th</sup>&nbsp;November (930am – 11am)</strong></p>
+<p>Zoom details:<br>Meeting ID: 928 0806 7621<br>Passcode: 853296</p>
 </td>
 <td width="168">
-<p><strong>4<sup>th</sup>&nbsp;Nov 2022 (Friday)</strong></p>
+<p><strong>11<sup>th</sup>&nbsp;Nov 2023 (Saturday)</strong></p>
 </td>
 </tr>
 <tr>
@@ -71,8 +71,7 @@ third_nav_title: Teaching & Learning
 <p>A separate Parents’ Gateway will be sent regarding the pricelist and procurement.</p>
 </td>
 <td width="168">
-<p><a target="" href="https://academic.com.sg/collections/sjij">Vendor portal is ready!</a></p>
-<p>https://academic.com.sg/collections/sjij</p>
+<p>Awaiting Apple Store for new product</p>
 <p><strong>*Please include your child's name and P3 class under the notes</strong></p>
 <p>Do place your order by end of November</p>
 </td>
@@ -86,7 +85,7 @@ third_nav_title: Teaching & Learning
 <p>* (To bring iPad that has been Reset to Factory Settings)</p>
 </td>
 <td width="168">
-<p><strong>Bring to school in Term 1 Week 2.<br></strong><strong>10<sup>th</sup>&nbsp;– 14<sup>th</sup>&nbsp;Jan 2023</strong></p>
+<p><strong>Bring to school in Term 1 Week 2.<br></strong><strong>8<sup>th</sup>&nbsp;– 12<sup>th</sup>&nbsp;Jan 2024</strong></p>
 </td>
 </tr>
 <tr>
@@ -97,7 +96,7 @@ third_nav_title: Teaching & Learning
 <p><strong>Subsidy form</strong>&nbsp;(if applicable) available on&nbsp;<a href="https://sjijunior.moe.edu.sg/qql/slot/u423/2022/E3%20Programme/APPLICATION%20FOR%20SUBSIDY%20FOR%20E3%20PROGRAMME%202022.pdf">school website.</a></p>
 </td>
 <td width="168">
-<p><strong>17<sup>th</sup>&nbsp;Nov 2022</strong></p>
+<p><strong>17<sup>th</sup>&nbsp;Nov 2023</strong></p>
 </td>
 </tr>
 <tr>
@@ -108,11 +107,11 @@ third_nav_title: Teaching & Learning
 <p><strong>START RIGHT PROGRAMME</strong></p>
 <ul>
 <li>Student Agreement</li>
-<li>iPad Familiarisation SLS Lesson Package (Nov-Dec 2022)</li>
+<li>iPad Familiarisation SLS Lesson Package (Nov-Dec 2023)</li>
 </ul>
 </td>
 <td width="168">
-<p><strong>JAN 2022</strong></p>
+<p><strong>JAN 2024</strong></p>
 </td>
 </tr>
 <tr>
@@ -126,12 +125,12 @@ third_nav_title: Teaching & Learning
 </ul>
 </td>
 <td width="168">
-<p><strong>JAN/FEB 2023<br></strong>(Date to be confirmed)</p>
+<p><strong>JAN/FEB 2024<br></strong>(Date to be confirmed)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Buying your iPad from other sources: Setting and Submitting your devices for MDM and submitting to school. Deadline to submit: 10th to 14th January 2023</strong></h4>
+<h4><strong>Buying your iPad from other sources: Setting and Submitting your devices for MDM and submitting to school. Deadline to submit: 8th to 12th January 2024</strong></h4>
 <p>Please do this before submitting your device<br><a rel="noopener" target="_blank" href="/files/Reset%20to%20Factory%20Setting%20MDM%2026th%20Jan.pdf">Reset to Factory Setting MDM</a></p>
 <p>Please attach this form when submitting the device<br><a rel="noopener" target="_blank" href="/files/MDM%20Declaration%20Form%20for%20P4%202020%20blank.pdf">MDM Declaration Form for P4&nbsp;</a></p>
 <h4><strong>Subsidy Form</strong></h4>

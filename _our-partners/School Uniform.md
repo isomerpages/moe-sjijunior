@@ -5,6 +5,8 @@ description: ""
 ---
 <p><strong>United Uniforms P/L</strong></p>
 
+<p><strong>(Until 31 December 2023)</strong></p>
+
 168 Lor 1 Toa Payoh, #01-1034,  S(310168)
 
 Tel: 6353 0921
@@ -13,7 +15,10 @@ Tel: 6353 0921
 
 ________________________________________________
 
-<p><strong>Jeep Sing Fashion (From 1 January 2024)</strong></p>
+<p><strong>Jeep Sing Fashion </strong></p>
+
+<p><strong>(From 1 January 2024)</strong></p>
+
 4012 Ang Mo Kio Ave 10, 
 TechPlace 1
 #01-09, 
