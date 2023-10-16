@@ -2,7 +2,7 @@
 title: Instructional Programme
 permalink: /our-learning/teaching-n-learning/instructional-programme/
 description: ""
-third_nav_title: Teaching &amp; Learning
+third_nav_title: Teaching & Learning
 ---
 <ul>
 <li><a href="/our-learning/teaching-n-learning/instructional-programme/english-department">English Department</a></li>
