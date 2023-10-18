@@ -16,7 +16,7 @@ description: ""
 <h4><strong>Must I buy from this vendor?</strong></h4>
 <p>Parents need not utilise this bundle. We want to make the purchasing easier for parents who may find this a difficult process and have reached out to a reputable vendor for your convenience. Parents may choose to select another vendor.</p>
 <h4><strong>What is MDM, again?</strong></h4>
-<p>Mobile Device management (MDM) is a third party paid application that allows parents, and school to manage the child/student’s device remotely to manage and monitor screen time. This application is a chargeable at $22/year.</p>
+<p>Mobile Device management (MDM) is a third party paid application that allows parents, and school to manage the child/student’s device remotely to manage and monitor screen time. .</p>
 <h4><strong>Must I get the latest iPad?</strong></h4>
 <p>Technology refreshes rapidly, and this learning device will be with your child for the next 3 years. The reason we are suggesting parents get the latest technology available right now is for future management. Parents can choose not to get the iPad 8th Gen, but minimally, parents must opt for an iPad that supports the models mentioned earlier in the FAQ</p>
 <h4><strong>Can I get other peripherals later?</strong></h4>
