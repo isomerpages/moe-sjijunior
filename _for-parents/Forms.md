@@ -13,7 +13,9 @@ description: ""
 
 [2023 Building a Positive Digital Family Culture Together](/files/2023%20building%20a%20positive%20digital%20family%20culture%20together.pdf)
 
-[Letter to P3 Parents 2023 ](/files/letter%20to%20p3%20parents%202023%20.pdf)[E3 Parents 
+[Letter to P3 Parents 2023 ](/files/letter%20to%20p3%20parents%202023%20.pdf)
+
+[E3 Parents 
 Information Booklet](/files/e3%20parents%20information%20booklet%202023a.pdf)
 
 [Application For Subsidy for E3 Programme](/files/application%20for%20subsidy%20for%20e3%20programme%202024.pdf)
