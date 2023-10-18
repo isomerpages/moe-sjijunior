@@ -22,7 +22,9 @@ third_nav_title: Teaching & Learning
 <p>All the information regarding the integration of technology for the Primary 4s will be put online. The school will also be providing information on procurement of the devices, a compulsory parent-child cyberwellness programme as well as a list of the dates that you may want to mark out on so that you do not miss out on any key milestones.</p>
 <p>A letter to parents have been issued to you via Parents' Gateway and you can refer to the timeline to take note of the next steps to take.</p>
 <p>You can also refer to the guide here as well for your reference.</p>
-<p><a href="/files/e3%20Parents%20Information%20Booklet_2023.pdf">E3 Parents Information Booklet_2023.pdf</a></p>
+<p>
+	
+[E3 Parents Information Booklet 2023](/files/e3%20parents%20information%20booklet%202023.pdf)</p>
 <p><a href="/files/2022%20E3%20Programme%20Infokit.pdf">2023 E3 Programme Infokit.pdf</a></p>
 <p><a href="/files/Touch%20Cyberwellness%202022%20poster.pdf">Touch Cyberwellness 2022 poster.pdf</a></p>
 <table width="677">
