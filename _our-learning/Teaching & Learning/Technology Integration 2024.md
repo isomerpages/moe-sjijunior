@@ -59,11 +59,6 @@ third_nav_title: Teaching & Learning
 </td>
 <td width="444">
 	<p><strong><a href="/files/2023%20building%20a%20positive%20digital%20family%20culture%20together.pdf">2023 Building a Positive Digital Family Culture Together </a></strong></p>
-	
-<p><strong><a href="/files/(2023)%20building%20a%20positive%20digital%20family%20culture%20together.pdf">2023 Building a Positive Digital Family Culture Together </a></strong></p>
-	
-[2023 Building a Positive Digital Family Culture Together](/files/(2023)%20building%20a%20positive%20digital%20family%20culture%20together.pdf)
-	
 
 <p><strong>Saturday 11<sup>th</sup>&nbsp;November (930am – 11am)</strong></p>
 <p>Zoom details:<br>Meeting ID: 928 0806 7621<br>Passcode: 853296</p>
