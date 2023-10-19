@@ -26,6 +26,8 @@ third_nav_title: Teaching & Learning
 	
 [E3 Parents Information Booklet 2023](/files/e3%20parents%20information%20booklet%202023.pdf)</p>
 <p><a href="/files/2022%20E3%20Programme%20Infokit.pdf">2023 E3 Programme Infokit.pdf</a></p>
+
+[Letter to P3 Parents 2023](/files/letter%20to%20p3%20parents%202023.pdf)
 <p><a href="/files/Touch%20Cyberwellness%202022%20poster.pdf">Touch Cyberwellness 2022 poster.pdf</a></p>
 <table width="677">
 <tbody>
@@ -57,6 +59,7 @@ third_nav_title: Teaching & Learning
 </td>
 <td width="444">
 <p><strong>Parent Briefing &amp; Cyberwellness Parent-Child Talk</strong></p>
+[2023 Building a Positive Digital Family Culture Together](/files/2023%20building%20a%20positive%20digital%20family%20culture%20together.pdf)
 <p><strong>Saturday 11<sup>th</sup>&nbsp;November (930am – 11am)</strong></p>
 <p>Zoom details:<br>Meeting ID: 928 0806 7621<br>Passcode: 853296</p>
 </td>
