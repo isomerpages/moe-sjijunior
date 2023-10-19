@@ -95,7 +95,7 @@ third_nav_title: Teaching & Learning
 <p>5</p>
 </td>
 <td width="444">
-<p><strong>[Subsidy form](/files/2024%20application%20for%20subsidy%20for%20e3%20programme%20.pdf)</strong></p><strong>
+<p><strong>[Subsidy Form](/files/2024%20application%20for%20subsidy%20for%20e3%20programme%20.pdf)</strong></p><strong>
 </strong></td>
 <td width="168">
 <p><strong>17<sup>th</sup>&nbsp;Nov 2023</strong></p>
