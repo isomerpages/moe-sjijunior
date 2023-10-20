@@ -23,8 +23,8 @@ third_nav_title: Teaching & Learning
 <p>A letter to parents have been issued to you via Parents' Gateway and you can refer to the timeline to take note of the next steps to take.</p>
 <p>You can also refer to the guide here as well for your reference.</p>
 <p>
-	
-[E3 Parents Information Booklet 2023](/files/e3%20parents%20information%20booklet%202023.pdf)</p>
+<a href="/files/e3%20parents%20information%20booklet%202023.pdf">E3 Parents Information Booklet 2023]</a></p>
+
 <p><a href="/files/2022%20E3%20Programme%20Infokit.pdf">2023 E3 Programme Infokit.pdf</a></p>
 
 [Letter to P3 Parents 2023](/files/letter%20to%20p3%20parents%202023.pdf)
