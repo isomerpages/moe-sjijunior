@@ -27,11 +27,10 @@ third_nav_title: Teaching & Learning
 	
 </p><p><strong><a href="/files/e3%20parents%20information%20booklet%202023.pdf">E3 Parents Information Booklet 2023 </a></strong></p>
 
-<p><strong><a href="/files/2023%20e3%20programme%20infokit.pdf">2023 E3 Programme infokit </a></strong></p>
+<p><strong><a href="/files/2023%20e3%20programme%20infokit%20v2.pdf">2023 E3 Programme infokit </a></strong></p>
 
-[2023 E3 Programme Infokit](/files/2023%20e3%20programme%20infokit%20v2.pdf)[Letter to P3 Parents 2023](/files/letter%20to%20p3%20parents%202023%20v2%2016102023.pdf)
 
-<p><strong><a href="/files/letter%20to%20p3%20parents%202023.pdf">Letter to P3 Parents 2023 </a></strong></p>
+<p><strong><a href="/files/letter%20to%20p3%20parents%202023%20v2%2016102023.pdf">Letter to P3 Parents 2023 </a></strong></p>
 
 
 <table width="677">
