@@ -3,8 +3,6 @@ title: Forms
 permalink: /for-parents/forms/
 description: ""
 ---
-[GIRO Application](/files/Giro_application_form.pdf)
-
 [Change of address](/files/Update%20of%20student%20address.pdf)
 
 [Update authorized caregiver](/files/Request%20form%20for%20authorised%20caregiver.pdf)
