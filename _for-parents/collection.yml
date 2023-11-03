@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - 1 Book List 2024.md
       - Primary 1, 2024.md
       - School Rules.md
       - Admission.md
