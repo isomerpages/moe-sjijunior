@@ -2,6 +2,7 @@
 title: School Bookshop
 permalink: /for-parents/bookshop/
 description: ""
+variant: markdown
 ---
 ### Pacific Book Store Pte Ltd
 
@@ -28,5 +29,4 @@ While walk-in purchase is not preferred, you may purchase the books from the sch
 
 2024 Primary 1 Booklist
 -----------------------
-
-The 2024 Primary 1 booklist will be uploaded in this website soon.
+[P1 Book List 2024](/files/p1%20book%20list%202024.pdf)
