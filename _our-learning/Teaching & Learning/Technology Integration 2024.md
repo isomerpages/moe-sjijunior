@@ -33,7 +33,7 @@ variant: markdown
 
 <p><strong><a href="/files/letter%20to%20p3%20parents%202023%2008112023.pdf">Letter to P3 Parents 2023 </a></strong></p>
 
-[Letter to P3 Parents 2023](/files/letter%20to%20p3%20parents%202023%2008112023.pdf)
+
 
 <table width="677">
 <tbody>
