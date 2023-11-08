@@ -3,6 +3,7 @@ title: Technology Integration 2024
 permalink: /our-learning/teaching-and-learning/technology-integration-2023/
 description: ""
 third_nav_title: Teaching & Learning
+variant: markdown
 ---
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -30,7 +31,8 @@ third_nav_title: Teaching & Learning
 <p><strong><a href="/files/2023%20e3%20programme%20infokit%20v2.pdf">2023 E3 Programme infokit </a></strong></p>
 
 
-<p><strong><a href="/files/letter%20to%20p3%20parents%202023%20v2%2016102023.pdf">Letter to P3 Parents 2023 </a></strong></p>
+<p><strong><a href="/files/letter%20to%20p3%20parents%202023%2008112023.pdf">Letter to P3 Parents 2023 </a></strong></p>
+
 
 
 <table width="677">

@@ -3,6 +3,7 @@ title: Staff 2023
 permalink: /about-sji-junior/our-staff/permalink/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <h4><strong>School Management Team</strong></h4>
 <p><strong>Principal :&nbsp;Mr Eric Leong<br></strong>"As teachers we want to make a real impact. The ones that make the greatest difference inspire a love of learning and builds perseverance in working towards excellence."<br><strong><a target="" href="mailto:eric_leong@moe.edu.sg">eric_leong@moe.edu.sg</a></strong></p>
@@ -127,7 +128,7 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">P6</span></td>
-    <td class="tg-06je">Mdm Janet Tan</td>
+    <td class="tg-06je">Mdm Janet Lee</td>
     <td class="tg-06je">"Always believe in the students whom you teach. Believe that they can learn and capable of learning more.</td>
     <td class="tg-wjv8"><a href="mailto:janet_lee@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">janet_lee@moe.edu.sg</span></a></td>
   </tr>
@@ -492,7 +493,7 @@ third_nav_title: Our Staff
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">3 Michael (Form)</span></td>
     <td class="tg-06je">Ms Cheryl Tan</td>
     <td class="tg-06je">"Teach with an open mind and a caring heart."</td>
-    <td class="tg-wjv8"><a href="mailto:an_siu_thean_cheryl@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">an_siu_thean_cheryl@moe.edu.sg</span></a></td>
+    <td class="tg-wjv8"><a href="mailto:tan_siu_thean_cheryl@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">tan_siu_thean_cheryl@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">3 Michael (Co-Form)</span></td>
@@ -501,13 +502,13 @@ third_nav_title: Our Staff
     <td class="tg-wjv8"><a href="mailto:sun_mengyi@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">sun_mengyi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">3 Raphael (Form)</span></td>
+    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">3 Gabriel (Form)</span></td>
     <td class="tg-06je">Mr Raymond Chan</td>
     <td class="tg-06je">"Every boy is unique in his own way. He can learn and wants to learn." "Inspiring a love for learning."&nbsp;</td>
     <td class="tg-wjv8"><a href="mailto:raymond_chan_kwai_heen@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">raymond_chan_kwai_heen@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">3 Raphael (Co-Form)</span></td>
+    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">3 Gabriel (Co-Form)</span></td>
     <td class="tg-06je">Mr George Kheng</td>
     <td class="tg-06je">"To teach with passion and commitment."&nbsp;</td>
     <td class="tg-wjv8"><a href="mailto:george_kheng_a@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">george_kheng_a@moe.edu.sg</span></a></td>
