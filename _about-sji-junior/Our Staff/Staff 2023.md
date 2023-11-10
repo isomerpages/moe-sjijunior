@@ -128,7 +128,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">P6</span></td>
-    <td class="tg-06je">Mdm Janet Lee</td>
+    <td class="tg-06je">Mrs Janet Tan</td>
     <td class="tg-06je">"Always believe in the students whom you teach. Believe that they can learn and capable of learning more.</td>
     <td class="tg-wjv8"><a href="mailto:janet_lee@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">janet_lee@moe.edu.sg</span></a></td>
   </tr>
