@@ -128,7 +128,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-e4nr"><span style="font-weight:600;color:#484848">P6</span></td>
-    <td class="tg-06je">Mdm Janet Lee</td>
+    <td class="tg-06je">Mrs Janet Tan</td>
     <td class="tg-06je">"Always believe in the students whom you teach. Believe that they can learn and capable of learning more.</td>
     <td class="tg-wjv8"><a href="mailto:janet_lee@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">janet_lee@moe.edu.sg</span></a></td>
   </tr>
@@ -793,17 +793,17 @@ variant: markdown
     <td class="tg-wjv8"><a href="mailto:soh_hong_ping@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">soh_hong_ping@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">Learning &amp; Behavioural Support</span></td>
+    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">Special Educational Needs Officer</span></td>
     <td class="tg-06je">Mr Edmund Sim</td>
     <td class="tg-wjv8"><a href="mailto:sim_hui_yeow@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">sim_hui_yeow@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">Learning &amp; Behavioural Support</span></td>
+    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">Special Educational Needs Officer</span></td>
     <td class="tg-06je">Mdm Hairunnisa Begam Shirfudeen<br>(Mdm Nisa)</td>
     <td class="tg-wjv8"><a href="mailto:hairunnisa_begam_shirfudeen@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">hairunnisa_begam_shirfudeen@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">Learning &amp; Behavioural Support</span></td>
+    <td class="tg-e4nr"><span style="font-weight:600;color:#484848">Special Educational Needs Officer</span></td>
     <td class="tg-06je">Ms Uma Padmanathan</td>
     <td class="tg-wjv8"><a href="mailto:uma_padmanathan@moe.edu.sg"><span style="text-decoration:underline;color:#4372D6">uma_padmanathan@moe.edu.sg</span></a></td>
   </tr>
