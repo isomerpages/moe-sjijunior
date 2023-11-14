@@ -79,6 +79,8 @@ variant: markdown
 </td>
 <td width="444">
 <p><strong>If purchasing iPad through vendor.</strong></p>
+( Visit https://academic.com.sg/collections/sjij to order your iPad through a vendor. The recommended iPad is the 9th Generation iPad (64GB).)
+	
 <p>A separate Parents’ Gateway will be sent regarding the pricelist and procurement.</p>
 </td>
 <td width="168">
