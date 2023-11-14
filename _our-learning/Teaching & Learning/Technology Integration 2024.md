@@ -79,12 +79,11 @@ variant: markdown
 </td>
 <td width="444">
 <p><strong>If purchasing iPad through vendor.</strong></p>
-( Visit https://academic.com.sg/collections/sjij to order your iPad through a vendor. The recommended iPad is the 9th Generation iPad (64GB).)
+( Visit [link]( https://academic.com.sg/collections/sjij )to order your iPad through a vendor. The recommended iPad is the 9th Generation iPad (64GB).)
 	
 <p>A separate Parents’ Gateway will be sent regarding the pricelist and procurement.</p>
 </td>
 <td width="168">
-<p>Awaiting Apple Store for new product</p>
 <p><strong>*Please include your child's name and P3 class under the notes</strong></p>
 <p>Do place your order by end of November</p>
 </td>
