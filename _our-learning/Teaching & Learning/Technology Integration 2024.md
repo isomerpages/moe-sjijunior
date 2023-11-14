@@ -84,7 +84,6 @@ variant: markdown
 <p>A separate Parents’ Gateway will be sent regarding the pricelist and procurement.</p>
 </td>
 <td width="168">
-<p>Awaiting Apple Store for new product</p>
 <p><strong>*Please include your child's name and P3 class under the notes</strong></p>
 <p>Do place your order by end of November</p>
 </td>
