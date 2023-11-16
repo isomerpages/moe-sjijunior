@@ -6,9 +6,6 @@ description: ""
 ---
 [P1 Book List 2024](/files/p1%20book%20list%202024.pdf)
 
-hello
-
-
 [P2 Book List 2024](/files/2024%Book%List%P2.pdf)
 
 [P3 Book List 2024](/files/p1%20book%20list%202024.pdf)
@@ -17,4 +14,4 @@ hello
 
 [P5 Book List 2024](/files/p1%20book%20list%202024.pdf)
 
-[P6 Book List 2024](/files/p1%20book%20list%202024.pdf)
+[P6 Book List 2024](/files%2FBooklist/editMediaSettings/2024_Book_List_P6.pdf)
