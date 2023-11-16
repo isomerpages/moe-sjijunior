@@ -12,6 +12,6 @@ description: ""
 
 [P4 Book List 2024](/files/p1%20book%20list%202024.pdf)
 
-[P5 Book List 2024](/files/p1%20book%20list%202024.pdf)
+[P5 Book List 2024](/files/2024_BookList_P5.pdf)
 
-[P6 Book List 2024](/files%2FBooklist/editMediaSettings/2024_Book_List_P6.pdf)
+[P6 Book List 2024](/files%2FBooklist/2024_Book_List_P6.pdf)
