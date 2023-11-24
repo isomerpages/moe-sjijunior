@@ -2,11 +2,11 @@
 title: School Canteen
 permalink: /our-partners/schoolcanteen/
 description: ""
+variant: markdown
 ---
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-NIL
-
+Japanese/Noodle Stall|10/12 2023|Non-Halal
 
 Application Procedure
 
