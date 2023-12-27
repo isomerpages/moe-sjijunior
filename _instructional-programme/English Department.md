@@ -13,7 +13,7 @@ Every Junior Josephian an effective, confident and empathetic communicator in a 
 
 Our mission is to cultivate
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **engaging, confident, articulate speakers** who **have viewpoints** and **able to justify them**
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **engaging, confident, articulate speakers** who **have viewpoints** and **able to                 justify them**
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **persuasive writers** who can **express their voice and viewpoints**
 
