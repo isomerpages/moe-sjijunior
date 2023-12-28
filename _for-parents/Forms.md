@@ -2,6 +2,7 @@
 title: Forms
 permalink: /for-parents/forms/
 description: ""
+variant: markdown
 ---
 [Change of address](/files/Update%20of%20student%20address.pdf)
 
@@ -13,4 +14,3 @@ description: ""
 
 [Application For Subsidy for E3 Programme](/files/application%20for%20subsidy%20for%20e3%20programme%202024.pdf)
 
-[Product Fact Sheet Year 2022 Sep 2023](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
