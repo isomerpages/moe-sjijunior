@@ -2,15 +2,6 @@
 title: Forms
 permalink: /for-parents/forms/
 description: ""
+variant: tiptap
 ---
-[Change of address](/files/Update%20of%20student%20address.pdf)
-
-[Update authorized caregiver](/files/Request%20form%20for%20authorised%20caregiver.pdf)
-
-[Application form for Leave of Absence](https://form.gov.sg/60b98c71451c8300119f40ab)
-
-[2024 MOE FAS Application Form](/files/2024%20moe%20fas%20application%20form.pdf)
-
-[Application For Subsidy for E3 Programme](/files/application%20for%20subsidy%20for%20e3%20programme%202024.pdf)
-
-[Product Fact Sheet Year 2022 Sep 2023](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
+<p><a href="/files/Update%20of%20student%20address.pdf" rel="noopener noreferrer nofollow" target="_blank">Change of address</a></p><p><a href="/files/Request%20form%20for%20authorised%20caregiver.pdf" rel="noopener noreferrer nofollow" target="_blank">Update authorized caregiver</a></p><p><a href="https://form.gov.sg/60b98c71451c8300119f40ab" rel="noopener noreferrer nofollow" target="_blank">Application form for Leave of Absence</a></p><p><a href="/files/2024%20moe%20fas%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 MOE FAS Application Form</a></p><p><a href="/files/application%20for%20subsidy%20for%20e3%20programme%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application For Subsidy for E3 Programme</a></p><p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Group Personal Insurance Plan for Students - Product Factsheet 2024</a></p>
