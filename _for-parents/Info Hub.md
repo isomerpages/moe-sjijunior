@@ -2,9 +2,17 @@
 title: Info Hub
 permalink: /for-parents/info-hub/
 description: ""
+variant: markdown
 ---
 <h4><strong>P5 Parent Information Day Briefing Slides</strong></h4>
 
+# P2 2024
+
+
+
+[P2 Parents Information Day 2024 Part 1](/files/P2_Parents_Information_Day_2024_Part_1.pdf)
+
+[P2 Parents Information Day 2024 Part 2](/files/P2_Parents_Information_Day_2024_Part_2.pdf)
 # P5 
 
 [Year Head Talk](https://drive.google.com/file/d/1-0OaIswoPJ5Npgos4gWBnlSVyLaDN2fu/view?usp=share_link)
