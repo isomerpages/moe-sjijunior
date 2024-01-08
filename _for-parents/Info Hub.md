@@ -20,7 +20,9 @@ variant: markdown
 
 [2 Patrick](/files/2_Patrick.pdf)
 
+[2 Raphael](/files/2_Raphael.pdf)
 
+[2 Stephen](/files/2_Stephen.pdf)
 
 [P2 Parents Information Day 2024 Part 1](/files/P2_Parents_Information_Day_2024_Part_1.pdf)
 
