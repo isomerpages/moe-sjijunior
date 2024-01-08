@@ -8,7 +8,17 @@ variant: markdown
 
 # P2 2024
 
+[2 Anthony](/files/2_Anthony.pdf)
 
+[2 Gabriel](/files/2_Gabriel.pdf)
+
+[2 Joseph](/files/2_Joseph.pdf)
+
+[2 Luke](/files/2_Luke.pdf)
+
+[2 Michael](/files/2_Michael.pdf)
+
+[2 Patrick](/files/2_Patrick.pdf)
 
 [P2 Parents Information Day 2024 Part 1](/files/P2_Parents_Information_Day_2024_Part_1.pdf)
 
