@@ -2,23 +2,36 @@
 title: Info Hub
 permalink: /for-parents/info-hub/
 description: ""
+variant: markdown
 ---
-<h4><strong>P5 Parent Information Day Briefing Slides</strong></h4>
+# P1
+
+[CCE Sharing](/files/P1_CCE_Sharing_2024.pdf)
+
+[English Sharing](/files/P1_English_Sharing_2024.pdf)
+
+[Maths Sharing](/files/P1_Maths_Sharing_2024.pdf)
+
+[MT Sharing](/files/P1_MT_Sharing_2024.pdf)
+
+[PAM Sharing](/files/P1_PAM_Sharing_2024.pdf)
+
+
+
+# P2 
+
+
+[P2 Parents Information Day 2024 Part 1](/files/P2_Parents_Information_Day_2024_Part_1.pdf)
+
+[P2 Parents Information Day 2024 Part 2](/files/P2_Parents_Information_Day_2024_Part_2.pdf)
+
+
 
 # P5 
 
-[Year Head Talk](https://drive.google.com/file/d/1-0OaIswoPJ5Npgos4gWBnlSVyLaDN2fu/view?usp=share_link)
+[Videos](https://drive.google.com/drive/folders/10TxGrbTuoRUV7uAtHh6t8PkJTUaGPgGm?usp=sharing)
 
-* [English](https://drive.google.com/file/d/1S5959LT3uzZwUx0O673Wf_Fgvrlgw7aT/view?usp=share_link)
-* [Math](https://drive.google.com/file/d/1sRfmfkU6T_p2YK4WTnYKafSRflC7EWkM/view?usp=share_link)
-* [Mother Tongue](https://drive.google.com/file/d/1DQLe_CmN_8MMfKWZbgXUrKz-X3ghMdUP/view?usp=share_link)
-* [Science](https://drive.google.com/file/d/1E-tkGpyNNg8evrrMPCgn_ZFxisQ3wghc/view?usp=share_link)
+
 
 # P6
-[Year Head Talk](https://drive.google.com/file/d/1n3hhGZFeWTmsqSxflJZNdJATaEQdRmU-/view?usp=share_link)
-
-* [English](https://drive.google.com/file/d/1mm-FA6A7-2e5K8XR0zH2qUagBqryy8-j/view?usp=share_link)
-* [Math](https://drive.google.com/file/d/1ETGPr4M8a6AyA6QuOVMNVVIcAwF4lW51/view?usp=share_link)
-* [Mother Tongue](https://drive.google.com/file/d/1pL-9_Uaybu1rnxFrpmjFVPVJ9mvHsB1i/view?usp=share_link)
-* [Science](https://drive.google.com/file/d/1P39DJZlX3YOyhIszthD4pRCx8GAN1GzV/view?usp=share_link)
-* [Foundation ](https://drive.google.com/file/d/1WlXLZM_gNMqeyuQIyYojpuCsRM-fZnXy/view?usp=share_link)
+[Videos](https://drive.google.com/drive/folders/1FMJf8_-kkZvuE2-DykAOv2SCq8XOV1RG?usp=sharing)
