@@ -3,6 +3,7 @@ title: Growing Years
 permalink: /our-learning/character-development/growing-years/
 description: ""
 third_nav_title: Character Development
+variant: markdown
 ---
 <h4><strong>Overview of SJI Junior Sexuality Education Programme for 2023</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a rel="noopener" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/overview">here</a>:</p>
@@ -37,7 +38,7 @@ third_nav_title: Character Development
 </ul>
 </td>
 <td width="193" rowspan="3">
-<p style="text-align: center;">10/7, 17/7 and 24/7</p>
+<p style="text-align: center;">        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1040178053 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-ligatures:standardcontextual;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-font-kerning:0pt; mso-ligatures:none;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->  8/7, 29/7 and 26/8</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +101,7 @@ third_nav_title: Character Development
 </ul>
 </td>
 <td width="187">
-<p style="text-align: center;">27/3 and 3/4</p>
+<p style="text-align: center;">        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1040178053 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-ligatures:standardcontextual;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-font-kerning:0pt; mso-ligatures:none;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> 25/3 and 1/4 </p>
 </td>
 </tr>
 </tbody>
@@ -110,7 +111,8 @@ third_nav_title: Character Development
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable at the bottom.</p>
 <p>Parents can contact the school at&nbsp;62552700&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
 <p>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
-<p><a href="/files/Opt%20out%20Form%202023.pdf">Opt out Form 2023</a></p>
+
+[Sexuality Education letter to parents 2024](/files/Sexuality_Education_letter_to_parents_2024.pdf)
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <ol>
 <li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li>
