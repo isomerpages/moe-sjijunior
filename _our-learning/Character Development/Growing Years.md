@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Character Development
 variant: markdown
 ---
-<h4><strong>Overview of SJI Junior Sexuality Education Programme for 2023</strong></h4>
+<h4><strong>Overview of SJI Junior Sexuality Education Programme for 2024</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a rel="noopener" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/overview">here</a>:</p>
 <p>For&nbsp;more information on the scope of Sexuality Education in the school curriculum.</p>
-<p><strong><u>Growing Years (GY) Programme</u>:<br>At St Joseph’s Institution Junior, the following lessons from the Growing Years Programme will be taught in <u>2023</u>:</strong></p>
+<p><strong><u>Growing Years (GY) Programme</u>:<br>At St Joseph’s Institution Junior, the following lessons from the Growing Years Programme will be taught in <u>2024</u>:</strong></p>
 <p style="text-align: center;"><strong><em>Primary 5</em></strong></p>
 <table width="860">
 <thead>
