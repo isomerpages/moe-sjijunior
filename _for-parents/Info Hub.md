@@ -25,6 +25,12 @@ variant: markdown
 
 [P2 Parents Information Day 2024 Part 2](/files/P2_Parents_Information_Day_2024_Part_2.pdf)
 
+# P3
+
+[Videos](https://drive.google.com/drive/folders/1ZEYCClvVlcWG6kaWat7WPzp81oWGLrU0?usp=drive_link)
+# P4
+
+[Videos](https://drive.google.com/drive/folders/1UHijm3CtPWKzZZyqFI9iA_-TYgNu2ntc?usp=drive_link)
 
 
 # P5 
