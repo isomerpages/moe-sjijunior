@@ -1,0 +1,7 @@
+collections:
+  pta:
+    output: true
+    order:
+      - PTA.md
+      - Members.md
+      - PTA Constitution.md

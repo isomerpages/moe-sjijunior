@@ -1,0 +1,30 @@
+collections:
+  our-heritage:
+    output: true
+    order:
+      - Our Beginnings/Our Founder.md
+      - Our Beginnings/The Brothers in Singapore.md
+      - Our Beginnings/Our Alma Mater's Call.md
+      - Our Beginnings/History of St Michael's School.md
+      - Our Beginnings/.keep
+      - Our Boys/Illustrious Alumni.md
+      - Our Boys/Other Notable Alumni.md
+      - Our Boys/President Scholars.md
+      - Our Boys/Sportsmen & Personalities.md
+      - Our Boys/Priests & Religious.md
+      - Our Boys/Generation of Boys.md
+      - Our Boys/.keep
+      - Our Community/Our Staff Through the Years.md
+      - Our Community/SMSAA.md
+      - Our Community/Soccer Academy.md
+      - Our Community/Parent–Teacher Association.md
+      - Our Community/.keep
+      - Our School Days/Spiritual Life.md
+      - Our School Days/Service to Others.md
+      - Our School Days/Sports.md
+      - Our School Days/Memorable Moments.md
+      - Our School Days/School Activities.md
+      - Our School Days/.keep
+      - Our Present/60th Anniversary.md
+      - Our Present/A New Era.md
+      - Our Present/.keep
