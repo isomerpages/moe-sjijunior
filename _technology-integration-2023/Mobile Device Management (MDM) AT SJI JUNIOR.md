@@ -2,6 +2,7 @@
 title: Mobile Device Management (MDM) AT SJI JUNIOR
 permalink: /our-learning/teaching-n-learning/technology-integration-2023/mobile-device-management-mdm-at-sji-j/
 description: ""
+variant: markdown
 ---
 <p>As part of this programme, the iPad will be enrolled in Apple School Manager. Each student will be getting an Apple Id account.<br>With that account, each student will be given a free 200 gigabyte iCloud storage account, where you can upload your documents and files. Other things that are included as part of this apple school manager are that the App Store is disabled, meaning to say the students are unable to install any apps from the App Store. The school can also push down apps remotely to be installed for classroom use.</p>
 <h4><strong>MDM for Parents and School</strong></h4>
@@ -14,6 +15,10 @@ description: ""
 <p>Click here to <a href="https://www.youtube.com/watch?v=bXI3G9waJVM&amp;list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N&amp;index=1">Watch</a>&nbsp;</p>
 <h4><strong>Parental Control (Using Screenguide)</strong></h4>
 <p><a rel="noopener" target="_blank" href="/files/Mobile%20Device%20Management_Screenguide%20Setup.pdf">Mobile Device Management Screenguide Setup.pdf</a></p>
+
+Quick Tips for using Screen Guide 
+[](/files/ScreenGuide__Quick_tips_2024.pdf)
+
 <p>Get started with Screen Guide Parental Control. Learn all it's features with 11 Video Tutorials.</p>
 <p>Click here to <a href="https://www.youtube.com/watch?v=bXI3G9waJVM&amp;list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N&amp;index=1">Watch</a></p>
 <p><a target="" href="https://www.youtube.com/watch?v=qF1iO48ux1Y">Adding student's iPad to parent's phone for remote management</a>&nbsp;(See video below)</p>
