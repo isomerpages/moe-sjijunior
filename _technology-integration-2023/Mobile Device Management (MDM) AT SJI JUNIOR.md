@@ -16,10 +16,13 @@ variant: markdown
 <h4><strong>Parental Control (Using Screenguide)</strong></h4>
 <p><a rel="noopener" target="_blank" href="/files/Mobile%20Device%20Management_Screenguide%20Setup.pdf">Mobile Device Management Screenguide Setup.pdf</a></p>
 
-Quick Tips for using Screen Guide 
-[](/files/ScreenGuide__Quick_tips_2024.pdf)
+[Screen Guide Quick Tips](/files/ScreenGuide__Quick_tips_2024.pdf)
 
-<p>Get started with Screen Guide Parental Control. Learn all it's features with 11 Video Tutorials.</p>
+
+<p>Get started with Screen Guide Parental Control. 
+	
+Learn all it's features with 11 Video Tutorials.</p>
+	
 <p>Click here to <a href="https://www.youtube.com/watch?v=bXI3G9waJVM&amp;list=PLTHVutaljrzkHPotUmPLi9NFNBwgDVr2N&amp;index=1">Watch</a></p>
 <p><a target="" href="https://www.youtube.com/watch?v=qF1iO48ux1Y">Adding student's iPad to parent's phone for remote management</a>&nbsp;(See video below)</p>
 <p><a target="" href="https://www.youtube.com/watch?v=fQT-Dp7ixsU">Adding additional guardian to family&nbsp;</a>(See video below)</p>
