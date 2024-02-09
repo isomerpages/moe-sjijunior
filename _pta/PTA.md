@@ -30,7 +30,7 @@ for 2023-2024</p>
 are an important stakeholder to the school. In the AGM, we will be electing
 a new team of parents to support the school in promoting the general welfare
 and well-being of the pupils.&nbsp;</p>
-<p><a href="/files/Financial_Statement_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Statement 2023</a>
+<p><a href="/files/Signed_Financial_Statement1.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Statement 2023</a>
 </p>
 <p><a href="/files/PTA_President_s_Message_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PTA President's Message 2024</a>
 </p>
