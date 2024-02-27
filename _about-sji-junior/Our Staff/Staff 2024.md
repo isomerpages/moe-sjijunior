@@ -1034,11 +1034,11 @@ goals, while appreciating the strength in their diversity."</p>
 <p>Ms Tan Kee Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Once the joy of learning is established, you will be on tack for self-discovery
+<p>"Once the joy of learning is established, you will be on track for self-discovery
 and success."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Kee_Pin_A@@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Tan_Kee_Pin_A@_moe.edu.sg</u></a>
+<p><a href="mailto:tan_kee_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Tan_Kee_Pin@_moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
