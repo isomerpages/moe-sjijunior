@@ -1,5 +1,5 @@
 ---
-title: WHISTLE BLOWING POLICY
+title: Whistle Blowing Policy
 permalink: /about-sji-junior/whistleblowing/permalink/
 variant: tiptap
 description: ""
