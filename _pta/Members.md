@@ -4,7 +4,7 @@ permalink: /pta/members/
 description: ""
 variant: markdown
 ---
-<h4><strong>54th&nbsp;SJIJ PTA Management Committee (2023 – 2024)</strong></h4>
+<h4><strong>55th&nbsp;SJIJ PTA Management Committee (2024 – 2025)</strong></h4>
 
 Mr. Lawrence De Silva (President)
 
