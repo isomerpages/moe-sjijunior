@@ -21,7 +21,13 @@ and the child will be ready for challenges ahead."
 <br><strong><a href="mailto:lim_yew_tee_collin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">lim_yew_tee_collin@moe.edu.sg<br></a></strong>
 </p>
 <h4><strong>Head of Department</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -184,10 +190,32 @@ learning to all our students."</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SEN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chriel Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_suet_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_suet_hoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Year Head</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -306,7 +334,13 @@ to learn."</p>
 </tbody>
 </table>
 <h4><strong>Subject Head</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -395,7 +429,13 @@ challenging goals for the students and help them experience success."</p>
 </tbody>
 </table>
 <h4><strong>Academic Staff</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -676,7 +716,13 @@ make the biggest impact."</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -958,7 +1004,13 @@ goals, while appreciating the strength in their diversity."</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1175,7 +1227,13 @@ perseverance as its faithful companions."</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1392,7 +1450,13 @@ and ignite a genuine enthusiasm for exploration ."&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1608,7 +1672,13 @@ making hard choices, to grow them as learners.”</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1824,7 +1894,12 @@ most."&nbsp;</p>
 </tbody>
 </table>
 <h4><strong>AED</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
