@@ -199,7 +199,7 @@ learning to all our students."</p>
 <p>Mrs Chriel Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Every child is unique and can learn."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_suet_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_suet_hoon@moe.edu.sg</a>
