@@ -17,7 +17,7 @@ variant: markdown
 If you meet the above criteria and wish to register your child during 2024 Primary One Registration Exercise Phase 2A, please click this [link](https://form.gov.sg/641ff79372513d00123fb607)
 to complete the form. You will need to attach a copy of the following document as proof of affiliation. 
 
-1)	If the parent was a former student of SMS/SJIJ, attach the front copy of parent’s NRIC 
+1)	If the parent was a former student of SMS/SJIJ, attach the front and back copy of parent’s NRIC 
 
 2)	If sibling was a former student of SMS/SJIJ, attach the birth certificate of sibling
 
