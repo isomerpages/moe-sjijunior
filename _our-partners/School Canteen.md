@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirement |
 | -------- | -------- | -------- |
-Japanese/Noodle Stall|10/12 2023|Non-Halal
+NIL
 
 Application Procedure
 
