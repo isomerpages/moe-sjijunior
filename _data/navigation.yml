@@ -12,3 +12,16 @@ links:
     collection: alumni
   - title: OUR PARTNERS
     collection: our-partners
+  - title: Navigation
+    url: navigation/permalink
+    sublinks:
+      - title: FAQ
+        url: FAQ/permalink
+      - title: New submenu
+        url: https://www.sjijunior.moe.edu.sg/contact-us/
+      - title: Report Vulnerability
+        url: https://www.tech.gov.sg/report_vulnerability
+      - title: Privacy Statement
+        url: privacy/permalink
+      - title: Terms of Use
+        url: terms/permalink
