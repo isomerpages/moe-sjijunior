@@ -2,17 +2,8 @@
 title: School Uniform
 permalink: /for-parents/uniform/
 description: ""
+variant: markdown
 ---
-<p><strong>United Uniforms P/L</strong></p>
-
-<p><strong>(Until 31 December 2023)</strong></p>
-
-168 Lor 1 Toa Payoh, #01-1034,  S(310168)
-
-Tel: 6353 0921
-
-[https://united-uniforms.com/](https://united-uniforms.com/)
-
 ________________________________________________
 
 <p><strong>Jeep Sing Fashion </strong></p>
