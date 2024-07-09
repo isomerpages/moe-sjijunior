@@ -1860,8 +1860,7 @@ to foster a lifelong love for education."&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Luke (Form)</strong>
-</p>
+<p><strong>6 Luke (Form)</strong>Mrs Adrianna Chiew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Agustina Lim</p>
@@ -1944,10 +1943,10 @@ most."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Hong Ping</p>
+<p>Mrs Adrianna Chiew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:soh_hong_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_hong_ping@moe.edu.sg</u></a>
+<p><a href="mailto:adrianna_ngern_cheng_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adrianna_ngern_cheng_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
