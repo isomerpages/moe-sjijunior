@@ -1119,8 +1119,7 @@ and success."&nbsp;</p>
 <p>Mdm Noor Mala</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Attitude is a little thing that makes a big difference. So it improve
-it...."</p>
+<p>"Attitude is a little thing that makes a big difference. So improve it...."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Noor_Mala_Mustaffa_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Noor_Mala_Mustaffa_A@moe.edu.sg</a>
