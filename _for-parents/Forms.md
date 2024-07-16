@@ -14,5 +14,5 @@ variant: tiptap
 </p>
 <p><a href="/files/application%20for%20subsidy%20for%20e3%20programme%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Application For Subsidy for E3 Programme</a>
 </p>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet 2024</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Group/personal insurance claim for pupils</a>
 </p>
