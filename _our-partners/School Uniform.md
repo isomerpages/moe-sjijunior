@@ -2,24 +2,18 @@
 title: School Uniform
 permalink: /for-parents/uniform/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-________________________________________________
-
-<p><strong>Jeep Sing Fashion </strong></p>
-
-<p><strong>(From 1 January 2024)</strong></p>
-
-4012 Ang Mo Kio Ave 10, 
-TechPlace 1
-#01-09, 
-S(569628)
-
-[https://jeepsinguniform.com/collections](https://jeepsinguniform.com/collections)
-
-________________________________________________
-
-*More information on the uniform vendors will be provided via Parents Gateway.
-
-
-[Placement of Name Tag on Uniform &amp; PE Attire](/files/placement%20of%20name%20tag%20on%20uniform%20&amp;%20pe%20attire.pdf)
+<hr>
+<p><strong>Jeep Sing Fashion</strong>
+</p>
+<p><strong>(From 1 January 2024)</strong>
+</p>
+<p>4012 Ang Mo Kio Ave 10, TechPlace 1 #01-09, S(569628)</p>
+<p><a href="https://jeepsinguniform.com/collections" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections</a>
+</p>
+<hr>
+<p>*More information on the uniform vendors will be provided via Parents
+Gateway.</p>
+<p><a href="/files/Placement_of_Name_Tags.pdf" rel="noopener noreferrer nofollow" target="_blank">Placement of Name Tag on Uniform &amp; PE Attire</a>
+</p>
