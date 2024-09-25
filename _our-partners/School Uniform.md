@@ -7,8 +7,7 @@ variant: tiptap
 <hr>
 <p><strong>Jeep Sing Fashion</strong>
 </p>
-<p><strong>(From 1 January 2024)</strong>
-</p>
+<p></p>
 <p>4012 Ang Mo Kio Ave 10, TechPlace 1 #01-09, S(569628)</p>
 <p><a href="https://jeepsinguniform.com/collections" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections</a>
 </p>
