@@ -1,6 +1,6 @@
 ---
-title: Technology Integration 2024
-permalink: /our-learning/teaching-and-learning/technology-integration-2023/
+title: Technology Integration
+permalink: /our-learning/teaching-and-learning/technology-integration/
 description: ""
 third_nav_title: Teaching & Learning
 variant: tiptap
