@@ -2,6 +2,7 @@
 title: School Based Student Care Centre
 permalink: /for-parents/schbasestudentcc/
 description: ""
+variant: markdown
 ---
 ### Pro-Teach @SJIJ Student Care Centre 
 
@@ -9,17 +10,17 @@ The school has appointed Pro-Teach Education Group Pte Ltd to operate the Studen
 
 <p><strong>Information Sheet</strong></p>
 
-[Pro-Teach Information Sheet - SJIJ 2024](/files/(yr%202024)%20pro-teach%20info%20sheet.pdf)
+[Pro-teach Info Sheet_SJIJ 2025](/files/Pro_Teach_Info_Sheet_SJIJ_2025.pdf)
 
 <p><strong>Website</strong></p>
 
 [http://www.pro-teach.com](http://www.pro-teach.com)
 
-Should you be interested in enrolling your child in Pro-Teach@SJIJ Student Care Centre, please submit your application to the school’s email address (sjijunior@moe.edu.sg) by 23 October 2023. 
+Should you be interested in enrolling your child in Pro-Teach@SJIJ Student Care Centre, please submit your application to the school’s email address (sjijunior@moe.edu.sg) by 21** October 2024. **
 
 <p><strong>Application form</strong></p>
 
-[Pro-Teach Application Form](/files/application%20form.pdf)
+[Pro-Teach Application Form 2025](/files/Pro_Teach_APPLICATION_FORM_2025.pdf)
 
 Please note that the receipt of this form by the school does not guarantee a place in the SCC.  The SCC will contact successful applicants in due course.
 
