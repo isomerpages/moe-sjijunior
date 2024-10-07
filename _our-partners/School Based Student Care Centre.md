@@ -18,7 +18,7 @@ please refer to the introductory letter by Pro-Teach and their website:</p>
 </p>
 <p>Should you be interested in enrolling your child in Pro-Teach@SJIJ Student
 Care Centre, please submit your application to the school’s email address
-(sjijunior@moe.edu.sg) by <strong><u>21 October 2024. </u></strong>
+(sjijunior@moe.edu.sg) by <strong><u>21 October 2024.</u></strong>
 </p>
 <p><strong>Application form</strong>
 </p>
