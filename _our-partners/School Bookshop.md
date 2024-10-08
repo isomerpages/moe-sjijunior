@@ -190,9 +190,8 @@ opened on the dates stated below:</p>
 <p><strong>Operating Hours: Mon-Fri: 9am – 3pm, please avoid lunchtime (12pm – 1pm).</strong>
 </p>
 <p><strong>&nbsp;</strong>
+<br><strong>Please note that there will be one-time packaging charge of $0.10 (plastic bag) or $0.90 (reusable bag)</strong>
 </p>
-<p><strong>Please note that there will be one-time packaging charge of $0.10 (plastic bag) or $0.90 (reusable bag)</strong>
-</p>
-<h2>2024 Primary 1 Booklist</h2>
+<h2>2025 Primary 1 Booklist</h2>
 <p><a href="/files/P1_book_list_2025.pdf" rel="noopener nofollow" target="_blank">P1 Book List 2025</a>
 </p>
