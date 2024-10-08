@@ -25,7 +25,7 @@ submit your interest early so that RS transport Services can collate the
 requests, plan and allocate the transport.</p>
 <p>For parents of 2025 P1 students who are interested in taking up the school
 bus services in 2025, please complete the request from the&nbsp;<a href="https://www.rstransport.com.sg/wp-content/uploads/2024/09/SJI-Request-for-School-Bus-Services-2025-RS-Transport.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;by
-8 November 2024 and email to sji@rstransport.com.sg</p>
+21 Oct 2024 and email to sji@rstransport.com.sg</p>
 <p>Name of Bus Operator: RS Transport Services</p>
 <p>Website: <a href="https://rstransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://rstransport.com.sg</a>
 </p>

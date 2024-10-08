@@ -2,31 +2,197 @@
 title: School Bookshop
 permalink: /for-parents/bookshop/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Pacific Book Store Pte Ltd
-
-
-
-Tel:&nbsp;**6354 4164**
-
-To avoid overcrowding in school,&nbsp;**parents are strongly encouraged to purchase the books online and opt for home delivery.**&nbsp; The books can be purchased via our&nbsp;**website from 06 November 2023.**
-
-**Note: The online orders from the website will be closed on 15 December 2023.**
-
-[www.pacificbookstores.com](http://www.pacificbookstores.com/)
-
-Payment can be made via VISA/MASTERCARD/Debit Cards.&nbsp; Delivery Charge of $13.80 applies (COVID-19 Subsidised rate).
-
-You may also choose to place your order online and self-collect at the school on stipulated dates given below.
-
-While walk-in purchase is not preferred, you may purchase the books from the school bookshop if there is such a need.&nbsp; The bookshop will be opened on the dates stated below:
-
-
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 690px; color: rgb(72, 72, 72); font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); height: 341px;" width="0" class="iveo_table ives_tab_1 ive_eobj_center"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40); width: 112px;" class="" width="102"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">Date</span></b></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40); width: 75px;" class="" width="66"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">Day</span></b></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40); width: 140px;" class="" width="132"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">Level(s)</span></b></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="102"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">29/11/2023</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="66"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">Wed</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="132"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">P1 &amp; P2</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="102"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">30/11/2023</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="66"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">Thu</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="132"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">P3 &amp; P4</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="102"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">01/12/2023</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="66"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">Fri</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="132"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">P5 &amp; P6</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="102"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">02/12/2023</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="66"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class="">Sat</p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="132"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">P1 &amp; P2</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="102"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">06/12/2023<font style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" color="#282828"></font></span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="66"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">Wed</span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="132"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">P3 &amp; P4</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="102"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">07/12/202<font style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" color="#282828">3</font></span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="66"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class="">Thu</p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);" class="" width="132"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">P5 &amp; P6</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" class=""><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="102"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">08/12/202<font style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;" color="#282828">3<span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp;</span></font></span></p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="66"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class="">Fri</p></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);" class="" width="132"><p style="box-sizing: inherit; font-family: &quot;PT Sans&quot;, sans-serif; margin: 0px 0px 10px; padding: 0px; font-size: 16px; line-height: 20px !important; outline: 0px; color: rgb(0, 0, 0);" class=""><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px;" class="">All levels</span></p></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">09/12/2023</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">Sat</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">All levels</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">13/12/2023</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">Wed</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">All levels</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">14/12/2023</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">Thu&nbsp;</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">All levels</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">15/12/2023</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">Fri</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">All levels</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">16/12/2023</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">Sat</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">All levels</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">26/12/2023</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">Tue</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">All levels<br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">27/12/2023</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">Wed</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; background: rgb(255, 255, 255); color: rgb(40, 40, 40);">All levels</td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">28/12/2023</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">Thu</td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; background: rgb(244, 238, 220); color: rgb(40, 40, 40);">All levels</td></tr></tbody></table>
-
-**Operating Hours: Mon-Fri: 9.00am – 3.00pm, Sat: 9.00am – 12noon**
-
-2024 Primary 1 Booklist
------------------------
-[P1 Book List 2024](/files/p1%20book%20list%202024.pdf)
+<h3>Pacific Book Store Pte Ltd</h3>
+<p>Tel:&nbsp;<strong>90919426 (9am-3pm)</strong>
+</p>
+<p>To avoid overcrowding in school,&nbsp;<strong>parents are strongly encouraged to purchase the books online and opt for home delivery.</strong>&nbsp;
+The books can be purchased via our&nbsp;<strong>website from 07 November 2024.</strong>
+</p>
+<p><strong>Note: The online orders from the website will be closed on 14 December 2024.</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+</p>
+<p>Payment can be made via VISA/MASTERCARD/Debit Cards.&nbsp; Delivery Charge
+of $14.90 applies.</p>
+<p>You may also choose to place your order online and self-collect at the
+school on stipulated dates given below.</p>
+<p>While walk-in purchase is not preferred, you may purchase the books from
+the school bookshop if there is such a need.&nbsp; The bookshop will be
+opened on the dates stated below:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level(s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27/11/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 &amp; P2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28/11/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29/11/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 &amp; P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>04/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 &amp; P2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>05/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>06/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 &amp; P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11/12/2024&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27/12/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All levels</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Operating Hours: Mon-Fri: 9am – 3pm, please avoid lunchtime (12pm – 1pm).</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Please note that there will be one-time packaging charge of $0.10 (plastic bag) or $0.90 (reusable bag)</strong>
+</p>
+<h2>2024 Primary 1 Booklist</h2>
+<p><a href="/files/P1_book_list_2025.pdf" rel="noopener nofollow" target="_blank">P1 Book List 2025</a>
+</p>
