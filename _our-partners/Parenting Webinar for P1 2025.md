@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>“READY, GET SET, GO! – Preparing Our Children for Primary Education”</h3>
-<p>Date: 25 Nov 2023 (Sat) Time: 9.30am to 11.00am</p>
+<p>Date: Saturday, 16 November⋅09:00 – 10:30</p>
 <p>Dear Parents,</p>
 <p>We are happy to invite you to a parenting webinar that we are organising
 entitled "READY, GET SET, GO! - Preparing Our Children for Primary Education”,
