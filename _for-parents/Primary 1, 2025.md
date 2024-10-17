@@ -2,12 +2,29 @@
 title: Primary 1, 2025
 permalink: /for-parents/primary-1-2025/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Useful Links
-
-*   [Bookshop](https://www.sjijunior.moe.edu.sg/for-parents/bookshop/)
-*   [Uniform](https://www.sjijunior.moe.edu.sg/for-parents/uniform/)
-*   [School Bus Services](https://www.sjijunior.moe.edu.sg/for-parents/schbusservice/)
-*   [School-Based Student Care Centre](https://www.sjijunior.moe.edu.sg/for-parents/schbasestudentcc/)
-*   [Parenting Webinar]
+<p>Useful Links</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.sjijunior.moe.edu.sg/for-parents/bookshop/" rel="noopener noreferrer nofollow" target="_blank">Bookshop</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sjijunior.moe.edu.sg/for-parents/uniform/" rel="noopener noreferrer nofollow" target="_blank">Uniform</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sjijunior.moe.edu.sg/for-parents/schbusservice/" rel="noopener noreferrer nofollow" target="_blank">School Bus Services</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sjijunior.moe.edu.sg/for-parents/schbasestudentcc/" rel="noopener noreferrer nofollow" target="_blank">School-Based Student Care Centre</a>
+</p>
+</li>
+<li>
+<p><a href="https://sjijunior.moe.edu.sg/for-parents/parentingwebinar/" rel="noopener nofollow" target="_blank">Parenting Webinar</a>
+</p>
+</li>
+</ul>
+<p></p>
