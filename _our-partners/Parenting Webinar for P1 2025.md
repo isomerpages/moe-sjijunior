@@ -10,7 +10,7 @@ variant: tiptap
 <p>We are happy to invite you to a parenting webinar that we are organising
 entitled "READY, GET SET, GO! - Preparing Our Children for Primary Education”,
 delivered by TOUCH Community Services.</p>
-<p>Please register via this <a href="https://form.gov.sg/652350b9bbec810013f73dd3" rel="noopener noreferrer nofollow" target="_blank">link</a>
+<p>Please register via this <a href="https://form.gov.sg/67183927e0339adec4659e93" rel="noopener noreferrer nofollow" target="_blank">link</a>
 </p>
 <p>The zoom details will be provided to you upon confirmation of registration.
 You may refer to the e-flyer for more information.</p>
