@@ -4,6 +4,9 @@ permalink: /for-parents/primary-1-2025/
 description: ""
 variant: tiptap
 ---
+<p><a href="https://sites.google.com/moe.edu.sg/openhouse2020?usp=sharing" rel="noopener nofollow" target="_blank">Open House 2025</a>
+</p>
+<p></p>
 <p>Useful Links</p>
 <ul data-tight="true" class="tight">
 <li>
