@@ -6,7 +6,17 @@ variant: tiptap
 ---
 <p><a href="https://sites.google.com/moe.edu.sg/openhouse2020?usp=sharing" rel="noopener nofollow" target="_blank">Open House 2025</a>
 </p>
-<p></p>
+<p>P1 Orientation Matters</p>
+<p><a href="/files/P1_Orientation_2025___6_Nov_2024_1_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2025 (1)</a>
+</p>
+<p><a href="/files/P1_Orientation_2025___6_Nov_2024_2_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2025 (2)</a>
+</p>
+<p><a href="/files/P1_Orientation_2025___6_Nov_2024_3_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2025 (3)</a>
+</p>
+<p><a href="/files/P1_Orientation_2025___6_Nov_2024_4_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2025 (4)</a>
+</p>
+<p><a href="/files/P1_Orientation_2025___6_Nov_2024_5_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2025 (5)</a>
+</p>
 <p>Useful Links</p>
 <ul data-tight="true" class="tight">
 <li>
