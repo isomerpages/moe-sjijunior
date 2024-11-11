@@ -9,7 +9,7 @@ variant: tiptap
 for after school activities for the year 2025.</p>
 <p>Parents of existing students who are interested in taking up the school
 bus services in 2025 please complete the request form QR code or link by
-21 Oct 2024 and email to <a href="mailto:sji@rstransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">sji@rstransport.com.sg</a>
+20 Nov 2024 and email to <a href="mailto:sji@rstransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">sji@rstransport.com.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
