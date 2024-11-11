@@ -228,7 +228,7 @@ APPLICATION FOR SUBSIDY FOR E3 PROGRAMME 2022.pdf</a></p>
 </p>
 </li>
 <li>
-<p><a href="/our-learning/teaching-n-learning/technology-integration-2023/mdm-for-graduating-classes" rel="noopener noreferrer nofollow" target="_blank">MDM for Graduating Classes</a>
+<p><a href="https://www.sjijunior.moe.edu.sg/our-learning/teaching-n-learning/technology-integration-2023/mdm-for-graduating-classes/" rel="noopener noreferrer nofollow" target="_blank">MDM for Graduating Classes</a>
 </p>
 </li>
 <li>
