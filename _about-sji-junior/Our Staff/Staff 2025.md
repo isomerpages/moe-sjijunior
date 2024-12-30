@@ -663,13 +663,14 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr George Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"To teach with passion and commitment."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:george_kheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>george_kheng_a@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -678,14 +679,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rachel Goh</p>
+<p>Ms Eadelin Marzinek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"To teach is to touch a life forever."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rachel_kee_hui_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_kee_hui_fen@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -694,13 +694,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Chze Kee</p>
+<p>Ms Ing Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"终身学习，从小建立"</p>
+<p>"Embracing and believing in every child in my class."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Loh_chze_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Loh_chze_kee@moe.edu.sg</u></a>
+<p><a href="mailto:oh_ing_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>oh_ing_shan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -737,14 +737,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmina</p>
+<p>Ms Wang Jiabao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Every child is a different kind of flower and altogether make this world
-a beautiful garden.</p>
+<p>“The purpose of teaching is to develop students' self-learning ability.”&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasmina_begam_khalikuzzaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jasmina_begam_khalikuzzaman@moe.edu.sg</u></a>
+<p><a href="mailto:wang_jiabao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_jiabao@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
