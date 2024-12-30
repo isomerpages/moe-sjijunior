@@ -614,14 +614,14 @@ challenging goals for the students and help them experience success."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Priya Chopra&nbsp;</p>
+<p>Ms Gloria Tse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Always seek opportunities to show you care. The smallest gestures often
-make the biggest impact."</p>
+<p>"Education enables our children to exploit their similarities and common
+goals, while appreciating the strength in their diversity."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:subha_priya_sundararaj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>subha_priya_sundararaj@moe.edu.sg</u></a>
+<p><a href="mailto:tse_wai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tse_wai_ying@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -631,14 +631,12 @@ make the biggest impact."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Yingying</p>
+<p>Mr Mohammad Shaiful</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Joy in learning comes from curiosity and passion in life."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yingying@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
@@ -648,13 +646,14 @@ make the biggest impact."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kim Leong</p>
+<p>Ms Joyce Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"学习是为了自我提升，自我超越，以及自我完善"&nbsp;</p>
+<p>"Discovering the uniqueness of each child and infusing joy into learning
+to foster a lifelong love for education."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kim_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kim_leong@moe.edu.sg</u></a>
+<p><a href="lu_huishu_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_huishu_joyce@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -664,14 +663,13 @@ make the biggest impact."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Andrea Khan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Children are like stars. Every one of them can sparkle and shine."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="andrea_melissa_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrea_melissa_khan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
