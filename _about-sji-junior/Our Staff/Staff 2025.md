@@ -864,14 +864,13 @@ a gift for us to mould."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraishah</p>
+<p>Ms Wang Xiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"A good teacher is one who provides a safe environment for every child
-to learn."</p>
+<p>&nbsp;"无痕教育"</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noraishah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noraishah_abdul_rahim@moe.edu.sg</u></a>
+<p><a href="mailto:wang_xiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_xiao@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -881,13 +880,13 @@ to learn."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Alphonsus Alvar</p>
+<p>Mrs Colleen Sheares</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Kindness in word and deed."</p>
+<p>"Education opens a whole world to the students and shapes them into gentlemen."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jonathan_alphonsus_alvar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jonathan_alphonsus_alvar@moe.edu.sg</u></a>
+<p><a href="mailto:colleen_sheares@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>colleen_sheares@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -897,14 +896,13 @@ to learn."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Cheong</p>
+<p>Mrs Rachel Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"A good educator is one who facilitates students' learning at their own
-pace."</p>
+<p>"To teach is to touch a life forever."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_seng_chin_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_seng_chin_christopher@moe.edu.sg</u></a>
+<p><a href="mailto:rachel_kee_hui_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_kee_hui_fen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -914,15 +912,14 @@ pace."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Chong</p>
+<p>Mr Joseph Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Children are likely to live up ti what you believe of them."</p>
+<p>"All students can learn, want to learn and want to succeed."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chong_YinPhing_Karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chong_YinPhing_Karen@moe.edu.sg</a>
+<p><a href="mailto:joseph_ng_swee_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joseph_ng_swee_seng@moe.edu.sg</u></a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -931,14 +928,13 @@ pace."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gloria Tse</p>
+<p>Mr Ng Kim Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Education enables our children to exploit their similarities and common
-goals, while appreciating the strength in their diversity."</p>
+<p>"学习是为了自我提升，自我超越，以及自我完善"&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tse_wai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tse_wai_ying@moe.edu.sg</u></a>
+<p><a href="mailto:ng_kim_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kim_leong@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -980,13 +976,14 @@ goals, while appreciating the strength in their diversity."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nooradelin&nbsp;</p>
+<p>Ms Ng Siew Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"You learn something everyday, apply what you learnt and use it wisely."</p>
+<p>"When my student is able to teach another with conviction and passion,
+I have done my part as a teacher."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nooradelin_mohamad_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nooradelin_mohamad_salleh@moe.edu.sg</a>
+<p><a href="mailto:ng_siew_choo_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_siew_choo_b@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
