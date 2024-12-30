@@ -490,14 +490,13 @@ challenging goals for the students and help them experience success."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Noeline Wong</p>
+<p>Mrs Teong Phey Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Believe that every child is a gift from above; a gift for us to love;
-a gift for us to mould."&nbsp;</p>
+<p>"Every child can learn and achieve his potential."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teo_huiling_noeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Teo_huiling_noeline@moe.edu.sg</u></a>
+<p><a href="mailto:teong_phey_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teong_phey_fang@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -507,15 +506,13 @@ a gift for us to mould."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Franco&nbsp;</p>
+<p>Ms Kuan Poey Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Education sees no boundaries. There is something to be learnt from somebody
-at every place and situation."&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seet_siew_chen_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seet_siew_chen_esther@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -524,14 +521,13 @@ at every place and situation."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jean Toh&nbsp;</p>
+<p>Ms Celeste Teong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"We don't do mistakes, we do learning."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ngan_kwan_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ngan_kwan_siang@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -540,13 +536,13 @@ at every place and situation."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Margaret Loh</p>
+<p>Mdm Safiya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"No act of kindness, no matter how small, is ever wasted."</p>
+<p>&nbsp;"To teach both lessons for life and lessons in life."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chua_Xin_Huay_Margaret@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Xin_Huay_Margaret@moe.edu.sg</a>
+<p><a href="mailto:mahmoodha_safiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahmoodha_safiya@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -556,14 +552,13 @@ at every place and situation."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Lin Huixian</p>
+<p>Mrs Yogaeswari Asogan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"In a world where you can be anything, be kind."</p>
+<p>"Connecting with each child's heart and mind."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_huixian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_huixian@moe.edu.sg</a>
-</p>
+<p><a href="mailto:yogaeswari_ramaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yogaeswari_ramaraj@moe.edu.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -572,14 +567,13 @@ at every place and situation."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Lee Huang</p>
+<p>Mdm Gao Chunmei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Train up a child in the way he should go; even when he is old he will
-not depart."&nbsp;</p>
+<p>"文化传承"</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_lee_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chang_lee_huang@moe.edu.sg</u></a>
+<p><a href="mailto:gao_chunmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gao_chunmei@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -589,13 +583,13 @@ not depart."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Xiao</p>
+<p>Ms Melissa Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;"无痕教育"</p>
+<p>"Every boy has the ability to learn; just not in the same way."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_xiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_xiao@moe.edu.sg</u></a>
+<p><a href="mailto:yong_lai_ling_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yong_lai_ling_melissa@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -605,14 +599,13 @@ not depart."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Colleen Sheares</p>
+<p>Mr Au Chee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Education opens a whole world to the students and shapes them into gentlemen."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:colleen_sheares@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>colleen_sheares@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
