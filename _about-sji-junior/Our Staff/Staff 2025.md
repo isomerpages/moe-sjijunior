@@ -753,13 +753,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr A. Monteiro</p>
+<p>Ms Abelin Cheong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"I will make learning FUN for the students in my care."</p>
+<p>"Teaching is more than imparting knowledge, it is inspiring change."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:monteiro_anthony_edward@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>monteiro_anthony_edward@moe.edu.sg</u></a>
+<p><a href="mailto:cheong_guifang_abelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_guifang_abelin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -769,13 +769,14 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teong Phey Fang</p>
+<p>Mrs Noeline Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Every child can learn and achieve his potential."</p>
+<p>"Believe that every child is a gift from above; a gift for us to love;
+a gift for us to mould."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teong_phey_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teong_phey_fang@moe.edu.sg</u></a>
+<p><a href="mailto:Teo_huiling_noeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Teo_huiling_noeline@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -785,14 +786,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Jiabao</p>
+<p>Ms Nooradelin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>“The purpose of teaching is to develop students' self-learning ability.”&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_jiabao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_jiabao@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -801,14 +801,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Wei Yee</p>
+<p>Mrs Jean Toh&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"All children are capable of learning. Every little thing we do matters
-to them."&nbsp;</p>
+<p>"We don't do mistakes, we do learning."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_wei_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chia_wei_yee@moe.edu.sg</u></a>
+<p><a href="mailto:Ngan_kwan_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ngan_kwan_siang@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -818,13 +817,13 @@ to them."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr George Kheng</p>
+<p>Mrs Margaret Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"To teach with passion and commitment."&nbsp;</p>
+<p>"No act of kindness, no matter how small, is ever wasted."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:george_kheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>george_kheng_a@moe.edu.sg</u></a>
+<p><a href="mailto:Chua_Xin_Huay_Margaret@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Xin_Huay_Margaret@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -834,13 +833,13 @@ to them."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Xing Nan</p>
+<p>Ms&nbsp;Lin Huixian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>“A child has a hundred languages and endless potential.”</p>
+<p>"In a world where you can be anything, be kind."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xing_nan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xing_nan@moe.edu.sg</u></a>
+<p><a href="mailto:lin_huixian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_huixian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
