@@ -1680,13 +1680,14 @@ most."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Siong Heng</p>
+<p>Ms Tan Hui See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Learning something new every single day makes life a little more interesting."</p>
+<p>"Teachers play an important role in unlocking the potential and curious
+minds of every child."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_siong_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_siong_heng@moe.edu.sg</u></a>
+<p><a href="mailto:tan_hui_see@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hui_see@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1696,13 +1697,13 @@ most."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Safiya</p>
+<p>Mrs Marimuthu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;"To teach both lessons for life and lessons in life."</p>
+<p>"A good teacher is a stepping stone for a child to move up in life."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahmoodha_safiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahmoodha_safiya@moe.edu.sg</u></a>
+<p><a href="mailto:arasi_s@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arasi_s@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1712,14 +1713,14 @@ most."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Huang Wei</p>
+<p>Mrs Hannah Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Believe that every child can learn in their own way. Set realistic yet
-challenging goals for the students and help them experience success."</p>
+<p>&nbsp;‘Every child is a seed with the potential to grow into a unique
+and flourishing individual."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_seng_chin_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_huang_wei@moe.edu.sg</u></a>
+<p><a href="foo_yun_xi_hannah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yun_xi_hannah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1729,13 +1730,14 @@ challenging goals for the students and help them experience success."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Firdaus</p>
+<p>Mr Daniel Dominic Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Think outside the box. Find creative solutions."</p>
+<p>"Facilitating learning to help each child discover who he is today and
+who he can be tomorrow."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:firdaus_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>firdaus_johari@moe.edu.sg</u></a>
+<p><a href="mailto:daniel_dominic_kwek@moe.edu.sg" rel="noopener noreferrer" target="_blank"><u>daniel_dominic_kwek@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1745,14 +1747,14 @@ challenging goals for the students and help them experience success."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Low</p>
+<p>Mrs Sharon Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Discovering the uniqueness of each child and infusing joy into learning
-to foster a lifelong love for education."&nbsp;</p>
+<p>"To inspire students to be self-directed learners who strive to be the
+best that they can be."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lu_huishu_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_huishu_joyce@moe.edu.sg</a>
+<p><a href="mailto:ong_suat_ling_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_suat_ling_sharon@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1762,13 +1764,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gao Chunmei</p>
+<p>Ms Xing Nan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"文化传承"</p>
+<p>“A child has a hundred languages and endless potential.”</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gao_chunmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gao_chunmei@moe.edu.sg</u></a>
+<p><a href="mailto:xing_nan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xing_nan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1778,13 +1780,14 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yogaeswari Asogan</p>
+<p>Mr Ang Han Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Connecting with each child's heart and mind."&nbsp;</p>
+<p>"We are what we repeatedly do. Excellence, then, is not an act but a habit."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yogaeswari_ramaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yogaeswari_ramaraj@moe.edu.sg</u></a>&nbsp;</p>
+<p><a href="mailto:ang_han_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_han_sheng@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1809,13 +1812,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Meiqi</p>
+<p>Mr Callistus Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"I believe that learning is a journey not the destination."&nbsp;</p>
+<p>"A successful life is a result of small successes."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:soh_mei_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh_mei_qi@moe.edu.sg</u></a>
+<p><a href="mailto:callistus_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>callistus_chan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1825,13 +1828,13 @@ to foster a lifelong love for education."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Syah Fidzuan bin Abdul Rahim</p>
+<p>Ms Karen Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Everyone gets a chance to learn something new each day."</p>
+<p>"Give students the space to learn and they will find their confidence."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syah_fidzuan_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syah_fidzuan_abdul_rahim@moe.edu.sg</u></a>
+<p><a href="mailto:ho_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_hui_ming@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1840,14 +1843,14 @@ to foster a lifelong love for education."&nbsp;</p>
 <p><strong>6 Luke (Form)</strong>Mrs Adrianna Chiew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Agustina Lim</p>
+<p>Mrs Priya Chopra&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"To tell the students they matter most; to teach the students what matters
-most."&nbsp;</p>
+<p>"Always seek opportunities to show you care. The smallest gestures often
+make the biggest impact."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lus_agustina_kusnadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lus_agustina_kusnadi@moe.edu.sg</u></a>
+<p><a href="mailto:subha_priya_sundararaj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>subha_priya_sundararaj@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
