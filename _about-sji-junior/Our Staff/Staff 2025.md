@@ -1457,14 +1457,14 @@ and success."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hui See</p>
+<p>Mr Lim Huang Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Teachers play an important role in unlocking the potential and curious
-minds of every child."</p>
+<p>"Believe that every child can learn in their own way. Set realistic yet
+challenging goals for the students and help them experience success."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_see@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hui_see@moe.edu.sg</u></a>
+<p><a href="mailto:cheong_seng_chin_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_huang_wei@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1474,13 +1474,14 @@ minds of every child."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Marimuthu</p>
+<p>Ms Ayuni&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"A good teacher is a stepping stone for a child to move up in life."&nbsp;</p>
+<p>"Teaching goes beyond imparting knowledge; it also provides opportunities
+to nurture positive values."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:arasi_s@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arasi_s@moe.edu.sg</u></a>
+<p><a href="mailto:ayuni_anis_abbas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ayuni_anis_abbas@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1490,20 +1491,149 @@ minds of every child."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hannah Wong</p>
+<p>Mr Lim Siong Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;‘Every child is a seed with the potential to grow into a unique
-and flourishing individual."</p>
+<p>"Learning something new every single day makes life a little more interesting."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="foo_yun_xi_hannah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yun_xi_hannah@moe.edu.sg</a>
+<p><a href="mailto:lim_siong_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_siong_heng@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5 Patrick (Co-Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kim Han IP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Anthony (Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhu Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"授人以鱼, 不如授人以渔"</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhu_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhu_ying_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Anthony (Co-Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Anthony Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"To help students create beauty through art, by the Grace of God."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:anthony_noel_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>anthony_noel_tan@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Stephen (Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheryl Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"I believe that education should spark curiosity, foster critical thinking,
+and ignite a genuine enthusiasm for exploration ."&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:TANG_JING_WEN_CHERYL@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_jing_wen_cheryl@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Stephen (Co-Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ommani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"To Teach as I would want to be taught.. to guide as I wish to be guided
+... to nurture the future."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Omanni_d_o_Krishnan_Kutty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Omanni_d_o_Krishnan_Kutty@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Michael (Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Agustina Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"To tell the students they matter most; to teach the students what matters
+most."&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lus_agustina_kusnadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lus_agustina_kusnadi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Michael (Co-Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syah Fidzuan bin Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Everyone gets a chance to learn something new each day."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syah_fidzuan_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syah_fidzuan_abdul_rahim@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Luke (Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Mei Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"以各人的脚步，与每人同行."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mei_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_mei_ting@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Luke (Co-Form)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1514,135 +1644,6 @@ and flourishing individual."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:azzah_fariha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>azzah_fariha@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Anthony (Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sharon Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"To inspire students to be self-directed learners who strive to be the
-best that they can be."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_suat_ling_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_suat_ling_sharon@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Anthony (Co-Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ing Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Embracing and believing in every child in my class."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:oh_ing_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>oh_ing_shan@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Stephen (Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Han Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"We are what we repeatedly do. Excellence, then, is not an act but a habit."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_han_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_han_sheng@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Stephen (Co-Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Aidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>“I believe in doing what is best for the students, even when it means
-making hard choices, to grow them as learners.”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_aidah_md_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_aidah_md_amin@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Michael (Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Callistus Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"A successful life is a result of small successes."&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:callistus_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>callistus_chan@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Michael (Co-Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Karen Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Give students the space to learn and they will find their confidence."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_hui_ming@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Luke (Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lo Hwee Min Jeremin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Every child a gift from God."&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lo_hwee_min_jeremin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lo_hwee_min_jeremin@moe.edu.sg</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Luke (Co-Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mr Surendran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>“Always raise your doubts and have it clarified. That’s how one learns.”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:surendran_sathiamurthi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>surendran_sathiamurthi@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
