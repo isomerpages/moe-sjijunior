@@ -237,23 +237,6 @@ learning to all our students."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Karen Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"I believe that every child is unique and special. And that every child
-will strive to do the best that he can!"</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ai_lin_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_ai_lin_karen@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Janet Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,24 +250,24 @@ learn and capable of learning more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4</strong>
+<p><strong>P5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Chan</p>
+<p>Miss Karen Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Every boy is unique in his own way. He can learn and wants to learn."
-"Inspiring a love for learning."</p>
+<p>"I believe that every child is unique and special. And that every child
+will strive to do the best that he can!"</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raymond_chan_kwai_heen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>raymond_chan_kwai_heen@moe.edu.sg</u></a>
+<p><a href="mailto:tan_ai_lin_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_ai_lin_karen@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P3</strong>
+<p><strong>P4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,7 +283,7 @@ learn and capable of learning more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P2</strong>
+<p><strong>P3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +300,7 @@ to learn."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P1</strong>
+<p><strong>P2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,6 +311,23 @@ to learn."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:k_chitra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>k_chitra@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Every boy is unique in his own way. He can learn and wants to learn."
+"Inspiring a love for learning."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:raymond_chan_kwai_heen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>raymond_chan_kwai_heen@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
