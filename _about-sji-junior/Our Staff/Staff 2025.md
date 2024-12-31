@@ -1184,13 +1184,13 @@ making hard choices, to grow them as learners.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Chee</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Education is all about getting excited to learn"</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chee_zhen_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chee_zhen_cheng@moe.edu.sg</u></a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1199,15 +1199,15 @@ making hard choices, to grow them as learners.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarimah Binte Sabtu</p>
+<p>Mrs Karen Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Learning is a lifetime journey of many obstacles, but with patience and
-perseverance as its faithful companions."</p>
+<p>"Children are likely to live up ti what you believe of them."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarimah_sabtu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sarimah_sabtu@moe.edu.sg</u></a>
+<p><a href="mailto:Chong_YinPhing_Karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chong_YinPhing_Karen@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
