@@ -1353,13 +1353,14 @@ and success."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Winnie Ho</p>
+<p>Mr Lim Wen Yi, Steven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Teaching is the act of sharing."</p>
+<p>"Every child deserves a chance to learn regardless of abilities. The most
+important is having a positive mindset!"</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_siam_lee_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_siam_lee_winnie@moe.edu.sg</u></a>
+<p><a href="mailto:lim_wen_yi_steven@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_wen_yi_steven@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
