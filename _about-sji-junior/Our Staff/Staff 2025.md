@@ -509,10 +509,11 @@ challenging goals for the students and help them experience success."</p>
 <p>Ms Kuan Poey Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>"Teach with passion and inspire lives."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kuan_poey_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuan_poey_han@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
