@@ -690,7 +690,8 @@ to foster a lifelong love for education."&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_ai_di_eadelin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -797,7 +798,8 @@ a gift for us to mould."&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Nooradelin_Mohamad_Salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nooradelin_Mohamad_Salleh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
