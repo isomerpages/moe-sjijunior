@@ -1,0 +1,9 @@
+collections:
+  technology-integration-2024:
+    output: true
+    order:
+      - Parents Briefing 2023.md
+      - Mobile Device Management (MDM) AT SJI JUNIOR.md
+      - Other Resources.md
+      - MDM for Graduating Classes.md
+      - FAQ.md
