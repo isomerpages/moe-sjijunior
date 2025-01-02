@@ -481,7 +481,8 @@ challenging goals for the students and help them experience success."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:norlizah_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norlizah_ali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -528,7 +529,8 @@ challenging goals for the students and help them experience success."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Teong_Li_Min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teong_Li_Min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -606,7 +608,8 @@ challenging goals for the students and help them experience success."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Au_Chee_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Au_Chee_Ping@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -638,7 +641,8 @@ goals, while appreciating the strength in their diversity."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Mohammad_Shaiful_Anuar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohammad_Shaiful_Anuar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
