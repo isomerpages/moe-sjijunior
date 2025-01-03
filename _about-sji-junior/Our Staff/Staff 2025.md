@@ -687,7 +687,9 @@ to foster a lifelong love for education."&nbsp;</p>
 <p>Ms Eadelin Marzinek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"I believe learning is an experiential process – it involves doing, feeling,
+reflecting, and discussing. Ultimately, it requires the courage to put
+that knowledge into practice."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_ai_di_eadelin@moe.edu.sg</a>
