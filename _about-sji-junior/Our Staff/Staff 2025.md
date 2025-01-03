@@ -795,7 +795,8 @@ a gift for us to mould."&nbsp;</p>
 <p>Ms Nooradelin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Everyone is unique, we are capable of learning although we learn at different
+rate with different methods and strategies. "</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nooradelin_Mohamad_Salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nooradelin_Mohamad_Salleh@moe.edu.sg</a>
