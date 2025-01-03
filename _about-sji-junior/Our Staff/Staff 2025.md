@@ -1529,7 +1529,8 @@ to nurture positive values."</p>
 <p>Ms Kim Han IP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"There is music in every child and it will help the children say things
+words can’t."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kim_han_ip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kim_han_ip@moe.edu.sg</a>
