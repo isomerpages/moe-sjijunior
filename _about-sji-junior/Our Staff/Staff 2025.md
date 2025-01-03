@@ -1116,7 +1116,8 @@ to them."&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_teck_koon_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_koon_alex@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1191,13 +1192,14 @@ making hard choices, to grow them as learners.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ester Franco</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Seet_Siew_Chen_Esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seet_Siew_Chen_Esther@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1272,7 +1274,8 @@ making hard choices, to grow them as learners.”</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yingying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1287,7 +1290,8 @@ making hard choices, to grow them as learners.”</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Teo_Jun_Jie_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Jun_Jie_D@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1335,7 +1339,8 @@ and success."&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Liao_Xinyi_Isabella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liao_Xinyi_Isabella@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1383,7 +1388,8 @@ important is having a positive mindset!"</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pierre_michelle_edmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pierre_michelle_edmond@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1429,7 +1435,8 @@ important is having a positive mindset!"</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Yeo_Tyze_Feng_Lauren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yeo_Tyze_Feng_Lauren@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1521,7 +1528,8 @@ to nurture positive values."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kim_han_ip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kim_han_ip@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
