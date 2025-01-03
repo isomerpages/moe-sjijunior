@@ -1433,7 +1433,8 @@ important is having a positive mindset!"</p>
 <p>Ms Lauren Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"不以规矩 不成方圆."</p>
+<p>"Nothing can be accomplished without norms or standards."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Yeo_Tyze_Feng_Lauren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yeo_Tyze_Feng_Lauren@moe.edu.sg</a>
