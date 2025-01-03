@@ -1336,7 +1336,7 @@ and success."&nbsp;</p>
 <p>Ms Isabella Liao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Teaching is a work of the heart."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Liao_Xinyi_Isabella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liao_Xinyi_Isabella@moe.edu.sg</a>
