@@ -1288,7 +1288,7 @@ making hard choices, to grow them as learners.”</p>
 <p>Mr Teo Jun Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>“A person who never made a mistake never tried anything new”</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Teo_Jun_Jie_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Jun_Jie_D@moe.edu.sg</a>
