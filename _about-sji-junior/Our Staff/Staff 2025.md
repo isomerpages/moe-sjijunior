@@ -481,7 +481,8 @@ challenging goals for the students and help them experience success."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:norlizah_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norlizah_ali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -509,10 +510,11 @@ challenging goals for the students and help them experience success."</p>
 <p>Ms Kuan Poey Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>"Teach with passion and inspire lives."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kuan_poey_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuan_poey_han@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -527,7 +529,8 @@ challenging goals for the students and help them experience success."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Teong_Li_Min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teong_Li_Min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -605,7 +608,8 @@ challenging goals for the students and help them experience success."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Au_Chee_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Au_Chee_Ping@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -637,7 +641,8 @@ goals, while appreciating the strength in their diversity."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Mohammad_Shaiful_Anuar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohammad_Shaiful_Anuar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -682,10 +687,13 @@ to foster a lifelong love for education."&nbsp;</p>
 <p>Ms Eadelin Marzinek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"I believe learning is an experiential process – it involves doing, feeling,
+reflecting, and discussing. Finally, it requires courage and determination
+to put that knowledge into practice."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_ai_di_eadelin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -789,10 +797,12 @@ a gift for us to mould."&nbsp;</p>
 <p>Ms Nooradelin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Everyone is unique, we are capable of learning although we learn at different
+rate with different methods and strategies. "</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Nooradelin_Mohamad_Salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nooradelin_Mohamad_Salleh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1109,7 +1119,8 @@ to them."&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_teck_koon_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_koon_alex@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1184,13 +1195,14 @@ making hard choices, to grow them as learners.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ester Franco</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Seet_Siew_Chen_Esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seet_Siew_Chen_Esther@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1265,7 +1277,8 @@ making hard choices, to grow them as learners.”</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yingying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1277,10 +1290,11 @@ making hard choices, to grow them as learners.”</p>
 <p>Mr Teo Jun Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>“A person who never made a mistake never tried anything new”</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Teo_Jun_Jie_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Jun_Jie_D@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1325,10 +1339,11 @@ and success."&nbsp;</p>
 <p>Ms Isabella Liao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Teaching is a work of the heart."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Liao_Xinyi_Isabella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liao_Xinyi_Isabella@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1353,13 +1368,14 @@ and success."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Winnie Ho</p>
+<p>Mr Lim Wen Yi, Steven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Teaching is the act of sharing."</p>
+<p>"Every child deserves a chance to learn regardless of abilities. The most
+important is having a positive mindset!"</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_siam_lee_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_siam_lee_winnie@moe.edu.sg</u></a>
+<p><a href="mailto:lim_wen_yi_steven@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_wen_yi_steven@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1375,7 +1391,8 @@ and success."&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pierre_michelle_edmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pierre_michelle_edmond@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1418,10 +1435,12 @@ and success."&nbsp;</p>
 <p>Ms Lauren Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"不以规矩 不成方圆."</p>
+<p>"Nothing can be accomplished without norms or standards."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Yeo_Tyze_Feng_Lauren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yeo_Tyze_Feng_Lauren@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1510,10 +1529,12 @@ to nurture positive values."</p>
 <p>Ms Kim Han IP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"There is music in every child and it will help the children say things
+words can’t."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kim_han_ip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kim_han_ip@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
