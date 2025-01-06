@@ -428,6 +428,52 @@ challenging goals for the students and help them experience success."</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Lead Teacher</strong></h4>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Teaching Philosophy</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_suan_kian_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_suan_kian_vincent@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Academic Staff</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
