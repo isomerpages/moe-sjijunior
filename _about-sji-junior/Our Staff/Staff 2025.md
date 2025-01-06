@@ -1437,7 +1437,8 @@ important is having a positive mindset!"</p>
 <p>Ms Michelle Pierre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>“You were born to win; but to be a winner, you must plan to win, prepare
+to win and expect to win.”</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pierre_michelle_edmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pierre_michelle_edmond@moe.edu.sg</a>
