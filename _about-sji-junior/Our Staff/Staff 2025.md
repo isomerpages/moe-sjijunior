@@ -1196,10 +1196,11 @@ making hard choices, to grow them as learners.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ester Franco</p>
+<p>Mrs Esther Franco</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education sees no boundaries. There is something to be learnt from somebody
+at every place and situation."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Seet_Siew_Chen_Esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seet_Siew_Chen_Esther@moe.edu.sg</a>
