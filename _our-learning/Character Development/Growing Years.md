@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character Development
 variant: tiptap
 ---
-<h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS </strong></h4>
+<h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
 <p></p>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
@@ -117,7 +117,7 @@ of pornographic materials.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semester 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ seek help.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semester 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ experiencing change due to puberty.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semester 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 </tbody>
@@ -227,7 +227,7 @@ infatuation.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Semester 1</p>
+<p>Term 1</p>
 </td>
 </tr>
 </tbody>
