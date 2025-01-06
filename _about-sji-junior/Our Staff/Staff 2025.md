@@ -1116,7 +1116,8 @@ to them."&nbsp;</p>
 <p>Mr Alex Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Every SJIJ boy a morally upright, self-motivated lifelong learner, servant
+leader and gentleman."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teck_koon_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_koon_alex@moe.edu.sg</a>
