@@ -465,7 +465,8 @@ challenging goals for the students and help them experience success."</p>
 <p>Mr Vincent Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Respect and patience are the roots of education; the fruits of learning
+grow sweeter because of them."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_suan_kian_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_suan_kian_vincent@moe.edu.sg</a>
