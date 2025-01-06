@@ -1753,15 +1753,13 @@ and flourishing individual."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Dominic Kwek</p>
+<p>Ms Melor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Facilitating learning to help each child discover who he is today and
-who he can be tomorrow."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_dominic_kwek@moe.edu.sg" rel="noopener noreferrer" target="_blank"><u>daniel_dominic_kwek@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
