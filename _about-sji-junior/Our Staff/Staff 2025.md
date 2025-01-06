@@ -1276,7 +1276,7 @@ at every place and situation."</p>
 <p>Ms Ng Ying Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Joy in learning comes from curiosity and passion in life."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yingying@moe.edu.sg</a>
