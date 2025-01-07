@@ -73,7 +73,7 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>Growing Years in Primary 5 and 6 </strong>
+<p><strong>Growing Years in Primary 5 and 6</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
