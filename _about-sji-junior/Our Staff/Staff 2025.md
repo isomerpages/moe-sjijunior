@@ -428,6 +428,53 @@ challenging goals for the students and help them experience success."</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Lead Teacher</strong></h4>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Department</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Teaching Philosophy</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Respect and patience are the roots of education; the fruits of learning
+grow sweeter because of them."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_suan_kian_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_suan_kian_vincent@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Academic Staff</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -1116,7 +1163,8 @@ to them."&nbsp;</p>
 <p>Mr Alex Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Every SJIJ boy a morally upright, self-motivated lifelong learner, servant
+leader and gentleman."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teck_koon_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_koon_alex@moe.edu.sg</a>
@@ -1195,10 +1243,11 @@ making hard choices, to grow them as learners.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ester Franco</p>
+<p>Mrs Esther Franco</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education sees no boundaries. There is something to be learnt from somebody
+at every place and situation."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Seet_Siew_Chen_Esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seet_Siew_Chen_Esther@moe.edu.sg</a>
@@ -1274,7 +1323,7 @@ making hard choices, to grow them as learners.”</p>
 <p>Ms Ng Ying Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Joy in learning comes from curiosity and passion in life."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yingying@moe.edu.sg</a>
@@ -1388,7 +1437,8 @@ important is having a positive mindset!"</p>
 <p>Ms Michelle Pierre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>“You were born to win; but to be a winner, you must plan to win, prepare
+to win and expect to win.”</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pierre_michelle_edmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pierre_michelle_edmond@moe.edu.sg</a>
@@ -1751,15 +1801,13 @@ and flourishing individual."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Dominic Kwek</p>
+<p>Ms Melor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Facilitating learning to help each child discover who he is today and
-who he can be tomorrow."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_dominic_kwek@moe.edu.sg" rel="noopener noreferrer" target="_blank"><u>daniel_dominic_kwek@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
