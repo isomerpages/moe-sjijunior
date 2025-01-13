@@ -32,10 +32,10 @@ variant: markdown
 
 
 # P5 
+[P5 ](https://go.gov.sg/p5parentinfoday)
 
-[Videos](https://drive.google.com/drive/folders/10TxGrbTuoRUV7uAtHh6t8PkJTUaGPgGm?usp=sharing)
 
 
 
 # P6
-[Videos](https://drive.google.com/drive/folders/1FMJf8_-kkZvuE2-DykAOv2SCq8XOV1RG?usp=sharing)
+[P6](https://go.gov.sg/p6parentinfoday)
