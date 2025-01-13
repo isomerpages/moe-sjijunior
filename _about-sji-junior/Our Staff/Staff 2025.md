@@ -573,7 +573,8 @@ grow sweeter because of them."</p>
 <p>Ms Celeste Teong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Learning is a joyful journey,not a destination, and my goal is to support
+and inspire children along the way."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Teong_Li_Min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teong_Li_Min@moe.edu.sg</a>
