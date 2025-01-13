@@ -32,10 +32,10 @@ variant: markdown
 
 
 # P5 
-[P5 ](https://go.gov.sg/p5parentinfoday)
+[P5 Info Day 2025 ](https://go.gov.sg/p5parentinfoday)
 
 
 
 
 # P6
-[P6](https://go.gov.sg/p6parentinfoday)
+[P6 Info Day 2025](https://go.gov.sg/p6parentinfoday)
