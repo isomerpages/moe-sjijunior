@@ -399,18 +399,33 @@ to learn."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Pastoral Care</strong>
+<p><strong>Mother Tongue</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Cheong</p>
+<p>Ms Pang Xi Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"A good educator is one who facilitates students' learning at their own
-pace."</p>
+<p>"Celebrating every success, big or small."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_seng_chin_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_seng_chin_christopher@moe.edu.sg</u></a>
+<p><a href="Pang_xi_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_xi_fen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PE/CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syah Fidzuan bin Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Everyone gets a chance to learn something new each day."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syah_fidzuan_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syah_fidzuan_abdul_rahim@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -428,21 +443,6 @@ challenging goals for the students and help them experience success."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_seng_chin_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_huang_wei@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PE/CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Syah Fidzuan bin Abdul Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Everyone gets a chance to learn something new each day."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:syah_fidzuan_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syah_fidzuan_abdul_rahim@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
