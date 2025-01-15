@@ -15,6 +15,11 @@ a love of learning and builds perseverance in working towards excellence."
 staff is a gift. Uncover the gem in them and help them to shine."
 <br><a href="mailto:yak_hiok_woon_faith@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yak_hiok_woon_faith@moe.edu.sg</a>
 </p>
+<p><strong>Vice Principal: Miss Sng WanXian</strong>
+</p>
+<p><a href="mailto:sng_wan_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">sng_wan_xian@moe.edu.sg</a>
+</p>
+<p></p>
 <p><strong>Vice Principal (Admin): Mr Lim Yew Tee Collin<br></strong>"Allow
 mistakes but educate a child through love, reasoning and understanding,
 and the child will be ready for challenges ahead."
