@@ -431,6 +431,21 @@ challenging goals for the students and help them experience success."</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syah Fidzuan bin Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Everyone gets a chance to learn something new each day."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syah_fidzuan_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syah_fidzuan_abdul_rahim@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Lead Teacher</strong></h4>
