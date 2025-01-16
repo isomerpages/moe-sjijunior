@@ -24,11 +24,11 @@ variant: markdown
 
 
 # P3
+[P3 Info Day 2025](http://go.gov.sg/p3parentinfoday)
 
-[Videos](https://drive.google.com/drive/folders/1ZEYCClvVlcWG6kaWat7WPzp81oWGLrU0?usp=drive_link)
 # P4
+[P4 Info Day 2025](http://go.gov.sg/p4parentinfoday)
 
-[Videos](https://drive.google.com/drive/folders/1UHijm3CtPWKzZZyqFI9iA_-TYgNu2ntc?usp=drive_link)
 
 
 # P5 
