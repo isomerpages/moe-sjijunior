@@ -15,6 +15,10 @@ a love of learning and builds perseverance in working towards excellence."
 staff is a gift. Uncover the gem in them and help them to shine."
 <br><a href="mailto:yak_hiok_woon_faith@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yak_hiok_woon_faith@moe.edu.sg</a>
 </p>
+<p><strong>Vice Principal: Miss Sng WanXian</strong>
+<br><a href="mailto:sng_wan_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">sng_wan_xian@moe.edu.sg</a>
+</p>
+<p></p>
 <p><strong>Vice Principal (Admin): Mr Lim Yew Tee Collin<br></strong>"Allow
 mistakes but educate a child through love, reasoning and understanding,
 and the child will be ready for challenges ahead."
@@ -394,18 +398,33 @@ to learn."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Pastoral Care</strong>
+<p><strong>Mother Tongue</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Cheong</p>
+<p>Ms Pang Xi Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"A good educator is one who facilitates students' learning at their own
-pace."</p>
+<p>"Celebrating every success, big or small."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_seng_chin_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_seng_chin_christopher@moe.edu.sg</u></a>
+<p><a href="Pang_xi_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_xi_fen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PE/CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syah Fidzuan bin Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Everyone gets a chance to learn something new each day."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syah_fidzuan_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syah_fidzuan_abdul_rahim@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1805,9 +1824,12 @@ and flourishing individual."</p>
 <p>Ms Melor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"I strive to create a safe space for learning and to make the educational
+experience fun."</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:melor_mohamed_tahir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melor_mohamed_tahir@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
