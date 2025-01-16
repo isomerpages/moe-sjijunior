@@ -1825,9 +1825,12 @@ and flourishing individual."</p>
 <p>Ms Melor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"I strive to create a safe space for learning and to make the educational
+experience fun."</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:melor_mohamed_tahir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melor_mohamed_tahir@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
