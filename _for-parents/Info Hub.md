@@ -20,7 +20,7 @@ variant: markdown
 
 # P2 
 
-[[P2 Parents Information Day 2025]](/files/2025_P2_Parents_Information_Day_YH_and_Subjects_Slides.pdf)
+[[P2 Info Day 2025]](/files/2025_P2_Parents_Information_Day_YH_and_Subjects_Slides.pdf)
 
 
 # P3
