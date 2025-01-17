@@ -200,7 +200,7 @@ learning to all our students."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chriel Chua</p>
+<p>Ms Chriel Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"Every child is unique and learns differently."</p>
@@ -1964,7 +1964,7 @@ make the biggest impact."</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>AED</strong></h4>
+<h4><strong>School Support Stuff</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
