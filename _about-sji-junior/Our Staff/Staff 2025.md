@@ -1964,7 +1964,7 @@ make the biggest impact."</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>School Support Stuff</strong></h4>
+<h4><strong>School Support Staff</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
