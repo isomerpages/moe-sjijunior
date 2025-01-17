@@ -200,7 +200,7 @@ learning to all our students."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chriel Chua</p>
+<p>Ms Chriel Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"Every child is unique and learns differently."</p>
@@ -2024,7 +2024,7 @@ make the biggest impact."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Special Educational Needs Officer</strong>
+<p><strong>Lead SEN Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2051,7 +2051,7 @@ make the biggest impact."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Special Educational Needs Officer</strong>
+<p><strong>Senior SEN Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
