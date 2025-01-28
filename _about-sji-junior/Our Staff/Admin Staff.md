@@ -3,6 +3,7 @@ title: Admin Staff
 permalink: /about-sji-junior/our-staff/admin-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ### Administrative Staff
 
@@ -101,13 +102,13 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-hr73">Desktop Engineer</td>
-    <td class="tg-7zkw"><span style="font-weight:normal">Ms Kayal</span></td>
-    <td class="tg-axsl"><a href="mailto:ramanathan.kayalvizhi@ncs.com.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">ramanathan.kayalvizhi@ncs.com.sg</span></a>                      </td>
+    <td class="tg-7zkw"><span style="font-weight:normal">Mr Hairee</span></td>
+    <td class="tg-axsl"><a href="mailto:ramanathan.kayalvizhi@ncs.com.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">qushairie.mahmud@ncs.com.sg</span></a>                      </td>
   </tr>
   <tr>
     <td class="tg-13ls"><span style="color:#282828;background-color:#F4EEDC">Desktop Engineer</span></td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Mr Hairee</span></td>
-    <td class="tg-psre"><a href="mailto:qushairie.mahmud@ncs.com.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">qushairie.mahmud@ncs.com.sg</span></a></td>
+    <td class="tg-p8fl"><span style="font-weight:normal">Mr Haziq</span></td>
+    <td class="tg-psre"><a href="mailto:qushairie.mahmud@ncs.com.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">haziqm.binmohamad@ncs.com.sg</span></a></td>
   </tr>
 </tbody>
 </table>
