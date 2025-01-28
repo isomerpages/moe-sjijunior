@@ -675,7 +675,7 @@ and inspire children along the way."</p>
 <p>"Be patient and gracious towards every student."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Au_Chee_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Au_Chee_Ping@moe.edu.sg</a>
+<p><a href="mailto:au_chee_ping_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Au_Chee_Ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
