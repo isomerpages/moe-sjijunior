@@ -546,7 +546,7 @@ grow sweeter because of them."</p>
 <p>Ms Norlizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education is treasure no one can take away from you."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norlizah_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norlizah_ali@moe.edu.sg</a>
