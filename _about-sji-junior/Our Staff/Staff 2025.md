@@ -15,10 +15,12 @@ a love of learning and builds perseverance in working towards excellence."
 staff is a gift. Uncover the gem in them and help them to shine."
 <br><a href="mailto:yak_hiok_woon_faith@moe.edu.sg" rel="noopener noreferrer nofollow" target="">yak_hiok_woon_faith@moe.edu.sg</a>
 </p>
-<p><strong>Vice Principal: Miss Sng WanXian</strong>
+<p><strong>Vice Principal: Miss Sng Wan Xian</strong>
+<br>"As educators, we have the privilege to partner in growth -- sometimes
+we plant seeds, sometimes we water what others have planted; in all, we
+praise God who gives the growth"
 <br><a href="mailto:sng_wan_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">sng_wan_xian@moe.edu.sg</a>
 </p>
-<p></p>
 <p><strong>Vice Principal (Admin): Mr Lim Yew Tee Collin<br></strong>"Allow
 mistakes but educate a child through love, reasoning and understanding,
 and the child will be ready for challenges ahead."
@@ -544,7 +546,7 @@ grow sweeter because of them."</p>
 <p>Ms Norlizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education is treasure no one can take away from you."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norlizah_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norlizah_ali@moe.edu.sg</a>
@@ -675,7 +677,7 @@ and inspire children along the way."</p>
 <p>"Be patient and gracious towards every student."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Au_Chee_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Au_Chee_Ping@moe.edu.sg</a>
+<p><a href="mailto:au_chee_ping_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Au_Chee_Ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -777,6 +779,20 @@ to put that knowledge into practice."</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oh_ing_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>oh_ing_shan@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1062,6 +1078,20 @@ I have done my part as a teacher."</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_siew_choo_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_siew_choo_b@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1513,6 +1543,20 @@ to win and expect to win.”</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 100px">
@@ -1736,6 +1780,20 @@ most."&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:azzah_fariha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>azzah_fariha@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
