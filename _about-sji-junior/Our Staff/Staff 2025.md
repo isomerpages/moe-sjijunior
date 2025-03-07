@@ -1990,7 +1990,8 @@ best that they can be."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 Luke (Form)</strong>Mrs Adrianna Chiew</p>
+<p><strong>6 Luke (Form)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Priya Chopra&nbsp;</p>
