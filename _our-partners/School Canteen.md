@@ -41,8 +41,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<blockquote>
 <p></p>
-<p></p>
+</blockquote>
 <p>Application Procedure</p>
 <ol data-tight="true" class="tight">
 <li>
