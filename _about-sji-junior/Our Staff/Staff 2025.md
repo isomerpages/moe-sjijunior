@@ -1342,7 +1342,7 @@ at every place and situation."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 Patrick  (Form)</strong>
+<p><strong>4 Patrick (Form)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1459,14 +1459,13 @@ important is having a positive mindset!"</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Pierre</p>
+<p>Mr Philip Muthiah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>“You were born to win; but to be a winner, you must plan to win, prepare
-to win and expect to win.”</p>
+<p>&nbsp;"Do not look back. Look ahead."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pierre_michelle_edmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pierre_michelle_edmond@moe.edu.sg</a>
+<p><a href="mailto:muthiah_philip_j_jeyakumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muthiah_philip_j_jeyakumar@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1476,14 +1475,13 @@ to win and expect to win.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Muthiah&nbsp;</p>
+<p>Ms Nicole Teo&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;"Do not look back. Look ahead."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muthiah_philip_j_jeyakumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muthiah_philip_j_jeyakumar@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1854,15 +1852,12 @@ and flourishing individual."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melor</p>
+<p>Ms Meiqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"I strive to create a safe space for learning and to make the educational
-experience fun."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:melor_mohamed_tahir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melor_mohamed_tahir@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
