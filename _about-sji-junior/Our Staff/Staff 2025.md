@@ -367,22 +367,6 @@ to learn."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Aesthetics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Joseph Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"All students can learn, want to learn and want to succeed."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:joseph_ng_swee_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joseph_ng_swee_seng@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mother Tongue</strong>
 </p>
 </td>
@@ -988,14 +972,13 @@ rate with different methods and strategies. "</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Ng</p>
+<p>Ms Lynnette Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"All students can learn, want to learn and want to succeed."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joseph_ng_swee_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joseph_ng_swee_seng@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
