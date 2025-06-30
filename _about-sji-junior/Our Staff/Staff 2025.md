@@ -740,10 +740,12 @@ to put that knowledge into practice."</p>
 <p>Ms Ruiying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"I believe education should enable all students to learn with joy and
+live with purpose."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:an_ruiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_ruiying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
