@@ -1410,13 +1410,14 @@ and success."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isabella Liao</p>
+<p>Mrs Jeslyn Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Teaching is a work of the heart."</p>
+<p>"Learning happens when students make sense of challenges.</p>
+<p>To guide them to explore, question, and grow—even through failure."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Liao_Xinyi_Isabella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liao_Xinyi_Isabella@moe.edu.sg</a>
+<p><a href="mailto:ho_li_jun_jeslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_jun_jeslyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
