@@ -51,23 +51,6 @@ and the child will be ready for challenges ahead."
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Daniel Dominic Kwek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Facilitating learning to help each child discover who he is today and
-who he can be tomorrow."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_dominic_kwek@moe.edu.sg" rel="noopener noreferrer" target="_blank"><u>daniel_dominic_kwek@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong>
 </p>
 </td>
@@ -384,22 +367,6 @@ to learn."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Aesthetics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Joseph Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"All students can learn, want to learn and want to succeed."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:joseph_ng_swee_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joseph_ng_swee_seng@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mother Tongue</strong>
 </p>
 </td>
@@ -671,14 +638,13 @@ and inspire children along the way."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Au Chee Ping</p>
+<p>Mr Dexter Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Be patient and gracious towards every student."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:au_chee_ping_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Au_Chee_Ping@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -771,14 +737,13 @@ to put that knowledge into practice."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ing Shan</p>
+<p>Ms Ruiying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Embracing and believing in every child in my class."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:oh_ing_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>oh_ing_shan@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1005,14 +970,13 @@ rate with different methods and strategies. "</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Ng</p>
+<p>Ms Lynnette Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"All students can learn, want to learn and want to succeed."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joseph_ng_swee_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joseph_ng_swee_seng@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1069,15 +1033,13 @@ rate with different methods and strategies. "</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Siew Choo</p>
+<p>Ms Joey Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"When my student is able to teach another with conviction and passion,
-I have done my part as a teacher."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_siew_choo_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_siew_choo_b@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1210,15 +1172,13 @@ to them."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Lee</p>
+<p>Mdm Meenal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Every SJIJ boy a morally upright, self-motivated lifelong learner, servant
-leader and gentleman."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_teck_koon_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_koon_alex@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1386,14 +1346,13 @@ at every place and situation."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Jun Jie</p>
+<p>Ms Dorothy Phng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>“A person who never made a mistake never tried anything new”</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teo_Jun_Jie_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Jun_Jie_D@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1410,6 +1369,22 @@ and success."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_kee_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Tan_Kee_Pin@_moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4 Patrick (Co-Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Jun Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“A person who never made a mistake never tried anything new”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Teo_Jun_Jie_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Jun_Jie_D@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1435,13 +1410,14 @@ and success."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isabella Liao</p>
+<p>Mrs Jeslyn Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Teaching is a work of the heart."</p>
+<p>"Learning happens when students make sense of challenges.</p>
+<p>To guide them to explore, question, and grow—even through failure."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Liao_Xinyi_Isabella@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liao_Xinyi_Isabella@moe.edu.sg</a>
+<p><a href="mailto:ho_li_jun_jeslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_jun_jeslyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1484,14 +1460,13 @@ important is having a positive mindset!"</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Pierre</p>
+<p>Mr Philip Muthiah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>“You were born to win; but to be a winner, you must plan to win, prepare
-to win and expect to win.”</p>
+<p>&nbsp;"Do not look back. Look ahead."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pierre_michelle_edmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pierre_michelle_edmond@moe.edu.sg</a>
+<p><a href="mailto:muthiah_philip_j_jeyakumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muthiah_philip_j_jeyakumar@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1501,14 +1476,13 @@ to win and expect to win.”</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Muthiah&nbsp;</p>
+<p>Ms Nicole Teo&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;"Do not look back. Look ahead."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muthiah_philip_j_jeyakumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muthiah_philip_j_jeyakumar@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1879,15 +1853,12 @@ and flourishing individual."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melor</p>
+<p>Ms Meiqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"I strive to create a safe space for learning and to make the educational
-experience fun."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:melor_mohamed_tahir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melor_mohamed_tahir@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
