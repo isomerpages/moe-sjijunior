@@ -638,14 +638,13 @@ and inspire children along the way."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Au Chee Ping</p>
+<p>Mr Dexter Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Be patient and gracious towards every student."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:au_chee_ping_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Au_Chee_Ping@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
