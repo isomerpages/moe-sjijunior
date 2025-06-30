@@ -51,23 +51,6 @@ and the child will be ready for challenges ahead."
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Daniel Dominic Kwek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Facilitating learning to help each child discover who he is today and
-who he can be tomorrow."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_dominic_kwek@moe.edu.sg" rel="noopener noreferrer" target="_blank"><u>daniel_dominic_kwek@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong>
 </p>
 </td>
