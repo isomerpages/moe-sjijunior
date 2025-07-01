@@ -1481,7 +1481,7 @@ important is having a positive mindset!"</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Teo&nbsp;</p>
+<p>Mrs Nicole Lim&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"Education is not about filling minds with facts, but about sparking curiosity,
