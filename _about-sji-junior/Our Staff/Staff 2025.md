@@ -263,7 +263,7 @@ will strive to do the best that he can!"</p>
 <p>Ms Dorothy Phng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>""I am not capable of doing big things, but I want to do everything, even
+<p>"I am not capable of doing big things, but I want to do everything, even
 the smallest things, for the greater glory of God.”&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1352,7 +1352,7 @@ at every place and situation."</p>
 <p>Ms Dorothy Phng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>""I am not capable of doing big things, but I want to do everything, even
+<p>"I am not capable of doing big things, but I want to do everything, even
 the smallest things, for the greater glory of God.”</p>
 </td>
 <td rowspan="1" colspan="1">
