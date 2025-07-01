@@ -263,7 +263,8 @@ will strive to do the best that he can!"</p>
 <p>Ms Dorothy Phng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"It is okay to not know, but it is not okay to not try."&nbsp;</p>
+<p>""I am not capable of doing big things, but I want to do everything, even
+the smallest things, for the greater glory of God.”&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dorothy_phng_chiu_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dorothy_phng_chiu_yun@moe.edu.sg</u></a>
@@ -1351,10 +1352,12 @@ at every place and situation."</p>
 <p>Ms Dorothy Phng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>""I am not capable of doing big things, but I want to do everything, even
+the smallest things, for the greater glory of God.”</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:dorothy_phng_chiu_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dorothy_phng_chiu_yun@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1481,10 +1484,12 @@ important is having a positive mindset!"</p>
 <p>Ms Nicole Teo&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education is not about filling minds with facts, but about sparking curiosity,
+fostering independent thinking, and inspiring a lifelong love for learning.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nicole_teo_huey_huey_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_teo_huey_huey_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
