@@ -1039,7 +1039,8 @@ rate with different methods and strategies. "</p>
 <p>Ms Joey Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Curiosity and mistakes are the best teachers, kindness their greatest
+companion."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
