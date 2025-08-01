@@ -1036,7 +1036,7 @@ rate with different methods and strategies. "</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joey Tan</p>
+<p>Ms Joey Tham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"Curiosity and mistakes are the best teachers, kindness their greatest
