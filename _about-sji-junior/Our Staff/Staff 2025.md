@@ -979,7 +979,8 @@ rate with different methods and strategies. "</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Lynnette_Leong_LiLing_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynnette_Leong_LiLing_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
