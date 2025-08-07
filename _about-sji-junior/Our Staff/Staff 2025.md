@@ -1043,6 +1043,8 @@ rate with different methods and strategies. "</p>
 companion."</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sock_kien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sock_kien@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
