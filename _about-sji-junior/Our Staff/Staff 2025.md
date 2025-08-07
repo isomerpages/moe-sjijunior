@@ -738,7 +738,7 @@ to put that knowledge into practice."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ruiying</p>
+<p>Ms An Ruiying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"I believe education should enable all students to learn with joy and
@@ -979,7 +979,8 @@ rate with different methods and strategies. "</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Lynnette_Leong_LiLing_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynnette_Leong_LiLing_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1043,6 +1044,8 @@ rate with different methods and strategies. "</p>
 companion."</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sock_kien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sock_kien@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -1867,7 +1870,8 @@ and flourishing individual."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:soh_mei_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_mei_qi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
