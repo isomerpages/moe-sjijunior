@@ -1869,7 +1869,8 @@ and flourishing individual."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:soh_mei_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_mei_qi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
