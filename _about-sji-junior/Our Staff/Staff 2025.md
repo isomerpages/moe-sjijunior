@@ -1182,10 +1182,11 @@ to them."&nbsp;</p>
 <p>Mdm Meenal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>" I want my boys to take pride in the work they do. Every little improvement
+or accomplishment counts."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>meenal_karunanithy_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
