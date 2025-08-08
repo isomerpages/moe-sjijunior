@@ -1186,7 +1186,7 @@ to them."&nbsp;</p>
 or accomplishment counts."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>meenal_karunanithy_A@moe.edu.sg</p>
+<p>meenal_karunanithy_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
