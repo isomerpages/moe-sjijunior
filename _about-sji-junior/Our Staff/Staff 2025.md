@@ -1182,10 +1182,11 @@ to them."&nbsp;</p>
 <p>Mdm Meenal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>" I want my boys to take pride in the work they do. Every little improvement
+or accomplishment counts."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>meenal_karunanithy_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1867,7 +1868,9 @@ and flourishing individual."</p>
 <p>Ms Meiqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Learning is a continuous journey, not a fixed destination. I believe
+success looks different for every individual, and education should honour
+and support each unique path."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_mei_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_mei_qi@moe.edu.sg</a>
