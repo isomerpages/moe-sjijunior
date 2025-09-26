@@ -2082,6 +2082,19 @@ make the biggest impact."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Senior SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Uma Padmanathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:uma_padmanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>uma_padmanathan@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer</strong>
 </p>
 </td>
@@ -2096,14 +2109,14 @@ make the biggest impact."</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior SEN Officer</strong>
+<p><strong>Special Educational Needs Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Uma Padmanathan</p>
+<p>Ms Rima Melati</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:uma_padmanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>uma_padmanathan@moe.edu.sg</u></a>
+<p><a href="mailto:rima_melati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rima_melati@moe.edu.sg</a>
 </p>
 </td>
 </tr>
