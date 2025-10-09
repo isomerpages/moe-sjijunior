@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>4012 Ang Mo Kio Ave 10, TechPlace 1 #01-09, S(569628)</p>
-<p><a href="https://jeepsinguniform.com/collections/st-josephs-institution-juniorst-josephs-institution-junior" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections</a>
+<p><a href="https://jeepsinguniformhttps://jeepsinguniform.com/collections/st-josephs-institution-junior.com/collections/st-josephs-institution-junior" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections</a>
 </p>
 <hr>
 <p>*More information on the uniform vendors will be provided via Parents
