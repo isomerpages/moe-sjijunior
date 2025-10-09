@@ -12,7 +12,7 @@ for after school activities for the year 2026.</p>
 bus services in 2026, please complete the request by 21 Oct 2025 and email
 to <a rel="noopener noreferrer nofollow" target="_blank">sji@rstransport.com.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://rstransport.com.sg/forms/SJI-Request-for-School-Bus-Services.pdf</a>
+<p><a href="https://rstransport.com.sg/forms/SJI-Request-for-School-Bus-Services.pdf" rel="noopener noreferrer nofollow" target="_blank">https://rstransport.com.sg/forms/SJI-Request-for-School-Bus-Services.pdf</a>
 </p>
 <p>The current school bus services in Singapore remained strained. Please
 submit your interest early so that RS transport Services can collate the

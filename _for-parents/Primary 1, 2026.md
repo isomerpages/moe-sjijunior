@@ -1,6 +1,6 @@
 ---
-title: Primary 1, 2025
-permalink: /for-parents/primary-1-2025/
+title: Primary 1, 2026
+permalink: /for-parents/primary-1-2026/
 description: ""
 variant: tiptap
 ---
