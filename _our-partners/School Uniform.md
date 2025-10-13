@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>4012 Ang Mo Kio Ave 10, TechPlace 1 #01-09, S(569628)</p>
-<p><a href="https://jeepsinguniform.com/collections/st-josephs-institution-junior" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/st-josephs-institution-junior</a>
+<p><a href="https://jeepsinguniform.com/collections/st-josephs-institution-junior" rel="noopener nofollow" target="_blank">SJIJ uniform</a>
 </p>
 <p></p>
 <hr>
