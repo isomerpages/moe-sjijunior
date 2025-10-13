@@ -192,6 +192,7 @@ opened on the dates stated below:</p>
 <p><strong>&nbsp;</strong>
 <br><strong>Please note that there will be one-time packaging charge of $0.10 (plastic bag) or $0.90 (reusable bag)</strong>
 </p>
-<h2>2025 Primary 1 Booklist</h2>
-<p><a href="/files/P1_book_list_2025.pdf" rel="noopener nofollow" target="_blank">P1 Book List 2025</a>
+<h2>2026 Primary 1 Booklist</h2>
+<p><a href="/files/P1_Book_list_2026.pdf" rel="noopener nofollow" target="_blank">P1 Book List</a>
 </p>
+<p></p>
