@@ -4,7 +4,7 @@ permalink: /for-parents/bookshop/
 description: ""
 variant: tiptap
 ---
-<h3>Pacific Book Store Pte Lt</h3>
+<h3>Pacific Book Store Pte Ltd</h3>
 <p>&nbsp;Tel:&nbsp;<strong>90919426 (9am-3pm)</strong>
 </p>
 <p>&nbsp;To avoid overcrowding in school,&nbsp;<strong>parents are strongly encouraged to purchase the books online and opt for home delivery.</strong>&nbsp;
