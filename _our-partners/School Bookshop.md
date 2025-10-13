@@ -8,22 +8,17 @@ variant: tiptap
 <p>&nbsp;</p>
 <p>Tel:&nbsp;<strong>90919426 (9am-3pm)</strong>
 </p>
-<p>&nbsp;</p>
-<p>To avoid overcrowding in school,&nbsp;<strong>parents are strongly encouraged to purchase the books online and opt for home delivery.</strong>&nbsp;
+<p>&nbsp;To avoid overcrowding in school,&nbsp;<strong>parents are strongly encouraged to purchase the books online and opt for home delivery.</strong>&nbsp;
 The books can be purchased via our&nbsp;<strong>website from 11 November 2025.</strong>
 </p>
 <p><strong>Note: The online orders from the website will be closed on 13 December 2025.</strong>
 </p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
-<p>&nbsp;</p>
-<p>Payment can be made via VISA/MASTERCARD/Debit Cards/Paynow.&nbsp; Delivery
-Charge of $14.90 applies.</p>
-<p>&nbsp;</p>
+<p>&nbsp;Payment can be made via VISA/MASTERCARD/Debit Cards/Paynow.&nbsp;
+Delivery Charge of $14.90 applies.</p>
 <p>You may also choose to place your order online and self-collect at the
 school on stipulated dates given below.</p>
-<p>&nbsp;</p>
 <p>While walk-in purchase is not encouraged, you may purchase the books from
 the school bookshop if there is such a need.&nbsp; The bookshop will be
 opened on the dates stated below:</p>
