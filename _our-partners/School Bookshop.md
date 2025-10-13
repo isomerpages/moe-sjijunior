@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Pacific Book Store Pte Lt</h3>
-<p>&nbsp;</p>
-<p>Tel:&nbsp;<strong>90919426 (9am-3pm)</strong>
+<p>&nbsp;Tel:&nbsp;<strong>90919426 (9am-3pm)</strong>
 </p>
 <p>&nbsp;To avoid overcrowding in school,&nbsp;<strong>parents are strongly encouraged to purchase the books online and opt for home delivery.</strong>&nbsp;
 The books can be purchased via our&nbsp;<strong>website from 11 November 2025.</strong>
