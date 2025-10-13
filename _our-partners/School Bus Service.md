@@ -21,7 +21,7 @@ requests, plan and allocate the transport.</p>
 free to contact RS Transport Services and they will assist you with the
 registration.</p>
 <p>Name of Bus Operator: RS Transport Services</p>
-<p>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://rstransport.com.sg</a>
+<p>Website: <a href="https://rstransport.com.sg" rel="noopener nofollow" target="_blank">https://rstransport.com.sg</a>
 </p>
 <p>Tel No: 6251 0281/ 6251 0283</p>
 <p>Email address: <a rel="noopener noreferrer nofollow" target="_blank">sji@rstransport.com.sg</a>
