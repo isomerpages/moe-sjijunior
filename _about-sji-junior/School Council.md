@@ -2,5 +2,6 @@
 title: School Council
 permalink: /about-sji-junior/schcouncil/
 description: ""
+variant: markdown
 ---
-[School Council](https://drive.google.com/file/d/1joWPuRBTW_V47HpVuXd-_tTu7x1hT4ZS/view?usp=sharing)
+[School Council](/files/School_Council_2025.pdf)

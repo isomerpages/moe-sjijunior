@@ -1,6 +1,6 @@
 ---
 title: Technology Integration
-permalink: /technology-integration/
+permalink: /our-learning/teaching-and-learning/technology-integration/
 variant: tiptap
 description: ""
 ---
