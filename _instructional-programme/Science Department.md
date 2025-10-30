@@ -30,7 +30,7 @@ Our mission is to prepare students to learn how to learn and learn how to live b
 
 ·         P4 Hydropronics Programme
 
-·         P5 Design Think Project Work
+·         P5 Design Thinking Project Work
 
 ·         P6 Compost Programme
 
