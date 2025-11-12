@@ -11,7 +11,7 @@ variant: tiptap
 entitled "READY, GET SET, GO! - Preparing Our Children for Primary Education”,
 delivered by TOUCH Community Services.</p>
 <p>For Registration:</p>
-<p><a href="https://form.gov.sg/admin/form/6912ab99400c0a10c1100f60" rel="noopener nofollow" target="_blank">Registration Link</a>
+<p><a href="https://form.gov.sg/6912ab99400c0a10c1100f60" rel="noopener nofollow" target="_blank">Registration Link</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="Register" src="/images/qr_code.jpg">
