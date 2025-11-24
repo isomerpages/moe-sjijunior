@@ -13,8 +13,9 @@ delivered by TOUCH Community Services.</p>
 <p>For Registration:</p>
 <p><a href="https://form.gov.sg/6912ab99400c0a10c1100f60" rel="noopener nofollow" target="_blank">Registration Link</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="Register" src="/images/qr_code.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Sign up" src="/images/P1_QR_CODE.jpg">
 </div>
 <p>The zoom details will be provided to you upon confirmation of registration.
 You may refer to the e-flyer for more information.</p>
