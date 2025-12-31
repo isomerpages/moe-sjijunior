@@ -1445,7 +1445,8 @@ to them."&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Shahril_Supangat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shahril_Supangat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
