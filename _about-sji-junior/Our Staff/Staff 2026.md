@@ -2012,32 +2012,6 @@ most."&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teaching &amp; Learning</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Firdaus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:firdaus_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>firdaus_johari@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teaching &amp; Learning</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amanda Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soon_ping_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soon_ping_ping@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>School Counselor</strong>
 </p>
 </td>
