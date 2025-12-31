@@ -1188,7 +1188,8 @@ companion."</p>
 <p>learning ability, deserves every opportunity to shine."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHENG_CHAI_CHYUAN_A@moe.edu.sg</p>
+<p><a href="mailto:CHENG_CHAI_CHYUAN_A@moe.edu.sg" rel="noopener nofollow" target="_blank">Cheng_Chai_Chyuan_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1347,7 +1348,8 @@ and support each unique path."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chow_zhixian_ariel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_zhixian_ariel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1378,7 +1380,8 @@ and support each unique path."</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:oh_ing_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_ing_shan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
