@@ -3,157 +3,237 @@ title: Admin Staff
 permalink: /about-sji-junior/our-staff/admin-staff/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-### Administrative Staff
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-p8fl{background-color:#F4EEDC;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-xp8p{background-color:#00634C;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-v5y8{background-color:#F4EEDC;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-13ls{background-color:#F4EEDC;color:#282828;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-chzl{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xp8p">Role</th>
-    <th class="tg-xp8p">Name </th>
-    <th class="tg-xp8p">Email</th>
-  </tr>
-</thead>
+<h3>Administrative Staff</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-	  <tr>
-    <td class="tg-hr73">Admin Manager</td>
-    <td class="tg-7zkw"><span style="font-weight:normal">Mdm Renee Lee </span></td>
-    <td class="tg-hr73"> <a href="mailto:Lee_Koh_Sing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3;background-color:transparent">Lee_Koh_Sing@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-v5y8">Operation Manager</td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Mr Kalimuthu</span></td>
-    <td class="tg-v5y8"> <a href="mailto:kalimuthu_veerapan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">kalimuthu_veerapan@moe.edu.sg</span></a>                              </td>
-  </tr>
-  <tr>
-    <td class="tg-hr73">Administration Executive</td>
-    <td class="tg-7zkw"><span style="font-weight:normal">Mr Andy Chew</span></td>
-    <td class="tg-hr73"> <a href="mailto:chew_han_hee_andy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3;background-color:transparent">chew_han_hee_andy@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-v5y8">Corporate Support Officer</td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Mdm Santha</span></td>
-    <td class="tg-v5y8"> <a href="mailto:santha_a_sathivelu@moe.edu.sg"><span style="background-color:transparent">santha_a_sathivelu@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-hr73">Corporate Support Officer</td>
-    <td class="tg-7zkw"><span style="font-weight:400">Mdm Fadhilah</span></td>
-    <td class="tg-hr73"> <a href="mailto:fadhilah_hamzah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3;background-color:transparent">fadhilah_hamzah@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-13ls"><span style="color:#282828;background-color:#F4EEDC">Corporate Support Officer</span></td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Ms Lisa</span></td>
-    <td class="tg-v5y8"> <a href="mailto:teoh_lai_har@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">teoh_lai_har@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-chzl"><span style="color:#282828;background-color:#FFF"> </span></td>
-    <td class="tg-chzl"><span style="color:#282828;background-color:#FFF"> </span></td>
-    <td class="tg-chzl"><span style="color:#282828;background-color:#FFF"> </span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Renee Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lee_Koh_Sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Lee_Koh_Sing@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kalimuthu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalimuthu_veerapan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kalimuthu_veerapan@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_han_hee_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chew_han_hee_andy@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Santha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:santha_a_sathivelu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santha_a_sathivelu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fadhilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fadhilah_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fadhilah_hamzah@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teoh_lai_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teoh_lai_har@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AED (Admin Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Firdaus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:firdaus_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>firdaus_johari@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AED (Admin Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soon_ping_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soon_ping_ping@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### IT Support Staff
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
- overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-axsl{background-color:#FFF;color:#62B7A3;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-p8fl{background-color:#F4EEDC;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-psre{background-color:#F4EEDC;color:#62B7A3;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-xp8p{background-color:#00634C;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-v5y8{background-color:#F4EEDC;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-d3as{background-color:#F4EEDC;color:#62B7A3;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-13ls{background-color:#F4EEDC;color:#282828;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xp8p">Role</th>
-    <th class="tg-xp8p">Name </th>
-    <th class="tg-xp8p">Email</th>
-  </tr>
-</thead>
+<h3>IT Support Staff</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-v5y8">ICT Manager</td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Mdm Kalaivani</span></td>
-    <td class="tg-d3as"><a href="mailto:kalaivani_lakshmanasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">kalaivani_lakshmanasamy@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-hr73">Desktop Engineer</td>
-    <td class="tg-7zkw"><span style="font-weight:normal">Mr Hairee</span></td>
-    <td class="tg-axsl"><a href="mailto:ramanathan.kayalvizhi@ncs.com.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">qushairie.mahmud@ncs.com.sg</span></a>                      </td>
-  </tr>
-  <tr>
-    <td class="tg-13ls"><span style="color:#282828;background-color:#F4EEDC">Desktop Engineer</span></td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Mr Haziq</span></td>
-    <td class="tg-psre"><a href="mailto:qushairie.mahmud@ncs.com.sg"><span style="font-weight:400;text-decoration:underline;color:#62B7A3">haziqm.binmohamad@ncs.com.sg</span></a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kalaivani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalaivani_lakshmanasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kalaivani_lakshmanasamy@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Haziq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:qushairie.mahmud@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haziqm.binmohamad@ncs.com.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Irfan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:irfan.azmi@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">irfan.azmi@ncs.com.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Operation Staff
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-p8fl{background-color:#F4EEDC;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-xp8p{background-color:#00634C;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-13ls{background-color:#F4EEDC;color:#282828;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-chzl{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xp8p">Role</th>
-    <th class="tg-xp8p">Name </th>
-  </tr>
-</thead>
+<h3>Operation Staff</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-13ls"><span style="color:#282828;background-color:#F4EEDC">Operations Support Officer</span></td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Mdm Sim Cheow Eng</span></td>
-  </tr>
-  <tr>
-    <td class="tg-chzl"><span style="color:#282828;background-color:#FFF">Operations Support Officer</span></td>
-    <td class="tg-7zkw"><span style="font-weight:normal">Mr Abdul Nasir Bin Aim</span></td>
-  </tr>
-  <tr>
-    <td class="tg-13ls"><span style="color:#282828;background-color:#F4EEDC">Operations Support Officer</span></td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Mdm Tey Mui Kiang</span></td>
-  </tr>
-  <tr>
-    <td class="tg-chzl"><span style="color:#282828;background-color:#FFF">Operations Support Officer</span></td>
-    <td class="tg-7zkw"><span style="font-weight:normal">Mdm Pauline Thambiraja</span>	</td>
-  </tr>
-  <tr>
-    <td class="tg-13ls"><span style="color:#282828;background-color:#F4EEDC">Operations Support Officer</span></td>
-    <td class="tg-p8fl"><span style="font-weight:normal">Mdm Rajeswari</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sim Cheow Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Nasir Bin Aim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tey Mui Kiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Pauline Thambiraja</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rajeswari</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
