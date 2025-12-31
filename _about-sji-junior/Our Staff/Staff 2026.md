@@ -974,13 +974,13 @@ important is having a positive mindset!"</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Melony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"To instill a love for learning."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_mei_ni_melony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_mei_ni_melony@moe.edu.sg</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -989,13 +989,15 @@ important is having a positive mindset!"</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Joyce Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Discovering the uniqueness of each child and infusing joy into learning
+to foster a lifelong love for education."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="lu_huishu_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_huishu_joyce@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
