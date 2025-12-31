@@ -1260,13 +1260,15 @@ and success."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Noraishah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"A good teacher is one who provides a safe environment for every child
+to learn."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:noraishah_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noraishah_abdul_rahim@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1275,13 +1277,14 @@ and success."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr George Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"To teach with passion and commitment."&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:george_kheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>george_kheng_a@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
