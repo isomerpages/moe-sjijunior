@@ -526,13 +526,15 @@ a gift for us to mould."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Sharon Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"To inspire students to be self-directed learners who strive to be the
+best that they can be."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_suat_ling_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_suat_ling_sharon@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -541,13 +543,14 @@ a gift for us to mould."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Norlizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education is treasure no one can take away from you."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:norlizah_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norlizah_ali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -556,13 +559,15 @@ a gift for us to mould."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Celeste Teong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Learning is a joyful journey,not a destination, and my goal is to support
+and inspire children along the way."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Teong_Li_Min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teong_Li_Min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -571,12 +576,14 @@ a gift for us to mould."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Karen Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Children are likely to live up ti what you believe of them."</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:Chong_YinPhing_Karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chong_YinPhing_Karen@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
