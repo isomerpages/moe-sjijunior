@@ -1320,13 +1320,15 @@ to learn."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Shu Xian</p>
+<p>Ms Meiqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Every child can learn and they learn at different pace."</p>
+<p>"Learning is a continuous journey, not a fixed destination. I believe
+success looks different for every individual, and education should honour
+and support each unique path."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tok_shu_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tok_shu_xian@moe.edu.sg</u></a>
+<p><a href="mailto:soh_mei_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_mei_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1336,102 +1338,18 @@ to learn."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Ying Ying</p>
+<p>Mr Ariel Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Joy in learning comes from curiosity and passion in life."</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yingying@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>4 Patrick (Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Dorothy Phng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"I am not capable of doing big things, but I want to do everything, even
-the smallest things, for the greater glory of God.”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dorothy_phng_chiu_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dorothy_phng_chiu_yun@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Patrick (Co-Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Kee Pin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Once the joy of learning is established, you will be on track for self-discovery
-and success."&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kee_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Tan_Kee_Pin@_moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Patrick (Co-Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Jun Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>“A person who never made a mistake never tried anything new”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Teo_Jun_Jie_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Jun_Jie_D@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Anthony (Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yu Cong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>“Attitude is altitude."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yu_cong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yu_cong@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Anthony (Co-Form)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jeslyn Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>"Learning happens when students make sense of challenges.</p>
-<p>To guide them to explore, question, and grow—even through failure."</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_li_jun_jeslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_jun_jeslyn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 Stephen (Form)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1447,19 +1365,81 @@ and success."&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>4 Patrick (Co-Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ing Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4 Anthony (Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chia Wei Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"All children are capable of learning. Every little thing we do matters
+to them."&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_wei_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chia_wei_yee@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4 Anthony (Co-Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syah Fidzuan bin Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Everyone gets a chance to learn something new each day."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syah_fidzuan_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syah_fidzuan_abdul_rahim@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4 Stephen (Form)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Siong Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Learning something new every single day makes life a little more interesting."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_siong_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_siong_heng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>4 Stephen (Co-Form)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wen Yi, Steven</p>
+<p>Mr Shahril</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Every child deserves a chance to learn regardless of abilities. The most
-important is having a positive mindset!"</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_wen_yi_steven@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_wen_yi_steven@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1468,13 +1448,13 @@ important is having a positive mindset!"</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Philip Muthiah&nbsp;</p>
+<p>Mdm Sabrina Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;"Do not look back. Look ahead."</p>
+<p>"Be not afraid of "learning" slowly, be afraid of standing still. "</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muthiah_philip_j_jeyakumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muthiah_philip_j_jeyakumar@moe.edu.sg</u></a>
+<p><a href="mailto:ong_yin_hsiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_yin_hsiar@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1484,14 +1464,13 @@ important is having a positive mindset!"</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nicole Lim&nbsp;</p>
+<p>Ms Abelin Cheong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Education is not about filling minds with facts, but about sparking curiosity,
-fostering independent thinking, and inspiring a lifelong love for learning.</p>
+<p>"Teaching is more than imparting knowledge, it is inspiring change."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_teo_huey_huey_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_teo_huey_huey_a@moe.edu.sg</a>
+<p><a href="mailto:cheong_guifang_abelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_guifang_abelin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1501,13 +1480,13 @@ fostering independent thinking, and inspiring a lifelong love for learning.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Chee</p>
+<p>Mr April Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Education is all about getting excited to learn"</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chee_zhen_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chee_zhen_cheng@moe.edu.sg</u></a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1516,14 +1495,13 @@ fostering independent thinking, and inspiring a lifelong love for learning.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lauren Yeo</p>
+<p>Mdm Caroline Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"不以规矩 不成方圆."</p>
-<p>"Nothing can be accomplished without norms or standards."</p>
+<p>"Every child is able to learn in his own way and time."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yeo_Tyze_Feng_Lauren@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yeo_Tyze_Feng_Lauren@moe.edu.sg</a>
+<p><a href="mailto:caroline_chan_kum_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>caroline_chan_kum_mei@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
