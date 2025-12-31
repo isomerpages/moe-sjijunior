@@ -965,7 +965,8 @@ important is having a positive mindset!"</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leow_boon_tat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_boon_tat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1187,7 +1188,7 @@ companion."</p>
 <p>learning ability, deserves every opportunity to shine."</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CHENG_CHAI_CHYUAN_A@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
