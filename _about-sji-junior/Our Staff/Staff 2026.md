@@ -1493,7 +1493,8 @@ to them."&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chew_yee_mei_april@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yee_mei_april@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
