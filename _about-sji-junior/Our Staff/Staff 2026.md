@@ -596,7 +596,7 @@ and inspire children along the way."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kim Han IP</p>
+<p>Mrs Koh-Kim Han IP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"There is music in every child and it will help the children say things
