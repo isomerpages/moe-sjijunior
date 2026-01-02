@@ -596,7 +596,7 @@ and inspire children along the way."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kim Han IP</p>
+<p>Mrs Koh-Kim Han IP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"There is music in every child and it will help the children say things
@@ -1380,11 +1380,25 @@ and support each unique path."</p>
 <p>Ms Ing Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Embracing and believing in every child in my class."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oh_ing_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_ing_shan@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1490,10 +1504,11 @@ to them."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms April Chew</p>
+<p>Mdm April Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Train up a child in the way he should go, and when he is old he will
+not depart from it."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_yee_mei_april@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yee_mei_april@moe.edu.sg</a>
