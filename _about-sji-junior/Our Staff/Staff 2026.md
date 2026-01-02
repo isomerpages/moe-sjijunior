@@ -106,10 +106,13 @@ and the child will be ready for challenges ahead."
 <p>Mr Mohamed Fadly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"“I believe every child can learn. Effective teaching begins with understanding
+each student and tailoring instruction to support their individual strengths
+and needs.”</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_fadly_rohmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fadly_rohmat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
