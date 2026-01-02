@@ -1345,10 +1345,11 @@ and support each unique path."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ariel Chew</p>
+<p>Mr Ariel Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Do not fear failure. Not failure, but low aim, is the true crime. In
+great attempts it is glorious even to fail"</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chow_zhixian_ariel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_zhixian_ariel@moe.edu.sg</a>
@@ -2111,5 +2112,4 @@ most."&nbsp;</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
+<p>o</p>
