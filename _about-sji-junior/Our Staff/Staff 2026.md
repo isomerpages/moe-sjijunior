@@ -1504,10 +1504,11 @@ to them."&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms April Chew</p>
+<p>Mdm April Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Train up a child in the way he should go, and when he is old he will
+not depart from it."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_yee_mei_april@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yee_mei_april@moe.edu.sg</a>
