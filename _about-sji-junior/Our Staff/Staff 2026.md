@@ -51,6 +51,22 @@ and the child will be ready for challenges ahead."
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Vidya d/o Premapadmanabhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vidya_premapadmanabhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vidya_premapadmanabhan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong>
 </p>
 </td>
