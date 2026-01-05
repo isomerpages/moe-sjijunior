@@ -1156,9 +1156,12 @@ companion."</p>
 <p>Ms Michelle Lauw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education is a journey of the heart and mind. Every child is valued,
+respected and inspired to grow."</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lauw_sze_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lauw_sze_han@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -1477,7 +1480,7 @@ to them."&nbsp;</p>
 <p>Mr Shahril</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Creativity is intelligence having fun!"</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Shahril_Supangat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shahril_Supangat@moe.edu.sg</a>
