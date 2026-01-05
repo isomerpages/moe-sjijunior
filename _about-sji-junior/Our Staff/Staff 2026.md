@@ -58,7 +58,8 @@ and the child will be ready for challenges ahead."
 <p>Mrs Vidya d/o Premapadmanabhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Nurturing curiosity, confidence, and a passion for lifelong learning
+so students grow not just in knowledge, but in purpose."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vidya_premapadmanabhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vidya_premapadmanabhan@moe.edu.sg</a>
