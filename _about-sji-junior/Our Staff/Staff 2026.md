@@ -51,6 +51,23 @@ and the child will be ready for challenges ahead."
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Vidya d/o Premapadmanabhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Nurturing curiosity, confidence, and a passion for lifelong learning
+so students grow not just in knowledge, but in purpose."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vidya_premapadmanabhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vidya_premapadmanabhan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong>
 </p>
 </td>
@@ -1139,9 +1156,12 @@ companion."</p>
 <p>Ms Michelle Lauw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Education is a journey of the heart and mind. Every child is valued,
+respected and inspired to grow."</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lauw_sze_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lauw_sze_han@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -1345,10 +1365,11 @@ and support each unique path."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ariel Chew</p>
+<p>Mr Ariel Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Do not fear failure. Not failure, but low aim, is the true crime. In
+great attempts it is glorious even to fail"</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chow_zhixian_ariel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_zhixian_ariel@moe.edu.sg</a>
@@ -1459,7 +1480,7 @@ to them."&nbsp;</p>
 <p>Mr Shahril</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Creativity is intelligence having fun!"</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Shahril_Supangat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shahril_Supangat@moe.edu.sg</a>
@@ -2111,5 +2132,4 @@ most."&nbsp;</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
+<p>o</p>
