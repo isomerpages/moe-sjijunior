@@ -982,7 +982,8 @@ important is having a positive mindset!"</p>
 <p>Mr Boon Tat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>"Teaching is not only about transmitting knowledge but also about cultivating
+character and moral development."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leow_boon_tat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_boon_tat@moe.edu.sg</a>
