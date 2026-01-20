@@ -979,7 +979,7 @@ important is having a positive mindset!"</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Boon Tat</p>
+<p>Mr Leow Boon Tat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>"Teaching is not only about transmitting knowledge but also about cultivating
