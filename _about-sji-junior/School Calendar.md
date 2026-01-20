@@ -4,7 +4,4 @@ permalink: /about-sji-junior/school-calendar/
 description: ""
 variant: markdown
 ---
-<div><iframe data-mce-fragment="1" scrolling="no" frameborder="0" height="600" width="800" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=moe.edu.sg_nient3i8q2c6bgphb4jvo8h2c0%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=Asia%2FSingapore"></iframe></div>
-
-
 <div><iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_1448672b78ba777fe4dcd1578cf74e31d5dcc3f573e97e437ebdd7ad9a645a5f%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe></div>
