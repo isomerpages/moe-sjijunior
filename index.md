@@ -18,7 +18,8 @@ sections:
         web-share"></iframe>
       title: Visit us on Facebook!
   - infobar:
-      description: <iframe src="="
+      description: <iframe
+        src="https://www.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=189&wkst=2&bgcolor=%23125A12&src=moe.edu.sg_nient3i8q2c6bgphb4jvo8h2c0%40group.calendar.google.com&color=%23125A12&ctz=Asia%2FSingapore"
         style="border-width:0;background-color:transparent;" width="350"
         height="400" frameborder="0" scrolling="no"></iframe>
 ---
