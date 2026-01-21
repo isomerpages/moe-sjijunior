@@ -18,8 +18,7 @@ sections:
         web-share"></iframe>
       title: Visit us on Facebook!
   - infobar:
-      description: <iframe
-        src="="https://calendar.google.com/calendar/embed?src=c_1448672b78ba777fe4dcd1578cf74e31d5dcc3f573e97e437ebdd7ad9a645a5f%40group.calendar.google.com&ctz=Asia%2FSingapore""
+      description: <iframe src="="
         style="border-width:0;background-color:transparent;" width="350"
         height="400" frameborder="0" scrolling="no"></iframe>
 ---
