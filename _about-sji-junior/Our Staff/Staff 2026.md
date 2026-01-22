@@ -1045,14 +1045,13 @@ experience fun."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Low</p>
+<p>Mrs Eadelin Marzinek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Discovering the uniqueness of each child and infusing joy into learning
-to foster a lifelong love for education."&nbsp;</p>
+<p>"Learning happens when we do, reflect, and have the courage to try,"</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lu_huishu_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_huishu_joyce@moe.edu.sg</a>
+<p><a href="mailto:Toh_ai_di_eadelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_ai_di_eadelin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
