@@ -785,8 +785,9 @@ at every place and situation."</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -809,6 +810,9 @@ at every place and situation."</p>
 <p><strong>Email</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -825,6 +829,9 @@ at every place and situation."</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:raymond_chan_kwai_heen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>raymond_chan_kwai_heen@moe.edu.sg</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -843,6 +850,9 @@ at every place and situation."</p>
 <p>"I want to create an environment for my students to learn by feeling welcomed,
 comfortable and safe"</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -858,6 +868,9 @@ comfortable and safe"</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teong_phey_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teong_phey_fang@moe.edu.sg</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -876,6 +889,9 @@ rate with different methods and strategies. "</p>
 <p><a href="mailto:Nooradelin_Mohamad_Salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nooradelin_Mohamad_Salleh@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -891,6 +907,9 @@ rate with different methods and strategies. "</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ngan_kwan_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ngan_kwan_siang@moe.edu.sg</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -908,6 +927,9 @@ rate with different methods and strategies. "</p>
 <p><a href="mailto:Noor_Mala_Mustaffa_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Noor_Mala_Mustaffa_A@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -922,6 +944,9 @@ rate with different methods and strategies. "</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yogaeswari_ramaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yogaeswari_ramaraj@moe.edu.sg</u></a>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -939,6 +964,9 @@ rate with different methods and strategies. "</p>
 <p><a href="mailto:mahmoodha_safiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahmoodha_safiya@moe.edu.sg</u></a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -954,6 +982,9 @@ rate with different methods and strategies. "</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_lai_ling_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yong_lai_ling_melissa@moe.edu.sg</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -972,6 +1003,9 @@ important is having a positive mindset!"</p>
 <p><a href="mailto:lim_wen_yi_steven@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_wen_yi_steven@moe.edu.sg</u></a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -989,6 +1023,9 @@ character and moral development."</p>
 <p><a href="mailto:leow_boon_tat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_boon_tat@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1003,6 +1040,9 @@ character and moral development."</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_mei_ni_melony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_mei_ni_melony@moe.edu.sg</u></a>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1021,6 +1061,9 @@ to foster a lifelong love for education."&nbsp;</p>
 <p><a href="lu_huishu_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_huishu_joyce@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1038,6 +1081,9 @@ experience fun."</p>
 <p><a href="mailto:melor_mohamed_tahir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melor_mohamed_tahir@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1045,15 +1091,20 @@ experience fun."</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Low</p>
+<p>Mrs Eadelin Marzinek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"Discovering the uniqueness of each child and infusing joy into learning
-to foster a lifelong love for education."&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lu_huishu_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_huishu_joyce@moe.edu.sg</a>
+<p>"I believe learning is an experiential process – it involves doing, feeling,
+reflecting, and discussing. Finally, it requires courage and determination
+to put that knowledge into practice."</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Toh_ai_di_eadelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_ai_di_eadelin@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1072,8 +1123,14 @@ live with purpose."</p>
 <p><a href="mailto:an_ruiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">an_ruiying@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
