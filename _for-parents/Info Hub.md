@@ -33,6 +33,8 @@ variant: markdown
 
 # P5 & P6
 
+[Year Head Sharing](/files/2026_YH_TALK_UPPER_PRIMARY_PARENTS_.pdf)
+
 [English](/files/2026_ENGLISH_UPPER_PRIMARY_PARENTS.pdf)
 
 [Maths](/files/2026_MATHEMATICS_UPPER_PRIMARY_PARENTS.pdf)
