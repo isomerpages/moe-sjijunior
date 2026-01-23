@@ -39,7 +39,7 @@ variant: markdown
 
 [Science Sharing](/files/2026_SCIENCE_UPPER_PRIMARY_PARENTS.pdf)
 
-[Science Responses](/files/2026_SCIENCE_CER_for_RESPONSES_to_STRUCTURED_QUESTIONS_PARENTS.pdf)
+[Science CER Responses](/files/2026_SCIENCE_CER_for_RESPONSES_to_STRUCTURED_QUESTIONS_PARENTS.pdf)
 
 [Mother Tongue](/files/2026_MTL_UPPER_PRIMARY_PARENTS.pdf)
 
