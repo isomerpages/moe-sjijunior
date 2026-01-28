@@ -22,17 +22,19 @@ variant: tiptap
 <h1>P4</h1>
 <p>-</p>
 <h1>P5 &amp; P6</h1>
-<p><a href="/files/2026_YH_TALK_UPPER_PRIMARY_PARENTS_.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head Sharing</a>
+<p><a href="/files/2026_YH_TALK_UPPER_PRIMARY_PARENTS_.pdf" rel="noopener nofollow" target="_blank">Year Head Sharing</a>
 </p>
-<p><a href="/files/2026_ENGLISH_UPPER_PRIMARY_PARENTS.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+<p><a href="/files/2026_ENGLISH_UPPER_PRIMARY_PARENTS.pdf" rel="noopener nofollow" target="_blank">English Sharing</a>
 </p>
-<p><a href="/files/2026_MATHEMATICS_UPPER_PRIMARY_PARENTS.pdf" rel="noopener noreferrer nofollow" target="_blank">Maths</a>
+<p><a href="/files/2026_MATHEMATICS_UPPER_PRIMARY_PARENTS.pdf" rel="noopener nofollow" target="_blank">Maths Sharing</a>
 </p>
-<p><a href="/files/2026_SCIENCE_UPPER_PRIMARY_PARENTS.pdf" rel="noopener noreferrer nofollow" target="_blank">Science Sharing</a>
+<p><a href="/files/2026_SCIENCE_UPPER_PRIMARY_PARENTS.pdf" rel="noopener nofollow" target="_blank">Science Sharing</a>
 </p>
-<p><a href="/files/2026_SCIENCE_CER_for_RESPONSES_to_STRUCTURED_QUESTIONS_PARENTS.pdf" rel="noopener noreferrer nofollow" target="_blank">Science CER Responses</a>
+<p><a href="/files/2026_SCIENCE_CER_for_RESPONSES_to_STRUCTURED_QUESTIONS_PARENTS.pdf" rel="noopener nofollow" target="_blank">Science CER Responses</a>
 </p>
-<p><a href="/files/2026_MTL_UPPER_PRIMARY_PARENTS.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue</a>
+<p><a href="/files/2026_MTL_UPPER_PRIMARY_PARENTS.pdf" rel="noopener nofollow" target="_blank">Mother Tongue Sharing</a>
 </p>
-<p><a href="/files/P5___6_Info_Day_Q___A.pdf" rel="noopener noreferrer nofollow" target="_blank">Q &amp; A</a>
+<p><a href="/files/P5___6_Info_Day_Q___A.pdf" rel="noopener nofollow" target="_blank">Q &amp; A</a>
 </p>
+<p></p>
+<p></p>
