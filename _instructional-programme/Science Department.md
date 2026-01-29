@@ -28,9 +28,9 @@ Our mission is to prepare students to learn how to learn and learn how to live b
 
 ·         P3 Learning Journey to Singapore Botanic Gardens
 
-·         P4 Hydropronics Programme
+·         P4 Hydroponics Programme
 
-·         P5 Design Thinking Project Work
+·         P5 Learning Journey to Science Centre
 
 ·         P6 Compost Programme
 
