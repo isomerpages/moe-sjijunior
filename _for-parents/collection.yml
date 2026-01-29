@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - MTL SOAR.md
       - Primary 1, 2026.md
       - School Rules.md
       - Admission.md
       - School Annual.md
       - Info Hub.md
+      - MTL SOAR.md
       - Book List 2026.md
       - Parent Handbook.md
       - IT Support.md
