@@ -4,44 +4,58 @@ permalink: /pta/members/
 description: ""
 variant: markdown
 ---
-<h4><strong>55th&nbsp;SJIJ PTA Management Committee (2024 – 2025)</strong></h4>
+<h4><strong>PTA Committee 2025/2026</strong></h4>
 
-Mr. Lawrence De Silva (President)
+    
 
-Mr. Eric Leong (Vice President/Principal)
+President -&nbsp; Mr Lawrence De Silva
 
-Ms. Faith Yak (Vice President/Vice Principal)
+Vice President – Ms Koh Feng Hui Paige
 
-Mr. Collin Lim (Vice President/Vice Principal)
+Vice President – Mr Eric Leong
 
-Ms. Joey Ong (Vice President)
+Vice President – Ms Faith Yak
 
-Mr. Anthony Monteiro (Honorary Secretary/Staff)
+Vice President – Ms Sng Wan Xian
 
-Ms. Chua Siqin Jasline (Asst Hon Secretary)
+Vice President – Mr Collin Lim
 
-Ms. Maybeline Goh (Hon Treasurer)
+Honorary Treasurer – Mr Lim Seng Chong Terence
 
-Ms. Irene Lee (Asst Hon Treasurer/Staff)
+Assistant Honorary Secretary – Ms Shelly Harding
 
-Ms. Paige Koh (Hon Auditor)
+Honorary Auditor – Mr Adrian Kwan
 
-Mr. Terence Lim (Hon Auditor)
+Honorary Auditor – Mr Keith Pang Qing Quan
 
-Mr. Bernard Menon (Member)
+Committee Member – Ms Seah Wan Peng Gilda
 
-Ms. Gilda Seah (Member)
+Committee Member – Mr Emmanuel Lim Yu Chong
 
-Ms. Chrishirl&nbsp;Campos (Member)
+Committee Member – Mr Ng Xiang You Jonathan
 
-Mr. Shelly Harding (Member)
+Committee Member – Mr Wong Dragg
 
-Mr. Victor Foo (Member)
+Committee Member – Mr Antonio Benedict
 
-Dr. Jason Loh (Member)
+Committee Member – Mr Toh Yew Kiat
 
-Ms. Dorothy Phng (Member/Staff)  
+Committee Member – Mdm Chua Siqin Jasline
 
-Ms. Shannon Tan (Member/Staff)
+Committee Member – Ms Joey Ong
 
-Mr. Mohamed Fazrin (Member/Staff)
+Committee Member – Mr Bernard Menon
+
+Committee Member – Ms Joan Oh Su Lin
+
+Teacher Team:
+
+Honorary Secretary – Mr Jason Chee
+
+Assistant Honorary Treasurer – Ms Irene Lee
+
+Committee Member – Ms Dorothy Phng
+
+Committee Member – Ms Shannon Tan
+
+Committee Member – Mr Mohamed Fazrin
