@@ -3,6 +3,10 @@ title: St Michael’s School Alumni Association (a heritage of SJI Junior)
 permalink: /alumni/alumni/
 description: ""
 third_nav_title: Alumni
-variant: markdown
+variant: tiptap
 ---
-![](/images/SMS__SJIJ__70th_Anniversary_Platinum_Homecoming_Dinner__Friday_22_November_2024_1.jpg)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shroud of Turin" src="/images/Shroud_of_Turin.jpg">
+</div>
+<p></p>
