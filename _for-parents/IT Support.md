@@ -71,4 +71,6 @@ Mondays - Fridays: 4:00 pm - 9:00 pm
 
 Saturdays: 9:00 am - 9:00 pm
 
+For any other queries, please write in to ict_helpdesk@sjijunior.edu.sg
+
 \*Closed on Sundays & Public Holidays
