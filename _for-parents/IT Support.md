@@ -9,15 +9,22 @@ Please use the relevant links to make your request. Please give 3 working days f
 
   
 [Apple Id and Password Request  
-](https://forms.gle/jAbPxj67ELytT9ke6)[Google Account/Classkick Id and Password Request  
-](https://forms.gle/mW4KW9L23UT5WHKt9)[SlS Account Id and Password Request](https://forms.gle/yryBsPWcBrF3NqV66)
+](https://forms.gle/jAbPxj67ELytT9ke6)
+[Google Account/Classkick Id and Password Request  
+](https://forms.gle/mW4KW9L23UT5WHKt9)
+[SlS Account Id and Password Request](https://forms.gle/yryBsPWcBrF3NqV66)
 
 ## SLS 
 
 
 School Operating Hours
 
-During school operating hours, students should contact the [ict\_helpdesk@sjijunior.edu.sg](mailto:ict_helpdesk@sjijunior.edu.sg) for SLS queries including all SLS access matters such as password reset and unlocking of accounts. Students can Class dojo the teachers on password rest and as well as queries about lesson assignment.
+During school operating hours, students/parent should contact the the teacher through Class Dojo for SLS queries including all SLS access matters such as password reset and unlocking of accounts. 
+
+Home Based Learning Day
+---
+
+You can submit the forms for assistant
 
 Mondays - Fridays: 8:00 am - 4:00 pm
 
