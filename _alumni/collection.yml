@@ -2,7 +2,8 @@ collections:
   alumni:
     output: true
     order:
-      - Alumni/Alumni.md
+      - Alumni/St Michael’s School Alumni Association (a heritage of SJI
+        Junior).md
       - Alumni/Phase 2A.md
       - Alumni/.keep
       - Constitution.md
