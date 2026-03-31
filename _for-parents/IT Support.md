@@ -26,12 +26,12 @@ If support is needed specifically on HBL days, please submit your request throug
 *   **Request Method:** 
 Please use the **relevant links** provided on our portal to make your request.
 
-[Apple Id and Password Request  
-](https://forms.gle/jAbPxj67ELytT9ke6)
+[SlS Account Id and Password Request](https://forms.gle/yryBsPWcBrF3NqV66)
+
+[MIMS ID or Password Reset](https://docs.google.com/forms/d/e/1FAIpQLScwfeV7wRUvy_Cpc_3aNjFxdeHaKPwl0WNOQB5FV9COjKuEeg/viewform?usp=publish-editor)
 
 [Google Account/Classkick Id and Password Request  ](https://forms.gle/mW4KW9L23UT5WHKt9)
 
-[SlS Account Id and Password Request](https://forms.gle/yryBsPWcBrF3NqV66)
     
 *   **Processing Time:** Please allow up to **3 working days** for our team to process and reply to your request.
 
@@ -70,4 +70,3 @@ Mondays - Fridays: 4:00 pm - 9:00 pm
 Saturdays: 9:00 am - 9:00 pm
 
 \*Closed on Sundays & Public Holidays
-
