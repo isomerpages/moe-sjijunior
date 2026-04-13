@@ -4,4 +4,4 @@ permalink: /about-sji-junior/schcouncil/
 description: ""
 variant: markdown
 ---
-[School Council](/files/School_Council_2025.pdf)
+[School Council 2025](/files/School_Council_2025__a.pdf)
